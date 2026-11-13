@@ -1,0 +1,1302 @@
+[
+  {
+    "year": 2020,
+    "id": 1,
+    "question": "A shift to the right of the market demand curve for garri, holding supply constant, will lead to",
+    "options": {
+      "A": "a decrease in both equilibrium price and quantity",
+      "B": "an increase in both equilibrium price and quantity",
+      "C": "an increase in equilibrium price and a decrease in quantity",
+      "D": "a decrease in equilibrium price and an increase in quantity"
+    },
+    "answer": "B",
+    "explanation": "An outward (rightward) shift in the demand curve with supply remaining constant creates excess demand at the initial price, which drives up both the equilibrium price and equilibrium quantity."
+  },
+  {
+    "year": 2020,
+    "id": 2,
+    "question": "The law of diminishing marginal utility states that as consumption of a commodity increases,",
+    "options": {
+      "A": "total utility decreases continuously",
+      "B": "marginal utility increases at an increasing rate",
+      "C": "the additional satisfaction derived from consuming each additional unit decreases",
+      "D": "consumers spend less money on subsequent units"
+    },
+    "answer": "C",
+    "explanation": "The law of diminishing marginal utility posits that as an individual consumes more units of a specific good within a given period, the extra satisfaction (marginal utility) derived from each additional unit declines."
+  },
+  {
+    "year": 2020,
+    "id": 3,
+    "question": "If a 10% increase in the price of petrol leads to a 2% decrease in quantity demanded, the price elasticity of demand is",
+    "options": {
+      "A": "0.2 and demand is inelastic",
+      "B": "5.0 and demand is elastic",
+      "C": "0.2 and demand is elastic",
+      "D": "1.0 and demand is unitary elastic"
+    },
+    "answer": "A",
+    "explanation": "Price elasticity of demand is calculated as % change in quantity demanded divided by % change in price (-2% / 10% = -0.2, or absolute value 0.2). Since the value is less than 1, demand is price inelastic."
+  },
+  {
+    "year": 2020,
+    "id": 4,
+    "question": "A major defining characteristic of a monopolistically competitive market is",
+    "options": {
+      "A": "homogeneous products with no branding",
+      "B": "product differentiation through branding and packaging",
+      "C": "impenetrable barriers preventing new firms from entering the industry",
+      "D": "price determination dictated solely by government statutory decree"
+    },
+    "answer": "B",
+    "explanation": "Monopolistic competition features many sellers offering differentiated products that are close substitutes, distinguished through branding, quality, packaging, and advertising."
+  },
+  {
+    "year": 2020,
+    "id": 5,
+    "question": "Gross Domestic Product (GDP) differs from Gross National Product (GNP) by the inclusion or exclusion of",
+    "options": {
+      "A": "transfer payments",
+      "B": "depreciation of capital assets",
+      "C": "net factor income from abroad",
+      "D": "indirect business taxes"
+    },
+    "answer": "C",
+    "explanation": "GNP equals GDP plus Net Factor Income from Abroad (NFIA). GDP measures output produced within a nation's geographical borders, whereas GNP measures output produced by permanent citizens of a nation regardless of location."
+  },
+  {
+    "year": 2020,
+    "id": 6,
+    "question": "Demand-pull inflation in Nigeria is primarily caused by",
+    "options": {
+      "A": "an increase in the cost of imported industrial raw materials",
+      "B": "persistent increases in mandatory trade union minimum wages",
+      "C": "aggregate demand exceeding aggregate supply in an economy near full capacity",
+      "D": "an increase in the standard Value Added Tax rate"
+    },
+    "answer": "C",
+    "explanation": "Demand-pull inflation occurs when aggregate spending for goods and services outpaces an economy's productive capacity ('too much money chasing too few goods'), bidding price levels upward."
+  },
+  {
+    "year": 2020,
+    "id": 7,
+    "question": "A university graduate in Lagos who voluntarily resigns from commercial banking to search for a better-paying job in telecommunications is experiencing",
+    "options": {
+      "A": "structural unemployment",
+      "B": "frictional unemployment",
+      "C": "cyclical unemployment",
+      "D": "disguised unemployment"
+    },
+    "answer": "B",
+    "explanation": "Frictional unemployment represents transitional unemployment when qualified workers are temporarily between jobs or actively seeking more suitable employment opportunities."
+  },
+  {
+    "year": 2020,
+    "id": 8,
+    "question": "A tax system where high-income earners pay a smaller percentage of their total income than low-income earners is termed",
+    "options": {
+      "A": "progressive tax",
+      "B": "proportional tax",
+      "C": "regressive tax",
+      "D": "ad valorem tax"
+    },
+    "answer": "C",
+    "explanation": "A regressive tax takes a larger percentage of income from low-income earners than from high-income earners, because the effective tax burden diminishes as income rises."
+  },
+  {
+    "year": 2020,
+    "id": 9,
+    "question": "A government budget deficit occurs when",
+    "options": {
+      "A": "total public revenue exceeds total public expenditure",
+      "B": "capital expenditure equals recurrent expenditure",
+      "C": "total government expenditure exceeds total government revenue within a fiscal year",
+      "D": "external debt equals internal public debt"
+    },
+    "answer": "C",
+    "explanation": "A budget deficit arises when government spending outstrips total fiscal revenue generated over a given financial year, requiring borrowing or debt creation to finance the gap."
+  },
+  {
+    "year": 2020,
+    "id": 10,
+    "question": "The Federation Account Allocation Committee (FAAC) in Nigeria is primarily responsible for",
+    "options": {
+      "A": "setting the national minimum wage across all 36 states",
+      "B": "sharing federally collected revenues among federal, state, and local governments",
+      "C": "printing legal tender currency and controlling national foreign exchange reserves",
+      "D": "evaluating and approving private corporate bond issuances"
+    },
+    "answer": "B",
+    "explanation": "FAAC is the statutory body tasked with reviewing and sharing federally collected revenues (petroleum proceeds, company taxes, customs duties) among the three tiers of government based on Nigeria's revenue allocation formula."
+  },
+  {
+    "year": 2020,
+    "id": 11,
+    "question": "The Balance of Payments (BOP) is divided into which three main accounts?",
+    "options": {
+      "A": "Current account, capital account, and financial account",
+      "B": "Fiscal account, monetary account, and trade account",
+      "C": "Revenue account, expenditure account, and reserves account",
+      "D": "Visible trade account, invisible trade account, and debt account"
+    },
+    "answer": "A",
+    "explanation": "Under standard macroeconomic accounting, the balance of payments records all economic transactions between residents of a country and the rest of the world across the Current Account, Capital Account, and Financial Account."
+  },
+  {
+    "year": 2020,
+    "id": 12,
+    "question": "A devaluation of the Nigerian Naira by the Central Bank of Nigeria makes",
+    "options": {
+      "A": "Nigerian exports cheaper to foreigners and imports more expensive to Nigerians",
+      "B": "both imports and exports more expensive in domestic currency terms",
+      "C": "Nigerian exports more expensive to foreigners and imports cheaper to Nigerians",
+      "D": "the domestic general price level immediately fall"
+    },
+    "answer": "A",
+    "explanation": "Currency devaluation lowers the foreign currency price of domestic export goods (making them more competitive abroad) and raises the domestic currency price of foreign imports (making imports more expensive)."
+  },
+  {
+    "year": 2020,
+    "id": 13,
+    "question": "An ad valorem tariff is levied as",
+    "options": {
+      "A": "a fixed monetary charge per physical unit of the imported good",
+      "B": "a specified percentage of the monetary value or price of the imported good",
+      "C": "a complete legal prohibition on the importation of a designated product",
+      "D": "a physical quota on the tonnage of goods entering domestic seaports"
+    },
+    "answer": "B",
+    "explanation": "An ad valorem tariff is assessed as a fixed percentage of the invoice value of the imported merchandise, unlike a specific tariff which charges a constant amount per physical unit."
+  },
+  {
+    "year": 2020,
+    "id": 14,
+    "question": "The primary objective of Nigeria's Structural Adjustment Programme (SAP) introduced in 1986 was to",
+    "options": {
+      "A": "nationalize foreign-owned oil and banking conglomerates",
+      "B": "fix domestic market prices and increase government subsidies on staple foods",
+      "C": "restructure and diversify the productive base of the economy and achieve balance of payments viability",
+      "D": "abolish private commercial banking institutions"
+    },
+    "answer": "C",
+    "explanation": "SAP was introduced in Nigeria in July 1986 to curb over-dependence on the petroleum sector, promote non-oil exports, reduce government deficit spending, and liberalize exchange and trade controls."
+  },
+  {
+    "year": 2020,
+    "id": 15,
+    "question": "The Malthusian population theory postulates that population grows",
+    "options": {
+      "A": "arithmetically while food production grows geometrically",
+      "B": "geometrically while food production grows arithmetically",
+      "C": "at the same rate as technological innovation",
+      "D": "in direct proportion to capital accumulation"
+    },
+    "answer": "B",
+    "explanation": "Thomas Malthus argued that human population tends to expand geometrically (1, 2, 4, 8, 16...), whereas food production increases only arithmetically (1, 2, 3, 4, 5...), eventually triggering subsistence crises."
+  },
+  {
+    "year": 2020,
+    "id": 16,
+    "question": "Subsistence agriculture in West Africa is largely characterized by",
+    "options": {
+      "A": "high capital intensity and extensive use of computerized irrigation systems",
+      "B": "large-scale production of cash crops strictly for European export markets",
+      "C": "small, fragmented land holdings and primary reliance on family labor",
+      "D": "heavy dependence on mechanized combine harvesters"
+    },
+    "answer": "C",
+    "explanation": "Subsistence farming in West Africa is typically practiced on small, fragmented plots of land using traditional hand tools (hoes, cutlasses) and family labor, producing mainly for household consumption."
+  },
+  {
+    "year": 2020,
+    "id": 17,
+    "question": "When money is used to state prices and maintain financial accounting records, it performs the function of a",
+    "options": {
+      "A": "medium of exchange",
+      "B": "unit of account",
+      "C": "store of value",
+      "D": "standard for deferred payments"
+    },
+    "answer": "B",
+    "explanation": "As a unit of account (or measure of value), money provides a standard numerical monetary unit in which prices of goods and services, debts, and accounting records are expressed."
+  },
+  {
+    "year": 2020,
+    "id": 18,
+    "question": "Commercial banks create credit by",
+    "options": {
+      "A": "printing legal tender paper banknotes",
+      "B": "lending out a portion of their customer demand deposits while maintaining a required cash reserve",
+      "C": "issuing government treasury bills to foreign investors",
+      "D": "minting commodity coins for open market operations"
+    },
+    "answer": "B",
+    "explanation": "Under fractional reserve banking, commercial banks keep a fraction of cash deposits as legal reserves and advance the remainder as loans, thereby expanding total bank deposits and credit in the economy."
+  },
+  {
+    "year": 2020,
+    "id": 19,
+    "question": "The minimum percentage of total customer deposits that commercial banks must keep with the Central Bank of Nigeria is known as the",
+    "options": {
+      "A": "Liquidity Ratio",
+      "B": "Cash Reserve Ratio (CRR)",
+      "C": "Monetary Policy Rate (MPR)",
+      "D": "Capital Adequacy Ratio"
+    },
+    "answer": "B",
+    "explanation": "The Cash Reserve Ratio (CRR) is the mandatory percentage of total customer deposit liabilities that commercial banks must maintain interest-free with the Central Bank of Nigeria."
+  },
+  {
+    "year": 2020,
+    "id": 20,
+    "question": "The primary difference between the money market and the capital market is that the money market deals in",
+    "options": {
+      "A": "short-term debt instruments, while the capital market deals in long-term funds",
+      "B": "physical foreign currencies, while the capital market deals in precious metals",
+      "C": "long-term corporate bonds, while the capital market deals in overnight interbank loans",
+      "D": "consumer installment credit, while the capital market deals only in agricultural subsidies"
+    },
+    "answer": "A",
+    "explanation": "The money market facilitates borrowing and lending of short-term debt instruments (maturities under one year, such as Treasury bills), whereas the capital market mobilizes medium- and long-term capital (shares, debentures, bonds)."
+  },
+  {
+    "year": 2021,
+    "id": 21,
+    "question": "When the price of Milo increases and consumers immediately purchase more Bournvita, the cross-price elasticity of demand between Milo and Bournvita is",
+    "options": {
+      "A": "negative, indicating complementary goods",
+      "B": "positive, indicating substitute goods",
+      "C": "zero, indicating unrelated goods",
+      "D": "infinite, indicating Giffen goods"
+    },
+    "answer": "B",
+    "explanation": "Cross-price elasticity of demand is positive for substitute goods because an increase in the price of one commodity causes consumers to switch demand to the alternative commodity."
+  },
+  {
+    "year": 2021,
+    "id": 22,
+    "question": "In the short run, the law of diminishing returns begins to operate when",
+    "options": {
+      "A": "total product reaches its absolute maximum",
+      "B": "marginal product begins to decline",
+      "C": "average product falls to zero",
+      "D": "total fixed cost starts to decline"
+    },
+    "answer": "B",
+    "explanation": "Diminishing returns set in at the point where the marginal product of the variable input starts to diminish as successive units of that input are applied to fixed factors of production."
+  },
+  {
+    "year": 2021,
+    "id": 23,
+    "question": "Under perfect competition, a firm maximizes short-run profit at the output level where",
+    "options": {
+      "A": "Price = Total Revenue",
+      "B": "Marginal Revenue = Marginal Cost, with Marginal Cost rising",
+      "C": "Average Variable Cost is at its highest point",
+      "D": "Average Total Cost is less than Marginal Revenue"
+    },
+    "answer": "B",
+    "explanation": "The profit-maximizing rule for all competitive firms is MR = MC, provided that MC cuts MR from below (MC is rising) and price covers average variable cost."
+  },
+  {
+    "year": 2021,
+    "id": 24,
+    "question": "A government-imposed maximum price (price ceiling) set below the market equilibrium price for rice will lead to",
+    "options": {
+      "A": "an excess supply (surplus) of rice in the market",
+      "B": "an excess demand (shortage) and potential black market activities",
+      "C": "an immediate increase in rice farmers' profit margins",
+      "D": "a rightward shift in the market supply curve"
+    },
+    "answer": "B",
+    "explanation": "A price ceiling below equilibrium makes the good artificially cheap, stimulating quantity demanded while depressing quantity supplied, creating shortages, queues, and parallel black markets."
+  },
+  {
+    "year": 2021,
+    "id": 25,
+    "question": "The circular flow of income in a simple closed economy without government intervention consists of exchanges between",
+    "options": {
+      "A": "commercial banks and foreign importers",
+      "B": "households and firms",
+      "C": "labor unions and state enterprises",
+      "D": "exporters and the central bank"
+    },
+    "answer": "B",
+    "explanation": "In a two-sector closed economy, economic resources and payments flow continuously between households (who supply factor services and consume final goods) and business firms (who hire factors and produce output)."
+  },
+  {
+    "year": 2021,
+    "id": 26,
+    "question": "To curb rising demand-pull inflation, the Central Bank of Nigeria would typically",
+    "options": {
+      "A": "lower the Monetary Policy Rate (MPR)",
+      "B": "decrease the Cash Reserve Ratio (CRR)",
+      "C": "sell Treasury bills through Open Market Operations (OMO)",
+      "D": "print additional banknotes for government spending"
+    },
+    "answer": "C",
+    "explanation": "Selling Treasury bills via OMO absorbs excess cash reserves from commercial banks and the public, reducing the overall money supply and dampening inflationary pressure."
+  },
+  {
+    "year": 2021,
+    "id": 27,
+    "question": "Economic growth is best defined as",
+    "options": {
+      "A": "a short-term reduction in the general price level",
+      "B": "a sustained long-term increase in a country's real Gross Domestic Product",
+      "C": "an equal distribution of national income across all citizens",
+      "D": "an increase in government borrowing from international lenders"
+    },
+    "answer": "B",
+    "explanation": "Economic growth refers to the continuous expansion of an economy's productive capacity, evidenced by a sustained rise in real national output (real GDP) over time."
+  },
+  {
+    "year": 2021,
+    "id": 28,
+    "question": "External public debt refers to loans owed by the sovereign government to",
+    "options": {
+      "A": "domestic commercial banks and local contractors",
+      "B": "foreign creditors, international financial institutions, and foreign governments",
+      "C": "state governments within the federation",
+      "D": "the Central Bank through Ways and Means advances"
+    },
+    "answer": "B",
+    "explanation": "External debt consists of financial obligations owed by the federal or state governments to non-resident entities abroad, including bilateral lenders, multilateral bodies (World Bank, AfDB), and Eurobond investors."
+  },
+  {
+    "year": 2021,
+    "id": 29,
+    "question": "Value Added Tax (VAT) in Nigeria is classified as a",
+    "options": {
+      "A": "direct tax on personal net assets",
+      "B": "broad-based indirect tax levied on consumption of goods and services",
+      "C": "progressive direct tax on corporate profits",
+      "D": "poll tax collected from rural farmers"
+    },
+    "answer": "B",
+    "explanation": "VAT is a multi-stage consumption tax levied on the value added at each transaction stage in the supply chain, paid by businesses but ultimately shifted to the final consumer."
+  },
+  {
+    "year": 2021,
+    "id": 30,
+    "question": "Contractionary fiscal policy involves",
+    "options": {
+      "A": "increasing government spending and reducing tax rates",
+      "B": "reducing government spending and/or increasing tax rates",
+      "C": "decreasing benchmark interest rates to stimulate business investment",
+      "D": "increasing import tariffs to finance consumer fuel subsidies"
+    },
+    "answer": "B",
+    "explanation": "Contractionary fiscal policy is deployed to restrain aggregate demand and curb inflation by reducing public expenditure, raising taxation, or a combination of both."
+  },
+  {
+    "year": 2021,
+    "id": 31,
+    "question": "A country's terms of trade are said to be favorable when",
+    "options": {
+      "A": "the physical volume of exports exceeds the volume of imports",
+      "B": "the index of export prices rises relative to the index of import prices",
+      "C": "foreign exchange reserves equal total national debt",
+      "D": "the country adopts a floating exchange rate system"
+    },
+    "answer": "B",
+    "explanation": "Terms of Trade (TOT) = (Export Price Index / Import Price Index) * 100. Favorable terms of trade occur when export prices rise faster than import prices, allowing a given volume of exports to purchase more imports."
+  },
+  {
+    "year": 2021,
+    "id": 32,
+    "question": "A Free Trade Area differs from a Customs Union because member states of a Customs Union",
+    "options": {
+      "A": "allow free movement of labor and capital only",
+      "B": "adopt a common external tariff against non-member countries",
+      "C": "use a single supranational currency",
+      "D": "harmonize their domestic fiscal and tax legislation completely"
+    },
+    "answer": "B",
+    "explanation": "While both arrangements eliminate tariffs on trade between members, a Customs Union goes a step further by establishing a Common External Tariff (CET) applied to all goods imported from non-member nations."
+  },
+  {
+    "year": 2021,
+    "id": 33,
+    "question": "An import quota is an instrument of trade policy that",
+    "options": {
+      "A": "imposes a progressive tax on all imported luxury commodities",
+      "B": "restricts the physical quantity or value of a commodity that may be imported during a given period",
+      "C": "subsidizes domestic manufacturing firms competing with foreign imports",
+      "D": "mandates foreign sellers to register their patents locally"
+    },
+    "answer": "B",
+    "explanation": "An import quota is a non-tariff trade barrier that places a direct quantitative limitation on the volume or value of specific foreign products allowed into a country within a designated time."
+  },
+  {
+    "year": 2021,
+    "id": 34,
+    "question": "Investment in human capital primarily involves expenditures on",
+    "options": {
+      "A": "purchasing modern industrial machinery and transport vehicles",
+      "B": "education, vocational skill acquisition, and healthcare services",
+      "C": "establishing offshore foreign reserve accounts",
+      "D": "subsidizing commercial real estate developments"
+    },
+    "answer": "B",
+    "explanation": "Human capital refers to the productive skills, knowledge, and health embodied in the workforce. Investments in education, training, and healthcare directly enhance worker productivity and economic output."
+  },
+  {
+    "year": 2021,
+    "id": 35,
+    "question": "The import-substitution industrialization (ISI) strategy adopted by Nigeria in the 1970s aimed to",
+    "options": {
+      "A": "replace imported manufactured consumer goods with locally produced goods",
+      "B": "eliminate domestic factories in favor of agricultural production",
+      "C": "export crude petroleum exclusively to neighboring African countries",
+      "D": "abolish import duties on all foreign consumer items"
+    },
+    "answer": "A",
+    "explanation": "Import-substitution industrialization sought to build domestic manufacturing capacity by producing consumer goods locally to substitute for foreign imports, shielded behind protective tariff walls."
+  },
+  {
+    "year": 2021,
+    "id": 36,
+    "question": "The dependency ratio in a developing nation like Nigeria is typically high because",
+    "options": {
+      "A": "the proportion of children and the elderly is large relative to the working-age population",
+      "B": "the majority of citizens are employed in the civil service",
+      "C": "emigration of skilled professionals is strictly prohibited",
+      "D": "life expectancy exceeds that of developed nations"
+    },
+    "answer": "A",
+    "explanation": "High fertility rates in Nigeria result in a youth-bulge pyramid where dependents (persons aged 0-14 and 65+) outnumber or place a heavy financial dependency burden on the active working-age population (ages 15-64)."
+  },
+  {
+    "year": 2021,
+    "id": 37,
+    "question": "In economics, narrow money (M1) consists of",
+    "options": {
+      "A": "currency in circulation outside banks plus demand deposits (checking accounts)",
+      "B": "savings deposits plus long-term government bonds",
+      "C": "foreign currency deposits plus commercial papers",
+      "D": "gold bullion holdings of the central bank"
+    },
+    "answer": "A",
+    "explanation": "Narrow money (M1) is the most liquid definition of the money supply, comprising physical currency (notes and coins) held outside the banking system plus demand deposits withdrawable by check or instant transfer."
+  },
+  {
+    "year": 2021,
+    "id": 38,
+    "question": "The severe hyperinflation experienced in some developing economies primarily destroys money's function as a",
+    "options": {
+      "A": "medium of exchange only",
+      "B": "store of value",
+      "C": "factor of production",
+      "D": "legal tender for paying domestic fines"
+    },
+    "answer": "B",
+    "explanation": "Hyperinflation causes purchasing power to plunge rapidly, destroying money's role as a store of value because wealth held in currency loses substantial purchasing power within hours or days."
+  },
+  {
+    "year": 2021,
+    "id": 39,
+    "question": "The Nigerian Deposit Insurance Corporation (NDIC) was established primarily to",
+    "options": {
+      "A": "print paper currency for the Central Bank of Nigeria",
+      "B": "protect depositors against loss of insured deposits in the event of bank failure",
+      "C": "lend money directly to smallholder farmers at zero interest",
+      "D": "regulate the Nigerian Stock Exchange and stockbroker activities"
+    },
+    "answer": "B",
+    "explanation": "NDIC insures deposit liabilities of licensed banks, providing financial safety nets to protect depositors and maintain systemic public confidence in the Nigerian financial sector."
+  },
+  {
+    "year": 2021,
+    "id": 40,
+    "question": "Which of the following is considered a qualitative (selective) credit control tool used by a central bank?",
+    "options": {
+      "A": "Open Market Operations",
+      "B": "Bank Rate / Policy Rate",
+      "C": "Moral Suasion",
+      "D": "Cash Reserve Requirement"
+    },
+    "answer": "C",
+    "explanation": "Quantitative instruments (OMO, CRR, MPR) regulate the overall volume of credit, while qualitative tools (moral suasion, selective credit ceilings, margin requirements) channel credit toward preferred socioeconomic sectors."
+  },
+  {
+    "year": 2022,
+    "id": 41,
+    "question": "An indifference curve illustrates",
+    "options": {
+      "A": "different combinations of two commodities that yield the same level of total satisfaction to a consumer",
+      "B": "the relationship between price and quantity supplied of a luxury good",
+      "C": "various combinations of two inputs that produce the same level of output",
+      "D": "the amount of money spent on different food items across income classes"
+    },
+    "answer": "A",
+    "explanation": "An indifference curve represents all bundles of two goods that give a consumer identical total utility or satisfaction, leaving the consumer indifferent between any combinations along the curve."
+  },
+  {
+    "year": 2022,
+    "id": 42,
+    "question": "When the price of a good increases from ₦100 to ₦120, and the quantity supplied rises from 500 units to 650 units, the price elasticity of supply is",
+    "options": {
+      "A": "0.5",
+      "B": "1.0",
+      "C": "1.5",
+      "D": "2.5"
+    },
+    "answer": "C",
+    "explanation": "% change in Qs = (650 - 500) / 500 = 150/500 = 30%. % change in P = (120 - 100) / 100 = 20/100 = 20%. Elasticity of supply = 30% / 20% = 1.5 (elastic supply)."
+  },
+  {
+    "year": 2022,
+    "id": 43,
+    "question": "Marginal Cost (MC) is best defined as the",
+    "options": {
+      "A": "total cost divided by the total number of units produced",
+      "B": "change in total cost resulting from producing one additional unit of output",
+      "C": "cost of raw materials that remains constant regardless of output",
+      "D": "total expenditure incurred on fixed capital equipment"
+    },
+    "answer": "B",
+    "explanation": "Marginal cost is the incremental addition to total cost that arises when output is expanded by one additional unit (MC = ΔTC / ΔQ)."
+  },
+  {
+    "year": 2022,
+    "id": 44,
+    "question": "A market situation characterized by only a few large dominant sellers who are mutually interdependent in decision-making is called",
+    "options": {
+      "A": "Monopoly",
+      "B": "Oligopoly",
+      "C": "Monopsony",
+      "D": "Perfect Competition"
+    },
+    "answer": "B",
+    "explanation": "An oligopoly is an imperfect market structure where a small group of large firms dominate sales, making strategic pricing and output decisions interdependent (e.g., Nigerian telecom operators like MTN, Airtel, and Glo)."
+  },
+  {
+    "year": 2022,
+    "id": 45,
+    "question": "In national income accounting, the value added approach avoids double counting by",
+    "options": {
+      "A": "deducting the value of intermediate goods from the gross output at each production stage",
+      "B": "excluding all indirect taxes and government transfer payments",
+      "C": "counting only imported capital goods",
+      "D": "summing the wages of civil servants only"
+    },
+    "answer": "A",
+    "explanation": "The value added method calculates national income by adding only the net value contributed at each stage of production (Gross Output minus Intermediate Purchases), preventing the value of intermediate goods from being counted repeatedly."
+  },
+  {
+    "year": 2022,
+    "id": 46,
+    "question": "Cost-push inflation is most likely triggered by",
+    "options": {
+      "A": "an increase in government expenditure financed by borrowing",
+      "B": "a sharp rise in the domestic pump price of automotive gas oil (diesel) and electricity tariffs",
+      "C": "an increase in private household consumer credit",
+      "D": "an appreciation of the domestic exchange rate"
+    },
+    "answer": "B",
+    "explanation": "Cost-push inflation arises from increases in the cost of production (such as surging energy tariffs, higher transportation costs, or costlier imported inputs), which shifts the aggregate supply curve upward and leftward."
+  },
+  {
+    "year": 2022,
+    "id": 47,
+    "question": "When government expenditure exceeds revenue during a severe economic recession, the resulting deficit spending is intended to",
+    "options": {
+      "A": "lower national debt and increase foreign exchange reserves",
+      "B": "stimulate aggregate demand and promote economic recovery",
+      "C": "decrease the domestic money supply",
+      "D": "discourage domestic private investment"
+    },
+    "answer": "B",
+    "explanation": "In Keynesian fiscal policy, deliberate budget deficits during recessions inject fiscal stimulus into the economy, boosting aggregate demand, business activity, and employment levels."
+  },
+  {
+    "year": 2022,
+    "id": 48,
+    "question": "Public debt servicing refers to",
+    "options": {
+      "A": "borrowing additional loans to fund capital infrastructure",
+      "B": "the repayment of the principal loan amount together with interest charges as they fall due",
+      "C": "canceling an unpayable debt through international negotiation",
+      "D": "transferring national debt obligations to the private sector"
+    },
+    "answer": "B",
+    "explanation": "Debt servicing involves fulfilling contractual financial obligations on outstanding borrowing by paying the accrued interest and repaying maturing portions of the principal sum."
+  },
+  {
+    "year": 2022,
+    "id": 49,
+    "question": "A tax that cannot easily be shifted by the taxpayer to another person is known as a",
+    "options": {
+      "A": "sales tax",
+      "B": "direct tax",
+      "C": "customs duty",
+      "D": "excise tax"
+    },
+    "answer": "B",
+    "explanation": "Direct taxes (e.g., Personal Income Tax, Companies Income Tax) are assessed directly on an individual's or organization's earnings or property, meaning the formal tax incidence rests entirely on the designated taxpayer."
+  },
+  {
+    "year": 2022,
+    "id": 50,
+    "question": "A capital expenditure in the Nigerian federal budget typically includes spending on",
+    "options": {
+      "A": "salaries and allowances of federal civil servants",
+      "B": "road construction, hospital building, and railway development",
+      "C": "stationery and office supplies for ministries",
+      "D": "travel per diems for foreign diplomatic missions"
+    },
+    "answer": "B",
+    "explanation": "Capital expenditure comprises government spending on durable physical assets, infrastructure, and development projects that enhance the nation's long-term productive capacity."
+  },
+  {
+    "year": 2022,
+    "id": 51,
+    "question": "According to David Ricardo's Theory of Comparative Advantage, a nation should specialize in producing goods where it has the",
+    "options": {
+      "A": "highest absolute labor requirement",
+      "B": "lowest opportunity cost compared to other trading nations",
+      "C": "greatest domestic consumer demand",
+      "D": "highest import tariff barrier"
+    },
+    "answer": "B",
+    "explanation": "Comparative advantage dictates that trade is mutually beneficial if each country specializes in producing the commodities for which it incurs a lower opportunity cost relative to trading partners."
+  },
+  {
+    "year": 2022,
+    "id": 52,
+    "question": "In international trade, 'dumping' occurs when a foreign manufacturer",
+    "options": {
+      "A": "sells goods in an overseas market at a price below their domestic home market price or cost of production",
+      "B": "disposes of industrial toxic waste in another country's territorial waters",
+      "C": "restricts the export of essential raw materials to developing nations",
+      "D": "defaults on international export trade credit agreements"
+    },
+    "answer": "A",
+    "explanation": "Dumping is a predatory trade practice whereby an exporter sells goods abroad at prices below domestic selling prices or below production cost to eliminate foreign competition."
+  },
+  {
+    "year": 2022,
+    "id": 53,
+    "question": "Under a flexible (floating) exchange rate system, the external value of the Nigerian Naira is determined by",
+    "options": {
+      "A": "presidential executive decrees and cabinet resolutions",
+      "B": "market forces of demand and supply in the foreign exchange market",
+      "C": "the fixed gold parity established by the International Monetary Fund",
+      "D": "the official price of crude oil set by OPEC"
+    },
+    "answer": "B",
+    "explanation": "In a free-floating exchange rate regime, currency values are established by the decentralized interaction of supply and demand for foreign currencies in the forex market without official pegs."
+  },
+  {
+    "year": 2022,
+    "id": 54,
+    "question": "A rolling economic plan differs from a fixed perspective plan because a rolling plan",
+    "options": {
+      "A": "is revised and extended forward at regular intervals, typically each year",
+      "B": "lasts for 25 to 30 years without any modifications",
+      "C": "applies strictly to local government authorities",
+      "D": "does not require budgetary allocations from public revenues"
+    },
+    "answer": "A",
+    "explanation": "A rolling plan is a dynamic medium-term plan (e.g., 3 years) that is evaluated annually, adjusted in light of emerging economic realities, and extended by an additional year into the future."
+  },
+  {
+    "year": 2022,
+    "id": 55,
+    "question": "A persistent bottleneck hindering agricultural commercialization in rural Nigeria is",
+    "options": {
+      "A": "excessive availability of modern storage and processing facilities",
+      "B": "inadequate rural transportation infrastructure and lack of cold-chain storage",
+      "C": "an overabundance of subsidized commercial bank loans",
+      "D": "excessive importation of organic fertilizer by farmers"
+    },
+    "answer": "B",
+    "explanation": "Dilapidated rural feeder roads, erratic electric power, and inadequate cold-storage facilities cause high post-harvest losses, deterring commercial farm scale and market integration in Nigeria."
+  },
+  {
+    "year": 2022,
+    "id": 56,
+    "question": "The Nigerian Enterprises Promotion Decree of 1972 (Indigenization Policy) was enacted to",
+    "options": {
+      "A": "encourage 100% foreign control of vital commercial enterprises",
+      "B": "increase indigenous ownership, participation, and control of the Nigerian economy",
+      "C": "privatize all federal government ministries and parastatals",
+      "D": "replace agricultural production with mining ventures"
+    },
+    "answer": "B",
+    "explanation": "The 1972 Indigenization Decree reserved certain business enterprises exclusively for Nigerian citizens and mandated majority local equity in others to transfer control of economic assets to indigenes."
+  },
+  {
+    "year": 2022,
+    "id": 57,
+    "question": "Which of the following items represents an asset on the balance sheet of a commercial bank?",
+    "options": {
+      "A": "Customer savings deposits",
+      "B": "Loans and advances granted to customers",
+      "C": "Paid-up share capital of the bank",
+      "D": "Demand deposits of corporate clients"
+    },
+    "answer": "B",
+    "explanation": "Customer deposits are liabilities because the bank owes those funds to depositors, whereas loans and advances to borrowers represent income-yielding assets owned by the bank."
+  },
+  {
+    "year": 2022,
+    "id": 58,
+    "question": "The use of cowries and manillas in traditional pre-colonial Nigerian trade was abandoned primarily because they lacked",
+    "options": {
+      "A": "acceptability among local traders",
+      "B": "high divisibility and easy portability for large-scale commerce",
+      "C": "recognition by religious rulers",
+      "D": "decorative and ornamental appeal"
+    },
+    "answer": "B",
+    "explanation": "Commodity monies like cowrie shells and manillas were heavy, bulky, difficult to transport for high-value transactions, and difficult to divide precisely for small fractional settlements."
+  },
+  {
+    "year": 2022,
+    "id": 59,
+    "question": "When the Central Bank of Nigeria acts as the 'lender of last resort', it",
+    "options": {
+      "A": "provides emergency liquidity credit to solvent commercial banks facing temporary liquidity shortages",
+      "B": "lends money directly to unemployed citizens seeking personal loans",
+      "C": "settles industrial disputes between labor unions and the Ministry of Finance",
+      "D": "writes off bad debts of insolvent private corporate businesses"
+    },
+    "answer": "A",
+    "explanation": "As lender of last resort, the central bank provides emergency rediscount and credit facilities to solvent commercial banks experiencing temporary cash shortages, preventing banking runs and systemic crises."
+  },
+  {
+    "year": 2022,
+    "id": 60,
+    "question": "The Asset Management Corporation of Nigeria (AMCON) was established by the federal government primarily to",
+    "options": {
+      "A": "manage pension assets of retired military personnel",
+      "B": "acquire and resolve non-performing loans (NPLs) of troubled Nigerian commercial banks",
+      "C": "insure retail bank deposits against cyber fraud",
+      "D": "print commemorative banknotes for national celebrations"
+    },
+    "answer": "B",
+    "explanation": "AMCON was set up in 2010 to restore health to the banking system by purchasing eligible non-performing toxic loans from commercial banks, thereby recapitalizing them and preventing institutional collapses."
+  },
+  {
+    "year": 2023,
+    "id": 61,
+    "question": "Consumer surplus is mathematically represented as the difference between",
+    "options": {
+      "A": "total revenue earned by the firm and total production cost",
+      "B": "the maximum price a consumer is willing to pay and the actual market price paid",
+      "C": "total utility and average utility of a good",
+      "D": "nominal income and disposable personal income"
+    },
+    "answer": "B",
+    "explanation": "Consumer surplus is the net welfare gain to buyers, defined as the difference between the total amount consumers would willingly pay for a good and the actual market price they pay."
+  },
+  {
+    "year": 2023,
+    "id": 62,
+    "question": "When an increase in all factor inputs by 20% leads to an increase in total output by 35%, the production function exhibits",
+    "options": {
+      "A": "constant returns to scale",
+      "B": "decreasing returns to scale",
+      "C": "increasing returns to scale",
+      "D": "diminishing marginal productivity of capital"
+    },
+    "answer": "C",
+    "explanation": "Increasing returns to scale exist when an equiproportionate percentage increase in all inputs results in a more than proportionate percentage increase in total output."
+  },
+  {
+    "year": 2023,
+    "id": 63,
+    "question": "A monopolist can practice third-degree price discrimination only if",
+    "options": {
+      "A": "buyers can easily resell the product among themselves across different markets",
+      "B": "the price elasticity of demand is identical in all sub-markets",
+      "C": "the monopolist can separate sub-markets and prevent arbitrage between them",
+      "D": "the government mandates fixed ceiling prices across all regions"
+    },
+    "answer": "C",
+    "explanation": "For effective price discrimination, the seller must possess monopoly power, have sub-markets with differing price elasticities of demand, and be capable of preventing arbitrage (reselling from cheap to expensive markets)."
+  },
+  {
+    "year": 2023,
+    "id": 64,
+    "question": "If palm oil and palm kernel are produced together from the oil palm tree, they are regarded as goods in",
+    "options": {
+      "A": "competitive supply",
+      "B": "joint supply",
+      "C": "composite demand",
+      "D": "derived demand"
+    },
+    "answer": "B",
+    "explanation": "Joint supply occurs when the production of one commodity inherently results in the output of another commodity from a single production process or raw agricultural resource."
+  },
+  {
+    "year": 2023,
+    "id": 65,
+    "question": "Personal Disposable Income is calculated as Personal Income minus",
+    "options": {
+      "A": "corporate retained earnings",
+      "B": "personal income taxes and other statutory direct payments",
+      "C": "depreciation and indirect business taxes",
+      "D": "transfer payments received from relatives"
+    },
+    "answer": "B",
+    "explanation": "Disposable income is the net take-home income left to households for consumption expenditure and personal savings after deducting personal income taxes and mandatory statutory deductions."
+  },
+  {
+    "year": 2023,
+    "id": 66,
+    "question": "An individual who benefits most during a period of unanticipated high inflation is a",
+    "options": {
+      "A": "fixed-salary civil servant",
+      "B": "retiree living on a fixed pension",
+      "C": "debtor who borrowed money before inflation accelerated",
+      "D": "creditor who lent money at a low fixed interest rate"
+    },
+    "answer": "C",
+    "explanation": "Debtors gain from unanticipated inflation because they repay their contractual debts with currency that possesses less real purchasing power than the money they originally borrowed."
+  },
+  {
+    "year": 2023,
+    "id": 67,
+    "question": "The Monetary Policy Rate (MPR) set by the Central Bank of Nigeria's Monetary Policy Committee represents the",
+    "options": {
+      "A": "interest rate charged by commercial banks to their most creditworthy prime corporate customers",
+      "B": "benchmark interest rate at which the CBN lends money to commercial banks",
+      "C": "statutory tax rate applied to commercial bank annual net profits",
+      "D": "foreign exchange premium between the official window and the parallel market"
+    },
+    "answer": "B",
+    "explanation": "The MPR is the anchor policy interest rate set by the CBN to signal monetary direction and guide short-term interbank, lending, and deposit rates across the banking sector."
+  },
+  {
+    "year": 2023,
+    "id": 68,
+    "question": "Which of the following taxes is exclusively collected by the Federal Inland Revenue Service (FIRS) in Nigeria?",
+    "options": {
+      "A": "Capital Gains Tax from individual residents",
+      "B": "Stamp Duties on retail land transactions between individuals",
+      "C": "Companies Income Tax (CIT)",
+      "D": "Motor Vehicle License Fees"
+    },
+    "answer": "C",
+    "explanation": "Companies Income Tax (CIT) is a federally administered direct tax collected from incorporated companies across Nigeria exclusively by the Federal Inland Revenue Service."
+  },
+  {
+    "year": 2023,
+    "id": 69,
+    "question": "In Nigeria, statutory revenue allocation from the Federation Account gives the largest percentage share to the",
+    "options": {
+      "A": "Local Government Councils",
+      "B": "State Governments",
+      "C": "Federal Government",
+      "D": "Derivation Fund for oil-producing states"
+    },
+    "answer": "C",
+    "explanation": "Under Nigeria's vertical revenue allocation formula, the Federal Government receives the largest single allocation (approximately 52.68%), while State and Local Governments share the balance."
+  },
+  {
+    "year": 2023,
+    "id": 70,
+    "question": "Which of the following is classified as recurrent government expenditure?",
+    "options": {
+      "A": "Construction of the Second Niger Bridge",
+      "B": "Monthly salaries and allowances of public school teachers",
+      "C": "Procurement of new military fighter jets",
+      "D": "Dredging of the River Niger for commercial navigation"
+    },
+    "answer": "B",
+    "explanation": "Recurrent expenditures are day-to-day operational costs incurred repeatedly within a fiscal year, including personnel wages, pension payouts, and administrative running costs."
+  },
+  {
+    "year": 2023,
+    "id": 71,
+    "question": "The 'infant industry argument' for trade protectionism asserts that",
+    "options": {
+      "A": "developing nations should specialize solely in primary agricultural production",
+      "B": "newly established domestic industries require temporary tariff protection until they achieve economies of scale and competitiveness",
+      "C": "child labor must be eradicated in export manufacturing industries",
+      "D": "foreign multinationals should enjoy permanent zero-tariff concessions"
+    },
+    "answer": "B",
+    "explanation": "The infant industry argument posits that emerging domestic industries cannot immediately compete with established foreign rivals, justifying temporary tariffs until they achieve scale and cost efficiency."
+  },
+  {
+    "year": 2023,
+    "id": 72,
+    "question": "The African Continental Free Trade Area (AfCFTA) aims primarily to",
+    "options": {
+      "A": "introduce a mandatory single currency for all 54 African countries immediately",
+      "B": "eliminate tariffs on most goods, foster intra-African trade, and create a single continental market",
+      "C": "merge the central banks of all African countries into one continental institution",
+      "D": "restrict trade between African nations and overseas partners"
+    },
+    "answer": "B",
+    "explanation": "AfCFTA creates a continent-wide market by progressively removing tariffs and trade barriers on intra-African goods and services, fostering industrialization and regional value chains."
+  },
+  {
+    "year": 2023,
+    "id": 73,
+    "question": "A currency depreciation under a flexible exchange rate regime differs from currency devaluation because depreciation",
+    "options": {
+      "A": "is determined by market forces of demand and supply without official government decree",
+      "B": "increases the purchasing power of the domestic currency internationally",
+      "C": "is officially announced by the President or Ministry of Finance",
+      "D": "applies only to member states of the European Union"
+    },
+    "answer": "A",
+    "explanation": "Depreciation is an automatic, market-driven decline in the value of a currency under a floating exchange rate, whereas devaluation is an explicit, administrative markdown of a pegged currency by authorities."
+  },
+  {
+    "year": 2023,
+    "id": 74,
+    "question": "Opportunity cost in national economic planning is reflected in",
+    "options": {
+      "A": "the total amount of currency printed during a budget cycle",
+      "B": "the best alternative social infrastructure project forgone when public resources are allocated",
+      "C": "the interest rate paid on international multilateral borrowings",
+      "D": "the profit margin earned by private defense contractors"
+    },
+    "answer": "B",
+    "explanation": "Because national resources are scarce, choosing to allocate public funds to one project (e.g., building roads) means sacrificing the benefits of the next best alternative (e.g., funding healthcare facilities)."
+  },
+  {
+    "year": 2023,
+    "id": 75,
+    "question": "Export-oriented industrialization focuses on",
+    "options": {
+      "A": "manufacturing products aimed primarily at foreign export markets to generate foreign exchange",
+      "B": "producing goods solely to fulfill domestic consumption needs",
+      "C": "nationalizing export crops and banning private agricultural trading",
+      "D": "taxing local manufacturing plants heavily to finance raw material imports"
+    },
+    "answer": "A",
+    "explanation": "Export-Oriented Industrialization (EOI) is a trade and growth strategy centered on producing manufactured goods for sale in international markets, speeding industrialization via global export demand."
+  },
+  {
+    "year": 2023,
+    "id": 76,
+    "question": "According to the Demographic Transition Theory, a country in Stage 2 experiences rapid population growth because",
+    "options": {
+      "A": "both birth rates and death rates decline simultaneously",
+      "B": "death rates fall sharply due to improved medical care while birth rates remain persistently high",
+      "C": "birth rates drop below replacement levels while life expectancy declines",
+      "D": "net immigration exceeds total annual births"
+    },
+    "answer": "B",
+    "explanation": "In Stage 2 of the demographic transition, modern medicine, sanitation, and food security lower mortality rates quickly, while social norms keep birth rates high, resulting in natural population increase."
+  },
+  {
+    "year": 2023,
+    "id": 77,
+    "question": "When a customer buys household appliances on credit to pay six months later, money is functioning as a",
+    "options": {
+      "A": "standard for deferred payments",
+      "B": "store of value",
+      "C": "unit of account",
+      "D": "medium of barter"
+    },
+    "answer": "A",
+    "explanation": "Money functions as a standard for deferred payments when it is used as the accepted metric to express and discharge future debts, credit arrangements, and contractual obligations."
+  },
+  {
+    "year": 2023,
+    "id": 78,
+    "question": "If a commercial bank receives a new cash deposit of ₦1,000,000 and the legal cash reserve ratio is 20%, the maximum total credit that can be created in the banking system is",
+    "options": {
+      "A": "₦200,000",
+      "B": "₦1,200,000",
+      "C": "₦5,000,000",
+      "D": "₦10,000,000"
+    },
+    "answer": "C",
+    "explanation": "The credit/deposit multiplier equals 1 / CRR = 1 / 0.20 = 5. The total deposit money generated across the banking system is Initial Deposit * Multiplier = ₦1,000,000 * 5 = ₦5,000,000."
+  },
+  {
+    "year": 2023,
+    "id": 79,
+    "question": "Treasury bills in Nigeria are instruments issued by the Central Bank of Nigeria on behalf of the Federal Government with maturities of",
+    "options": {
+      "A": "up to 364 days",
+      "B": "between 5 to 10 years",
+      "C": "exactly 25 years",
+      "D": "indefinite duration with no maturity date"
+    },
+    "answer": "A",
+    "explanation": "Nigerian Treasury Bills (NTBs) are short-term money market sovereign debt instruments issued at discounted values with standard tenors of 91 days, 182 days, and 364 days."
+  },
+  {
+    "year": 2023,
+    "id": 80,
+    "question": "Which of the following is NOT a core statutory objective of the Central Bank of Nigeria as outlined in the CBN Act 2007?",
+    "options": {
+      "A": "Ensuring monetary and price stability",
+      "B": "Issuing legal tender currency in Nigeria",
+      "C": "Promoting a sound financial system in Nigeria",
+      "D": "Providing retail commercial checking accounts directly to individual private citizens"
+    },
+    "answer": "D",
+    "explanation": "The Central Bank of Nigeria is the apex regulator and banker to the government and financial institutions. It does not operate retail checking or savings accounts for individual private citizens."
+  },
+  {
+    "year": 2024,
+    "id": 81,
+    "question": "If the income elasticity of demand for a staple food item is negative (Ey < 0), the commodity is classified as",
+    "options": {
+      "A": "a normal good",
+      "B": "an inferior good",
+      "C": "a luxury good",
+      "D": "a complementary good"
+    },
+    "answer": "B",
+    "explanation": "An inferior good has a negative income elasticity of demand; when consumers' real incomes rise, they purchase less of the good, switching to higher-quality alternatives."
+  },
+  {
+    "year": 2024,
+    "id": 82,
+    "question": "In indifference curve analysis, consumer equilibrium is attained at the point where the budget line",
+    "options": {
+      "A": "intersects the horizontal axis at the origin",
+      "B": "is tangent to the highest attainable indifference curve",
+      "C": "is perpendicular to the marginal rate of technical substitution",
+      "D": "is parallel to the total utility curve"
+    },
+    "answer": "B",
+    "explanation": "Consumer equilibrium is achieved where the consumer's budget line is tangent to an indifference curve. At this point, the marginal rate of substitution equals the price ratio of the two goods (MRSxy = Px/Py)."
+  },
+  {
+    "year": 2024,
+    "id": 83,
+    "question": "In long-run production theory, all factor inputs are considered to be",
+    "options": {
+      "A": "fixed",
+      "B": "variable",
+      "C": "sunk",
+      "D": "semi-fixed"
+    },
+    "answer": "B",
+    "explanation": "The long run is defined economically as an operational time horizon of sufficient length that all production inputs (plant size, machinery, labor, land) can be altered or varied."
+  },
+  {
+    "year": 2024,
+    "id": 84,
+    "question": "A natural monopoly arises primarily when",
+    "options": {
+      "A": "a single firm possesses legal exclusive patent rights granted by an act of parliament",
+      "B": "a single firm experiences substantial economies of scale over the entire range of market output",
+      "C": "the federal government bans all imports of foreign competing commodities",
+      "D": "several competing producers collude illegally to fix output quotas"
+    },
+    "answer": "B",
+    "explanation": "A natural monopoly emerges when economies of scale are so pervasive that a single large producer can supply the entire market demand at a lower unit cost than multiple competing firms (e.g., national power transmission grids)."
+  },
+  {
+    "year": 2024,
+    "id": 85,
+    "question": "Which of the following is excluded from the calculation of Gross Domestic Product to prevent distortion?",
+    "options": {
+      "A": "Wages of industrial manufacturing workers",
+      "B": "Rental income from commercial properties",
+      "C": "Government transfer payments such as scholarships and disaster relief",
+      "D": "Retained earnings of private limited liability companies"
+    },
+    "answer": "C",
+    "explanation": "Transfer payments do not reflect payments for any current productive economic output or services rendered; including them would result in double counting and overstate GDP."
+  },
+  {
+    "year": 2024,
+    "id": 86,
+    "question": "Stagflation is an economic condition characterized by",
+    "options": {
+      "A": "rapid economic growth accompanied by falling price levels",
+      "B": "high inflation combined with stagnant economic output and high unemployment",
+      "C": "low benchmark interest rates combined with fiscal budget surpluses",
+      "D": "hyperinflation accompanied by over-full employment"
+    },
+    "answer": "B",
+    "explanation": "Stagflation occurs when an economy simultaneously faces stagnant economic growth (low or negative GDP growth), high unemployment rates, and persistent high inflation."
+  },
+  {
+    "year": 2024,
+    "id": 87,
+    "question": "Unemployment that occurs when there is a mismatch between the skills job seekers possess and the skills demanded by employers is called",
+    "options": {
+      "A": "frictional unemployment",
+      "B": "cyclical unemployment",
+      "C": "seasonal unemployment",
+      "D": "structural unemployment"
+    },
+    "answer": "D",
+    "explanation": "Structural unemployment stems from fundamental changes in the structure of the economy, such as technological modernization or industrial transition, leaving workers lacking the required modern skills."
+  },
+  {
+    "year": 2024,
+    "id": 88,
+    "question": "The canon of equity in Adam Smith's principles of taxation states that",
+    "options": {
+      "A": "the administrative cost of collecting the tax should be as small as possible",
+      "B": "the time and manner of payment should be convenient to the taxpayer",
+      "C": "citizens should pay taxes in proportion to their respective income and ability to pay",
+      "D": "the amount of tax payable must be certain, clear, and not arbitrary"
+    },
+    "answer": "C",
+    "explanation": "Adam Smith's canon of equity (or fairness) requires that individuals contribute toward public revenue according to their ability, typically ensuring those with higher incomes pay a fair share."
+  },
+  {
+    "year": 2024,
+    "id": 89,
+    "question": "A fiscal budget surplus is most appropriate when an economy is experiencing",
+    "options": {
+      "A": "severe depression and widespread unemployment",
+      "B": "demand-pull inflation and excessive economic overheating",
+      "C": "a liquidity trap and deflationary spiral",
+      "D": "negative real GDP growth rates"
+    },
+    "answer": "B",
+    "explanation": "A surplus budget (government revenue exceeding expenditure) withdraws net purchasing power from the spending stream, dampening aggregate demand during periods of high inflation and overheating."
+  },
+  {
+    "year": 2024,
+    "id": 90,
+    "question": "The statutory ceiling on Ways and Means advances granted by the Central Bank of Nigeria to the Federal Government is intended to",
+    "options": {
+      "A": "prevent excessive deficit financing that fuels inflation and depreciates the domestic currency",
+      "B": "encourage excessive foreign borrowing from bilateral lenders",
+      "C": "ensure all federal ministries exhaust their annual capital allocations",
+      "D": "restrict the allocation of monthly statutory revenues to state governments"
+    },
+    "answer": "A",
+    "explanation": "Ways and Means advances are short-term emergency loans from the CBN to fund fiscal shortfalls. Legal caps exist to prevent unbridled monetary expansion, which drives severe inflation and currency weakness."
+  },
+  {
+    "year": 2024,
+    "id": 91,
+    "question": "A persistent deficit in Nigeria's current account can be financed by",
+    "options": {
+      "A": "drawing down foreign exchange reserves or attracting foreign capital inflows",
+      "B": "increasing recurrent overhead expenditure of overseas diplomatic missions",
+      "C": "revaluing the national currency upward by administrative fiat",
+      "D": "expanding unconditional government subsidies on imported luxury goods"
+    },
+    "answer": "A",
+    "explanation": "To settle a current account shortfall, a country must draw down its official foreign exchange reserves or run an offsetting surplus in its capital and financial accounts (via FDI, portfolio investment, or external borrowing)."
+  },
+  {
+    "year": 2024,
+    "id": 92,
+    "question": "An export subsidy provided to domestic cocoa farmers in Nigeria is intended to",
+    "options": {
+      "A": "raise the domestic retail price of cocoa above world market levels",
+      "B": "reduce production costs and make domestic cocoa more price-competitive in the international market",
+      "C": "penalize foreign chocolate manufacturers importing Nigerian cocoa beans",
+      "D": "discourage domestic farmers from cultivating additional cocoa acreage"
+    },
+    "answer": "B",
+    "explanation": "An export subsidy lowers the effective unit cost for domestic producers, enabling them to sell at more competitive prices on global commodity exchanges and expand export volumes."
+  },
+  {
+    "year": 2024,
+    "id": 93,
+    "question": "The Economic Community of West African States (ECOWAS) Trade Liberalization Scheme (ETLS) was introduced to",
+    "options": {
+      "A": "impose uniform prohibitive tariffs on all intra-West African agricultural trade",
+      "B": "achieve duty-free and quota-free trade in originating goods among member states",
+      "C": "establish a single military alliance across Sub-Saharan Africa",
+      "D": "prohibit private commercial airlines from flying between West African capitals"
+    },
+    "answer": "B",
+    "explanation": "The ETLS is the core trade instrument of ECOWAS, designed to dismantle tariff and non-tariff barriers, establishing a regional free trade area for goods originating within member countries."
+  },
+  {
+    "year": 2024,
+    "id": 94,
+    "question": "Economic development differs conceptually from economic growth because development involves",
+    "options": {
+      "A": "merely an increase in real GDP without structural institutional transformation",
+      "B": "economic growth accompanied by fundamental qualitative improvements in living standards, poverty reduction, and structural change",
+      "C": "an exclusive focus on crude oil extraction and refining",
+      "D": "a temporary increase in nominal national income driven by high export commodity prices"
+    },
+    "answer": "B",
+    "explanation": "Economic growth is a quantitative rise in real national output, while economic development is a broader qualitative transformation entailing poverty reduction, improved healthcare, higher literacy, and institutional modernization."
+  },
+  {
+    "year": 2024,
+    "id": 95,
+    "question": "The 'brain drain' phenomenon in Nigeria's healthcare and technology sectors leads to",
+    "options": {
+      "A": "an immediate surplus of medical specialists in domestic teaching hospitals",
+      "B": "loss of highly skilled human capital, reducing domestic productive capacity and public service quality",
+      "C": "a reduction in foreign remittance inflows sent to households",
+      "D": "a decline in international competition for talent"
+    },
+    "answer": "B",
+    "explanation": "Brain drain refers to the emigration of trained professionals (doctors, nurses, engineers, software programmers), which depletes national human capital, straining public healthcare and stunting tech development."
+  },
+  {
+    "year": 2024,
+    "id": 96,
+    "question": "The Land Use Act of 1978 in Nigeria vested the ownership and control of all land within each state in the",
+    "options": {
+      "A": "Federal Ministry of Works and Housing",
+      "B": "State Governor, to hold in trust for the common benefit of the people",
+      "C": "Traditional rulers and local village heads exclusively",
+      "D": "Commercial mortgage banks and private property developers"
+    },
+    "answer": "B",
+    "explanation": "The Land Use Act of 1978 nationalized land ownership by vesting all land within the boundary of each state in the State Governor, who holds and administers it in trust for all citizens."
+  },
+  {
+    "year": 2024,
+    "id": 97,
+    "question": "Broad money (M2) differs from narrow money (M1) primarily by the inclusion of",
+    "options": {
+      "A": "quasi-money, such as savings and time deposits in commercial banks",
+      "B": "foreign aid grants received from international donors",
+      "C": "long-term corporate equities listed on the stock exchange",
+      "D": "physical commodity stocks held in strategic grain reserves"
+    },
+    "answer": "A",
+    "explanation": "Broad money (M2) includes all of narrow money (M1: currency outside banks plus demand deposits) plus quasi-money (time and savings deposits in deposit money banks)."
+  },
+  {
+    "year": 2024,
+    "id": 98,
+    "question": "Microfinance banks in Nigeria were primarily established to",
+    "options": {
+      "A": "underwrite multi-billion naira infrastructure bonds for state governments",
+      "B": "provide accessible financial services, micro-loans, and savings facilities to low-income earners and MSMEs",
+      "C": "manage foreign currency reserves on behalf of the Central Bank",
+      "D": "issue sovereign Eurobonds on international capital markets"
+    },
+    "answer": "B",
+    "explanation": "Microfinance banks provide tailored retail financial services, collateral-friendly micro-credit, and savings mobilisation to unbanked, low-income citizens and Micro, Small, and Medium Enterprises (MSMEs)."
+  },
+  {
+    "year": 2024,
+    "id": 99,
+    "question": "Open Market Operations (OMO) refer to the buying and selling of government securities by the central bank in order to",
+    "options": {
+      "A": "influence commercial bank reserves and regulate the volume of liquidity in the financial system",
+      "B": "finance the construction of state government secretariat buildings",
+      "C": "manipulate corporate dividend payouts of listed commercial firms",
+      "D": "fix the prices of consumer food staples in local markets"
+    },
+    "answer": "A",
+    "explanation": "OMO is a primary monetary policy tool used by the central bank to manage the cost and quantity of money in circulation by trading sovereign bills, thereby controlling commercial bank reserves."
+  },
+  {
+    "year": 2024,
+    "id": 100,
+    "question": "The eNaira, launched by the Central Bank of Nigeria in October 2021, is an example of a",
+    "options": {
+      "A": "decentralized cryptocurrency with no central issuing authority",
+      "B": "Central Bank Digital Currency (CBDC) that constitutes a direct liability of the central bank",
+      "C": "private mobile money transfer service owned by telecommunications companies",
+      "D": "foreign currency derivative traded exclusively on the London Stock Exchange"
+    },
+    "answer": "B",
+    "explanation": "The eNaira is a sovereign Central Bank Digital Currency (CBDC) issued and regulated by the CBN; it is legal tender with parity to physical naira notes and forms a direct liability of the Central Bank."
+  }
+]

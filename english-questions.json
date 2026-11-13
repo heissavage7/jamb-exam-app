@@ -1,0 +1,1302 @@
+[
+  {
+    "year": 2020,
+    "id": 1,
+    "question": "Read the following passage and answer the question:\n'The rapid deforestation in the sub-Saharan region has aggravated desert encroachment and triggered severe ecological imbalances. Rural communities that depend on subsistence farming now face dwindling yields and acute water shortages. Consequently, youth migration to urban centers has reached unprecedented levels as agrarian livelihoods collapse.'\n\nAccording to the passage, the primary trigger of desert encroachment in the sub-Saharan region is:",
+    "options": {
+      "A": "urban industrialization",
+      "B": "rapid deforestation",
+      "C": "youth migration",
+      "D": "acute water shortages"
+    },
+    "answer": "B",
+    "explanation": "The passage explicitly states that 'rapid deforestation in the sub-Saharan region has aggravated desert encroachment'."
+  },
+  {
+    "year": 2020,
+    "id": 2,
+    "question": "Based on the passage above, the word 'dwindling' most nearly means:",
+    "options": {
+      "A": "improving",
+      "B": "fluctuating",
+      "C": "diminishing",
+      "D": "stagnant"
+    },
+    "answer": "C",
+    "explanation": "'Dwindling' means gradually decreasing or becoming smaller in size, amount, or strength, which corresponds to 'diminishing'."
+  },
+  {
+    "year": 2020,
+    "id": 3,
+    "question": "It can be inferred from the passage that rural-urban migration is driven mainly by:",
+    "options": {
+      "A": "economic hardship caused by environmental degradation",
+      "B": "the pursuit of higher educational qualifications",
+      "C": "governmental policies promoting urbanization",
+      "D": "social unrest among agrarian communities"
+    },
+    "answer": "A",
+    "explanation": "The text links youth migration to the collapse of agrarian livelihoods resulting from ecological damage and water shortages."
+  },
+  {
+    "year": 2020,
+    "id": 4,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The senior accountant was dismissed for his CLANDESTINE activities within the firm.'",
+    "options": {
+      "A": "fraudulent",
+      "B": "secret",
+      "C": "irregular",
+      "D": "ambitious"
+    },
+    "answer": "B",
+    "explanation": "'Clandestine' means kept secret or done secretly, especially because illicit."
+  },
+  {
+    "year": 2020,
+    "id": 5,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The governor's address was so VERBOSE that several guests lost interest.'",
+    "options": {
+      "A": "concise",
+      "B": "wordy",
+      "C": "eloquent",
+      "D": "aggressive"
+    },
+    "answer": "B",
+    "explanation": "'Verbose' means using or expressed in more words than are needed; wordy."
+  },
+  {
+    "year": 2020,
+    "id": 6,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The newly appointed director made a PLAUSIBLE argument for restructuring the department.'",
+    "options": {
+      "A": "believable",
+      "B": "questionable",
+      "C": "superficial",
+      "D": "complicated"
+    },
+    "answer": "A",
+    "explanation": "'Plausible' means having an appearance of truth or reason; believable."
+  },
+  {
+    "year": 2020,
+    "id": 7,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The manager was known to be METICULOUS in preparing the financial audit reports.'",
+    "options": {
+      "A": "careless",
+      "B": "cautious",
+      "C": "diligent",
+      "D": "secretive"
+    },
+    "answer": "A",
+    "explanation": "'Meticulous' means showing great attention to detail; very careful. The opposite is 'careless'."
+  },
+  {
+    "year": 2020,
+    "id": 8,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'His BELLIGERENT attitude during the union meeting surprised everyone.'",
+    "options": {
+      "A": "hostile",
+      "B": "peaceful",
+      "C": "arrogant",
+      "D": "stubborn"
+    },
+    "answer": "B",
+    "explanation": "'Belligerent' means hostile, combative, and aggressive. Its opposite is 'peaceful'."
+  },
+  {
+    "year": 2020,
+    "id": 9,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The ARID terrain yielded very little harvest despite the farmer's toil.'",
+    "options": {
+      "A": "fertile",
+      "B": "barren",
+      "C": "parched",
+      "D": "rugged"
+    },
+    "answer": "A",
+    "explanation": "'Arid' means extremely dry and barren, unable to support vegetation. Its opposite in this context is 'fertile'."
+  },
+  {
+    "year": 2020,
+    "id": 10,
+    "question": "Interpret the underlined idiom in the sentence:\n'The commissioner decided to bury the hatchet with his political opponents.' This means that the commissioner:",
+    "options": {
+      "A": "concealed his political strategies",
+      "B": "made peace and ended the feud",
+      "C": "initiated legal proceedings",
+      "D": "accepted defeat graciously"
+    },
+    "answer": "B",
+    "explanation": "The idiom 'bury the hatchet' means to end a quarrel or conflict and make peace."
+  },
+  {
+    "year": 2020,
+    "id": 11,
+    "question": "Interpret the underlined idiom in the sentence:\n'Tunde took his friend's advice with a grain of salt.' This implies that Tunde:",
+    "options": {
+      "A": "accepted the advice with skepticism",
+      "B": "was genuinely grateful for the advice",
+      "C": "rejected the advice outright",
+      "D": "followed the advice strictly"
+    },
+    "answer": "A",
+    "explanation": "To take something 'with a grain of salt' means to maintain skepticism and not completely believe what is said."
+  },
+  {
+    "year": 2020,
+    "id": 12,
+    "question": "Identify the figure of speech used in the sentence:\n'The wind whispered through the dark forest as night approached.'",
+    "options": {
+      "A": "metaphor",
+      "B": "personification",
+      "C": "hyperbole",
+      "D": "apostrophe"
+    },
+    "answer": "B",
+    "explanation": "Attributing human actions (whispering) to non-human things (the wind) is personification."
+  },
+  {
+    "year": 2020,
+    "id": 13,
+    "question": "Complete the sentence with the most appropriate option:\n'Neither the teacher nor the students ______ present at the morning assembly yesterday.'",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "is",
+      "D": "are"
+    },
+    "answer": "B",
+    "explanation": "Under the rule of proximity with 'neither... nor', the verb agrees with the closer subject ('the students', plural), which takes 'were' in past tense."
+  },
+  {
+    "year": 2020,
+    "id": 14,
+    "question": "Complete the sentence with the most appropriate preposition:\n'The principal congratulated Amina ______ winning the national mathematics olympiad.'",
+    "options": {
+      "A": "for",
+      "B": "on",
+      "C": "at",
+      "D": "with"
+    },
+    "answer": "B",
+    "explanation": "The standard preposition that collocates with 'congratulate' is 'on' (or 'upon')."
+  },
+  {
+    "year": 2020,
+    "id": 15,
+    "question": "Choose the option that correctly completes the conditional clause:\n'If the civil engineer ______ earlier, the retaining wall would not have collapsed.'",
+    "options": {
+      "A": "intervenes",
+      "B": "had intervened",
+      "C": "intervened",
+      "D": "would intervene"
+    },
+    "answer": "B",
+    "explanation": "The third conditional expresses an unreal past condition using the past perfect tense ('had intervened') in the if-clause."
+  },
+  {
+    "year": 2020,
+    "id": 16,
+    "question": "Choose the grammatically correct option to fill in the blank:\n'One of the armed robbers ______ apprehended by the vigilante group last night.'",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "have been",
+      "D": "are"
+    },
+    "answer": "A",
+    "explanation": "The subject is 'One', which is singular, requiring the singular verb 'was apprehended'."
+  },
+  {
+    "year": 2020,
+    "id": 17,
+    "question": "Which of the following words has the same vowel sound as the underlined sound in 'k<u>ey</u>' (/iː/)?",
+    "options": {
+      "A": "bread",
+      "B": "receipt",
+      "C": "height",
+      "D": "reign"
+    },
+    "answer": "B",
+    "explanation": "'Key' has the long vowel sound /iː/, which is also the sound represented by 'ei' in 'receipt' (/rɪˈsiːt/)."
+  },
+  {
+    "year": 2020,
+    "id": 18,
+    "question": "Which of the following words has the same consonant sound as the underlined letters in '<u>ch</u>emistry' (/k/)?",
+    "options": {
+      "A": "charm",
+      "B": "chef",
+      "C": "character",
+      "D": "champion"
+    },
+    "answer": "C",
+    "explanation": "'Chemistry' begins with the voiceless velar plosive /k/, which is also the initial sound in 'character' (/ˈkærəktə/)."
+  },
+  {
+    "year": 2020,
+    "id": 19,
+    "question": "Choose the word that rhymes with 'plumb':",
+    "options": {
+      "A": "crumb",
+      "B": "tomb",
+      "C": "comb",
+      "D": "bomb"
+    },
+    "answer": "A",
+    "explanation": "'Plumb' (/plʌm/) has a silent 'b' and rhymes with 'crumb' (/krʌm/). 'Tomb' is /tuːm/, 'comb' is /kəʊm/, and 'bomb' is /bɒm/."
+  },
+  {
+    "year": 2020,
+    "id": 20,
+    "question": "In which of the following words is the primary stress on the SECOND syllable?",
+    "options": {
+      "A": "calendar",
+      "B": "photographic",
+      "C": "understand",
+      "D": "facilitate"
+    },
+    "answer": "D",
+    "explanation": "'fa-CIL-i-tate' is stressed on the second syllable (/fəˈsɪlɪteɪt/). 'CAL-en-dar' is 1st, 'pho-to-GRAPH-ic' is 3rd, 'un-der-STAND' is 3rd."
+  },
+  {
+    "year": 2021,
+    "id": 21,
+    "question": "Read the following passage and answer the question:\n'Artificial intelligence is no longer the exclusive preserve of science fiction; it has woven itself into the fabric of everyday governance and enterprise. However, while automation enhances administrative productivity, it poses a profound threat to routine labor in developing economies. Experts warn that without aggressive reskilling programs, technological advancement may exacerbate existing social inequities.'\n\nThe central theme of the passage is that:",
+    "options": {
+      "A": "artificial intelligence should be banned in developing nations",
+      "B": "automation boosts productivity but requires reskilling to curb inequality",
+      "C": "science fiction stories have hindered modern technological adoption",
+      "D": "administrative jobs will completely disappear within a decade"
+    },
+    "answer": "B",
+    "explanation": "The author balances the efficiency gains of automation against its labor displacement risks, emphasizing the necessity of reskilling programs."
+  },
+  {
+    "year": 2021,
+    "id": 22,
+    "question": "Based on the passage above, the phrase 'exclusive preserve' most nearly means:",
+    "options": {
+      "A": "a restricted domain",
+      "B": "a shared heritage",
+      "C": "an illegal enterprise",
+      "D": "an obsolete concept"
+    },
+    "answer": "A",
+    "explanation": "'Exclusive preserve' denotes a particular activity or domain reserved strictly for a specific group or medium."
+  },
+  {
+    "year": 2021,
+    "id": 23,
+    "question": "According to the passage, the absence of aggressive reskilling programs will likely result in:",
+    "options": {
+      "A": "rapid technological stagnation",
+      "B": "widening social inequality",
+      "C": "the collapse of artificial intelligence",
+      "D": "increased rural agricultural production"
+    },
+    "answer": "B",
+    "explanation": "The text warns that without reskilling programs, technological advancement will 'exacerbate existing social inequities'."
+  },
+  {
+    "year": 2021,
+    "id": 24,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The diplomat was commended for his TACTFUL handling of the volatile border dispute.'",
+    "options": {
+      "A": "diplomatic",
+      "B": "reckless",
+      "C": "harsh",
+      "D": "indifferent"
+    },
+    "answer": "A",
+    "explanation": "'Tactful' means showing sensitivity and skill in dealing with others or with difficult issues; diplomatic."
+  },
+  {
+    "year": 2021,
+    "id": 25,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The suspect provided an AMBIGUOUS statement that thoroughly confused the detectives.'",
+    "options": {
+      "A": "straightforward",
+      "B": "vague",
+      "C": "detailed",
+      "D": "accurate"
+    },
+    "answer": "B",
+    "explanation": "'Ambiguous' means open to more than one interpretation, doubtful, or vague."
+  },
+  {
+    "year": 2021,
+    "id": 26,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The sudden DEMISE of the respected community leader plunged the town into grief.'",
+    "options": {
+      "A": "departure",
+      "B": "defeat",
+      "C": "death",
+      "D": "resignation"
+    },
+    "answer": "C",
+    "explanation": "'Demise' is a formal term referring to a person's death."
+  },
+  {
+    "year": 2021,
+    "id": 27,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'Unlike her spendthrift sister, Chidinma maintained an exceptionally FRUGAL lifestyle.'",
+    "options": {
+      "A": "wasteful",
+      "B": "prudent",
+      "C": "austere",
+      "D": "simple"
+    },
+    "answer": "A",
+    "explanation": "'Frugal' means economical and careful with money; its antonym is 'wasteful' or extravagant."
+  },
+  {
+    "year": 2021,
+    "id": 28,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The presiding judge dismissed the plaintiff's SPURIOUS claims without hesitation.'",
+    "options": {
+      "A": "fraudulent",
+      "B": "genuine",
+      "C": "deceptive",
+      "D": "frivolous"
+    },
+    "answer": "B",
+    "explanation": "'Spurious' means not being what it purports to be; false or fake. Its antonym is 'genuine'."
+  },
+  {
+    "year": 2021,
+    "id": 29,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The tutor commended the apprentice for his DOCILITY during the intensive training session.'",
+    "options": {
+      "A": "compliance",
+      "B": "stubbornness",
+      "C": "humility",
+      "D": "intelligence"
+    },
+    "answer": "B",
+    "explanation": "'Docility' refers to submissiveness and readiness to accept control or instruction. The opposite is 'stubbornness'."
+  },
+  {
+    "year": 2021,
+    "id": 30,
+    "question": "Interpret the underlined idiom in the sentence:\n'When the company ran into severe financial crisis, several senior executives decided to jump ship.' This means the executives:",
+    "options": {
+      "A": "abandoned the organization",
+      "B": "boarded a cruise vessel",
+      "C": "invested personal funds",
+      "D": "ousted the managing director"
+    },
+    "answer": "A",
+    "explanation": "'Jump ship' is an idiom meaning to leave an organization or post, especially when things go wrong."
+  },
+  {
+    "year": 2021,
+    "id": 31,
+    "question": "Interpret the underlined idiom in the sentence:\n'Emeka is constantly blowing his own trumpet whenever a project succeeds.' This means Emeka:",
+    "options": {
+      "A": "plays a brass musical instrument",
+      "B": "praises his own accomplishments excessively",
+      "C": "criticizes his colleagues openly",
+      "D": "celebrates silently with his family"
+    },
+    "answer": "B",
+    "explanation": "'Blow one's own trumpet' means to boast and talk about one's own achievements boastfully."
+  },
+  {
+    "year": 2021,
+    "id": 32,
+    "question": "Identify the figure of speech used in the following sentence:\n'During the midday heatwave, the overcrowded lecture hall was an oven.'",
+    "options": {
+      "A": "simile",
+      "B": "metaphor",
+      "C": "synecdoche",
+      "D": "oxymoron"
+    },
+    "answer": "B",
+    "explanation": "A direct comparison stating the lecture hall 'was an oven' without using 'like' or 'as' is a metaphor."
+  },
+  {
+    "year": 2021,
+    "id": 33,
+    "question": "Complete the sentence with the grammatically correct option:\n'The police ______ investigating the serial armed robberies in the state capital.'",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "has been"
+    },
+    "answer": "B",
+    "explanation": "In English, 'the police' is treated as a plural collective noun, requiring the plural verb 'are'."
+  },
+  {
+    "year": 2021,
+    "id": 34,
+    "question": "Select the correct question tag to complete the sentence:\n'She scarcely attends the weekly departmental review meetings, ______?'",
+    "options": {
+      "A": "does she",
+      "B": "doesn't she",
+      "C": "did she",
+      "D": "didn't she"
+    },
+    "answer": "A",
+    "explanation": "'Scarcely' carries a negative meaning, which requires a positive question tag ('does she?')."
+  },
+  {
+    "year": 2021,
+    "id": 35,
+    "question": "Complete the sentence with the correct preposition:\n'The prefect cautioned his classmates against looking down ______ the new transfer students.'",
+    "options": {
+      "A": "to",
+      "B": "upon",
+      "C": "at",
+      "D": "towards"
+    },
+    "answer": "B",
+    "explanation": "The phrasal verb 'look down upon' (or 'on') means to regard someone with disdain or contempt."
+  },
+  {
+    "year": 2021,
+    "id": 36,
+    "question": "Choose the option that correctly completes the sentence:\n'By the end of this semester, our research team ______ the field survey.'",
+    "options": {
+      "A": "will finish",
+      "B": "will have finished",
+      "C": "would finish",
+      "D": "have finished"
+    },
+    "answer": "B",
+    "explanation": "The future perfect tense ('will have finished') is used for an action that will be completed before a specified point in the future."
+  },
+  {
+    "year": 2021,
+    "id": 37,
+    "question": "Which of the following words contains the short vowel sound /ʌ/ as heard in 'c<u>u</u>p'?",
+    "options": {
+      "A": "bush",
+      "B": "blood",
+      "C": "pull",
+      "D": "foot"
+    },
+    "answer": "B",
+    "explanation": "'Blood' is pronounced /blʌd/ with the short open-mid back unrounded vowel /ʌ/. 'Bush', 'pull', and 'foot' all contain /ʊ/."
+  },
+  {
+    "year": 2021,
+    "id": 38,
+    "question": "In which of the following words is the initial consonant letter 'h' silent?",
+    "options": {
+      "A": "heir",
+      "B": "hero",
+      "C": "habit",
+      "D": "hostage"
+    },
+    "answer": "A",
+    "explanation": "'Heir' is pronounced /eə/ (silent 'h'). In 'hero', 'habit', and 'hostage', the /h/ is articulated."
+  },
+  {
+    "year": 2021,
+    "id": 39,
+    "question": "Which word has the same consonant sound as the underlined letters in '<u>th</u>en' (/ð/)?",
+    "options": {
+      "A": "think",
+      "B": "mother",
+      "C": "theme",
+      "D": "broth"
+    },
+    "answer": "B",
+    "explanation": "'Then' features the voiced dental fricative /ð/, which is also the sound in 'mother' (/ˈmʌðə/). 'Think', 'theme', and 'broth' feature the voiceless /θ/."
+  },
+  {
+    "year": 2021,
+    "id": 40,
+    "question": "Identify the word with the primary stress on the FIRST syllable:",
+    "options": {
+      "A": "canal",
+      "B": "hotel",
+      "C": "comment",
+      "D": "succumb"
+    },
+    "answer": "C",
+    "explanation": "'COM-ment' is stressed on the first syllable (/ˈkɒment/). 'ca-NAL', 'ho-TEL', and 'suc-CUMB' are all stressed on the second syllable."
+  },
+  {
+    "year": 2022,
+    "id": 41,
+    "question": "Read the following passage and answer the question:\n'The introduction of cashless monetary policies was envisioned as a panacea for currency hoarding and financial opacity. However, the inadequate digital payment infrastructure led to unprecedented queues at automated teller machines and widespread frustration among informal traders. While the long-term benefits of financial inclusion remain indisputable, the transitional friction exposed deep structural vulnerabilities in the financial ecosystem.'\n\nAccording to the passage, the primary motive behind the cashless policy was to:",
+    "options": {
+      "A": "restrict access to automated teller machines",
+      "B": "curb currency hoarding and financial opacity",
+      "C": "discourage informal trade in urban markets",
+      "D": "penalize commercial banking institutions"
+    },
+    "answer": "B",
+    "explanation": "The text directly states that the policy was designed as a panacea for 'currency hoarding and financial opacity'."
+  },
+  {
+    "year": 2022,
+    "id": 42,
+    "question": "Based on the passage above, the word 'panacea' most nearly means:",
+    "options": {
+      "A": "a temporary delay",
+      "B": "a universal cure",
+      "C": "an expensive experiment",
+      "D": "an unavoidable consequence"
+    },
+    "answer": "B",
+    "explanation": "'Panacea' denotes a remedy or solution for all difficulties, problems, or diseases."
+  },
+  {
+    "year": 2022,
+    "id": 43,
+    "question": "The author characterizes the immediate transition to the cashless policy as being:",
+    "options": {
+      "A": "seamless and effortlessly executed",
+      "B": "fraught with systemic friction and logistical difficulty",
+      "C": "permanently detrimental to national financial inclusion",
+      "D": "wholly unsupported by commercial banks"
+    },
+    "answer": "B",
+    "explanation": "The author mentions 'unprecedented queues', 'widespread frustration', and 'transitional friction' exposing structural vulnerabilities."
+  },
+  {
+    "year": 2022,
+    "id": 44,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The senator's testimony on the floor of the upper chamber was completely CANDID.'",
+    "options": {
+      "A": "evasive",
+      "B": "frank",
+      "C": "aggressive",
+      "D": "diplomatic"
+    },
+    "answer": "B",
+    "explanation": "'Candid' means truthful, straightforward, and outspoken; frank."
+  },
+  {
+    "year": 2022,
+    "id": 45,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The former commissioner was EXONERATED by the judicial inquiry panel after month-long hearings.'",
+    "options": {
+      "A": "acquitted",
+      "B": "sentenced",
+      "C": "indicted",
+      "D": "detained"
+    },
+    "answer": "A",
+    "explanation": "'Exonerated' means officially cleared of wrongdoing, blame, or criminal charges; acquitted."
+  },
+  {
+    "year": 2022,
+    "id": 46,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The physics lecturer gave a LUCID explanation of quantum mechanics.'",
+    "options": {
+      "A": "clear",
+      "B": "tedious",
+      "C": "abstract",
+      "D": "monotonous"
+    },
+    "answer": "A",
+    "explanation": "'Lucid' means easily understood, clear, and articulate."
+  },
+  {
+    "year": 2022,
+    "id": 47,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The new municipal zoning law was greeted with intense HOSTILITY by local shopkeepers.'",
+    "options": {
+      "A": "friendliness",
+      "B": "resistance",
+      "C": "indifference",
+      "D": "skepticism"
+    },
+    "answer": "A",
+    "explanation": "'Hostility' refers to antagonism, enmity, or unfriendliness. The opposite is 'friendliness' or warmth."
+  },
+  {
+    "year": 2022,
+    "id": 48,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The visiting diplomat's stay in the capital city was TRANSIENT.'",
+    "options": {
+      "A": "fleeting",
+      "B": "permanent",
+      "C": "temporary",
+      "D": "eventful"
+    },
+    "answer": "B",
+    "explanation": "'Transient' means lasting only for a short time or impermanent. Its direct antonym is 'permanent'."
+  },
+  {
+    "year": 2022,
+    "id": 49,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The monarch's HAUGHTY disposition alienated his most loyal advisers.'",
+    "options": {
+      "A": "humble",
+      "B": "arrogant",
+      "C": "distant",
+      "D": "authoritative"
+    },
+    "answer": "A",
+    "explanation": "'Haughty' means arrogantly superior and disdainful. The opposite is 'humble'."
+  },
+  {
+    "year": 2022,
+    "id": 50,
+    "question": "Interpret the underlined idiom in the sentence:\n'The suspect decided to make a clean breast of his involvement in the payroll fraud.' This means he:",
+    "options": {
+      "A": "confessed his crimes completely",
+      "B": "destroyed all incriminating files",
+      "C": "bribed the investigative officers",
+      "D": "claimed total innocence"
+    },
+    "answer": "A",
+    "explanation": "'Make a clean breast of' means to confess fully and openly about one's misdeeds."
+  },
+  {
+    "year": 2022,
+    "id": 51,
+    "question": "Interpret the underlined idiom in the sentence:\n'The cashier was caught red-handed while altering the daily accounts register.' This implies that the cashier was:",
+    "options": {
+      "A": "caught in the very act of committing the crime",
+      "B": "injured during the altercation",
+      "C": "betrayed by an anonymous informant",
+      "D": "falsely accused without tangible proof"
+    },
+    "answer": "A",
+    "explanation": "'Caught red-handed' means apprehended at the moment of committing a crime or transgression."
+  },
+  {
+    "year": 2022,
+    "id": 52,
+    "question": "Identify the figure of speech used in the sentence:\n'The heavy rain wept copiously over the deserted refugee camp.'",
+    "options": {
+      "A": "hyperbole",
+      "B": "personification",
+      "C": "metaphor",
+      "D": "euphemism"
+    },
+    "answer": "B",
+    "explanation": "Giving human characteristics (weeping copiously) to the rain is an example of personification."
+  },
+  {
+    "year": 2022,
+    "id": 53,
+    "question": "Choose the option that correctly completes the sentence:\n'The special committee has submitted ______ findings to the governing council.'",
+    "options": {
+      "A": "their",
+      "B": "its",
+      "C": "it's",
+      "D": "there"
+    },
+    "answer": "B",
+    "explanation": "'Committee' functions here as a single collective entity, taking the singular neuter possessive pronoun 'its' (without apostrophe)."
+  },
+  {
+    "year": 2022,
+    "id": 54,
+    "question": "Complete the correlative conjunction in the sentence:\n'Hardly had the referee blown the final whistle ______ the spectators invaded the pitch.'",
+    "options": {
+      "A": "when",
+      "B": "than",
+      "C": "that",
+      "D": "before"
+    },
+    "answer": "A",
+    "explanation": "'Hardly' pairs with 'when' (whereas 'no sooner' pairs with 'than')."
+  },
+  {
+    "year": 2022,
+    "id": 55,
+    "question": "Choose the correct preposition to complete the sentence:\n'The candidate prefers reading constitutional law ______ discussing partisan politics.'",
+    "options": {
+      "A": "than",
+      "B": "to",
+      "C": "from",
+      "D": "against"
+    },
+    "answer": "B",
+    "explanation": "The verb 'prefer' takes the preposition 'to' when comparing two activities or objects."
+  },
+  {
+    "year": 2022,
+    "id": 56,
+    "question": "Complete the sentence with the grammatically correct option:\n'Each of the finalists ______ presented with an engraved plaque by the chancellor.'",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "are",
+      "D": "have been"
+    },
+    "answer": "A",
+    "explanation": "'Each' is an indefinite pronoun that takes a singular verb ('was presented')."
+  },
+  {
+    "year": 2022,
+    "id": 57,
+    "question": "Which of the following words contains the diphthong /aʊ/ as in 'n<u>ow</u>'?",
+    "options": {
+      "A": "bowl",
+      "B": "doubt",
+      "C": "blow",
+      "D": "sew"
+    },
+    "answer": "B",
+    "explanation": "'Doubt' is transcribed as /daʊt/ with the diphthong /aʊ/. In 'bowl', 'blow', and 'sew', the vowel sound is /əʊ/."
+  },
+  {
+    "year": 2022,
+    "id": 58,
+    "question": "Which of the following words contains the voiced postalveolar fricative /ʒ/ as heard in 'mea<u>s</u>ure'?",
+    "options": {
+      "A": "mission",
+      "B": "vision",
+      "C": "rush",
+      "D": "church"
+    },
+    "answer": "B",
+    "explanation": "'Vision' contains /ʒ/ (/ˈvɪʒn/). 'Mission' and 'rush' have /ʃ/, while 'church' has the affricate /tʃ/."
+  },
+  {
+    "year": 2022,
+    "id": 59,
+    "question": "Which of the following pairs of words are homophones (sound identical)?",
+    "options": {
+      "A": "meat / meet",
+      "B": "loose / lose",
+      "C": "advice / advise",
+      "D": "quiet / quite"
+    },
+    "answer": "A",
+    "explanation": "'Meat' and 'meet' are both pronounced /miːt/ despite having different spellings and meanings."
+  },
+  {
+    "year": 2022,
+    "id": 60,
+    "question": "In which of the following words is the primary stress on the THIRD syllable?",
+    "options": {
+      "A": "photography",
+      "B": "democratic",
+      "C": "education",
+      "D": "impossible"
+    },
+    "answer": "B",
+    "explanation": "'dem-o-CRAT-ic' has primary stress on its third syllable (/ˌdeməˈkrætɪk/). 'pho-TOG-ra-phy' is on the 2nd, 'im-POS-si-ble' is on the 2nd."
+  },
+  {
+    "year": 2023,
+    "id": 61,
+    "question": "Read the following passage and answer the question:\n'Plastic pollution has reached alarming thresholds in coastal ecosystems, decimating marine biodiversity and bioaccumulating in trophic food webs. Single-use polymers, discarded casually by consumers, fragment into microplastics that resist chemical degradation for centuries. Environmental toxicologists caution that these microscopic particles have now infiltrated commercial seafood, threatening human gastrointestinal health.'\n\nAccording to the passage, microplastics are primarily produced through:",
+    "options": {
+      "A": "incineration of medical waste",
+      "B": "the fragmentation of discarded single-use plastics",
+      "C": "chemical reactions of saltwater on marine fauna",
+      "D": "oil spillage from offshore petroleum platforms"
+    },
+    "answer": "B",
+    "explanation": "The passage states that single-use polymers 'fragment into microplastics that resist chemical degradation for centuries'."
+  },
+  {
+    "year": 2023,
+    "id": 62,
+    "question": "Based on the passage above, the word 'decimating' most nearly means:",
+    "options": {
+      "A": "preserving",
+      "B": "destroying",
+      "C": "repopulating",
+      "D": "investigating"
+    },
+    "answer": "B",
+    "explanation": "'Decimating' means severely damaging, killing, or destroying a large proportion of something."
+  },
+  {
+    "year": 2023,
+    "id": 63,
+    "question": "What primary threat to human health is emphasized by toxicologists in the passage?",
+    "options": {
+      "A": "Waterborne infectious outbreaks",
+      "B": "The ingestion of microplastics via commercial seafood",
+      "C": "Air pollution from shoreline waste dumps",
+      "D": "Skin allergies caused by swimming in coastal waters"
+    },
+    "answer": "B",
+    "explanation": "The author notes that microplastics have 'infiltrated commercial seafood, threatening human gastrointestinal health'."
+  },
+  {
+    "year": 2023,
+    "id": 64,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The opposition chieftain made an INFLAMMATORY speech that sparked widespread protests.'",
+    "options": {
+      "A": "provocative",
+      "B": "soothing",
+      "C": "boring",
+      "D": "conciliatory"
+    },
+    "answer": "A",
+    "explanation": "'Inflammatory' describes speech or behavior intended to arouse angry or violent feelings; provocative."
+  },
+  {
+    "year": 2023,
+    "id": 65,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The neurosurgeon operated with astonishing DEXTERITY during the critical procedure.'",
+    "options": {
+      "A": "clumsiness",
+      "B": "skill",
+      "C": "haste",
+      "D": "hesitation"
+    },
+    "answer": "B",
+    "explanation": "'Dexterity' refers to skill, agility, and precision, particularly in physical manipulation."
+  },
+  {
+    "year": 2023,
+    "id": 66,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The neighborhood suffered from PERENNIAL drainage overflows during rainy seasons.'",
+    "options": {
+      "A": "recurrent",
+      "B": "accidental",
+      "C": "temporary",
+      "D": "unprecedented"
+    },
+    "answer": "A",
+    "explanation": "'Perennial' means lasting for a long time or continually recurring; recurrent."
+  },
+  {
+    "year": 2023,
+    "id": 67,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The discipline committee was remarkably LENIENT with the first-year student.'",
+    "options": {
+      "A": "harsh",
+      "B": "merciful",
+      "C": "sympathetic",
+      "D": "patient"
+    },
+    "answer": "A",
+    "explanation": "'Lenient' means tolerant, merciful, or not strict. The direct opposite is 'harsh' or strict."
+  },
+  {
+    "year": 2023,
+    "id": 68,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The eye-witness gave a COHERENT narration of the highway collision.'",
+    "options": {
+      "A": "disjointed",
+      "B": "credible",
+      "C": "detailed",
+      "D": "lucid"
+    },
+    "answer": "A",
+    "explanation": "'Coherent' means logical, orderly, and clearly articulated. The opposite is 'disjointed'."
+  },
+  {
+    "year": 2023,
+    "id": 69,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The platoon commander was commended for his VALIANT conduct during the ambush.'",
+    "options": {
+      "A": "cowardly",
+      "B": "courageous",
+      "C": "heroic",
+      "D": "reckless"
+    },
+    "answer": "A",
+    "explanation": "'Valiant' means possessing or showing courage or valor. Its antonym is 'cowardly'."
+  },
+  {
+    "year": 2023,
+    "id": 70,
+    "question": "Interpret the underlined idiom in the sentence:\n'The defense attorney attempted to throw dust in the eyes of the jury.' This means the attorney tried to:",
+    "options": {
+      "A": "physically assault the jurors",
+      "B": "mislead and confuse the jurors",
+      "C": "present forensic evidence",
+      "D": "appeal to the emotions of spectators"
+    },
+    "answer": "B",
+    "explanation": "To 'throw dust in someone's eyes' means to deceive, confuse, or mislead them."
+  },
+  {
+    "year": 2023,
+    "id": 71,
+    "question": "Interpret the underlined idiom in the sentence:\n'At the international summit of economists, Segun felt like a fish out of water.' This implies that Segun:",
+    "options": {
+      "A": "felt thoroughly uncomfortable and out of place",
+      "B": "was thirsty and exhausted from traveling",
+      "C": "dominated the keynote conversations",
+      "D": "felt deeply superior to the participants"
+    },
+    "answer": "A",
+    "explanation": "'A fish out of water' is an idiom describing someone who feels awkward and out of place in an unfamiliar environment."
+  },
+  {
+    "year": 2023,
+    "id": 72,
+    "question": "Identify the figure of speech used in the following expression:\n'The athlete was so famished after the race that he could devour a whole cow.'",
+    "options": {
+      "A": "hyperbole",
+      "B": "understatement",
+      "C": "euphemism",
+      "D": "irony"
+    },
+    "answer": "A",
+    "explanation": "An intentional and extreme exaggeration used for rhetorical effect is a hyperbole."
+  },
+  {
+    "year": 2023,
+    "id": 73,
+    "question": "Complete the sentence with the correct correlative conjunction:\n'No sooner had the keynote speaker stepped onto the podium ______ the power failed.'",
+    "options": {
+      "A": "than",
+      "B": "when",
+      "C": "then",
+      "D": "before"
+    },
+    "answer": "A",
+    "explanation": "The correlative structure 'no sooner' requires 'than' (not 'when')."
+  },
+  {
+    "year": 2023,
+    "id": 74,
+    "question": "Choose the correct verb form to complete the sentence:\n'The laboratory equipment, together with all accessories, ______ shipped yesterday.'",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "have been",
+      "D": "are"
+    },
+    "answer": "A",
+    "explanation": "Parenthetical expressions like 'together with' do not alter the grammatical number of the subject. 'Equipment' is uncountable (singular), so 'was' is required."
+  },
+  {
+    "year": 2023,
+    "id": 75,
+    "question": "Choose the grammatically correct option to complete the sentence:\n'The chairman would rather we ______ the board meeting until next Monday.'",
+    "options": {
+      "A": "postpone",
+      "B": "postponed",
+      "C": "will postpone",
+      "D": "have postponed"
+    },
+    "answer": "B",
+    "explanation": "When 'would rather' is followed by a subject and clause expressing present/future preference, the subjunctive past tense ('postponed') is used."
+  },
+  {
+    "year": 2023,
+    "id": 76,
+    "question": "Choose the option that correctly completes the sentence:\n'Dr. Okon is one of those passionate researchers who ______ committed to malaria eradication.'",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "has been"
+    },
+    "answer": "B",
+    "explanation": "In 'one of those [plural noun] who...', the relative pronoun 'who' refers to the plural noun 'researchers', requiring the plural verb 'are'."
+  },
+  {
+    "year": 2023,
+    "id": 77,
+    "question": "Which of the following words contains the long vowel sound /ɔː/ as heard in 'p<u>aw</u>'?",
+    "options": {
+      "A": "spot",
+      "B": "port",
+      "C": "pot",
+      "D": "nod"
+    },
+    "answer": "B",
+    "explanation": "'Port' is pronounced /pɔːt/ with the long back vowel /ɔː/. 'Spot', 'pot', and 'nod' all contain the short vowel /ɒ/."
+  },
+  {
+    "year": 2023,
+    "id": 78,
+    "question": "Which of the following words contains a silent consonant letter?",
+    "options": {
+      "A": "subtle",
+      "B": "marble",
+      "C": "timber",
+      "D": "rebel"
+    },
+    "answer": "A",
+    "explanation": "In 'subtle' (/ˈsʌtl/), the letter 'b' is silent. In the other words, all consonant letters are voiced or articulated."
+  },
+  {
+    "year": 2023,
+    "id": 79,
+    "question": "Choose the word that rhymes with 'suite' (/swiːt/):",
+    "options": {
+      "A": "suit",
+      "B": "sweet",
+      "C": "sweat",
+      "D": "soot"
+    },
+    "answer": "B",
+    "explanation": "'Suite' is pronounced /swiːt/, rhyming perfectly with 'sweet' (/swiːt/). 'Suit' is /suːt/ or /sjuːt/."
+  },
+  {
+    "year": 2023,
+    "id": 80,
+    "question": "In which of the following words does the primary stress fall on the SECOND syllable?",
+    "options": {
+      "A": "politics",
+      "B": "maintain",
+      "C": "cinema",
+      "D": "delicate"
+    },
+    "answer": "B",
+    "explanation": "'main-TAIN' is stressed on the second syllable (/meɪnˈteɪn/). 'POL-i-tics', 'CIN-e-ma', and 'DEL-i-cate' are all stressed on the first syllable."
+  },
+  {
+    "year": 2024,
+    "id": 81,
+    "question": "Read the following passage and answer the question:\n'The burgeoning gig economy has dismantled conventional workplace orthodoxies, offering workers unprecedented autonomy over their schedules. Yet, this flexibility masks precarious labor conditions, characterized by an absence of health insurance, pension contributions, and employment protections. Consequently, labor economists argue that platform workers bear the total risk of market volatility while capital consolidates without traditional liabilities.'\n\nThe central paradox of the gig economy highlighted in the passage is that:",
+    "options": {
+      "A": "workers earn high wages while platform owners suffer losses",
+      "B": "schedule flexibility is accompanied by acute job insecurity and lack of safety nets",
+      "C": "gig platforms mandate fixed hours while denying overtime pay",
+      "D": "automation has forced platform companies to hire full-time staff"
+    },
+    "answer": "B",
+    "explanation": "The passage highlights how flexibility and autonomy coexist with precarious conditions lacking insurance, pensions, and protections."
+  },
+  {
+    "year": 2024,
+    "id": 82,
+    "question": "Based on the passage above, the word 'precarious' most nearly means:",
+    "options": {
+      "A": "lucrative",
+      "B": "insecure",
+      "C": "stable",
+      "D": "traditional"
+    },
+    "answer": "B",
+    "explanation": "'Precarious' means not securely held; dangerously insecure, uncertain, or vulnerable."
+  },
+  {
+    "year": 2024,
+    "id": 83,
+    "question": "According to the passage, platform corporations gain advantage primarily because they:",
+    "options": {
+      "A": "bear the financial burden of market volatility",
+      "B": "consolidate capital without traditional employer liabilities",
+      "C": "fund mandatory health insurance for contractors",
+      "D": "discourage workers from adopting flexible schedules"
+    },
+    "answer": "B",
+    "explanation": "The passage concludes that 'capital consolidates without traditional liabilities' while platform workers bear market risks."
+  },
+  {
+    "year": 2024,
+    "id": 84,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The electoral commission gave an UNEQUIVOCAL declaration regarding the election timetable.'",
+    "options": {
+      "A": "hesitant",
+      "B": "unambiguous",
+      "C": "secretive",
+      "D": "conditional"
+    },
+    "answer": "B",
+    "explanation": "'Unequivocal' means leaving no doubt, completely clear, and unambiguous."
+  },
+  {
+    "year": 2024,
+    "id": 85,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The human rights advocate displayed an INDOMITABLE courage in the face of political persecution.'",
+    "options": {
+      "A": "unyielding",
+      "B": "fragile",
+      "C": "intermittent",
+      "D": "cautious"
+    },
+    "answer": "A",
+    "explanation": "'Indomitable' means impossible to subdue, defeat, or discourage; unyielding."
+  },
+  {
+    "year": 2024,
+    "id": 86,
+    "question": "In the following sentence, choose the option nearest in meaning to the capitalized word:\n'The disciplinary committee dismissed the petition on the grounds that it was FRIVOLOUS.'",
+    "options": {
+      "A": "grave",
+      "B": "trivial",
+      "C": "consequential",
+      "D": "exhaustive"
+    },
+    "answer": "B",
+    "explanation": "'Frivolous' means lacking serious purpose, value, or merit; trivial."
+  },
+  {
+    "year": 2024,
+    "id": 87,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The philanthropist was celebrated for his ALTRUISTIC contributions to rural education.'",
+    "options": {
+      "A": "selfish",
+      "B": "benevolent",
+      "C": "magnanimous",
+      "D": "generous"
+    },
+    "answer": "A",
+    "explanation": "'Altruistic' means showing unselfish concern for others; its opposite is 'selfish'."
+  },
+  {
+    "year": 2024,
+    "id": 88,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The military spokesperson denied that there was any OVERT hostility between the neighboring states.'",
+    "options": {
+      "A": "hidden",
+      "B": "obvious",
+      "C": "public",
+      "D": "aggressive"
+    },
+    "answer": "A",
+    "explanation": "'Overt' means done or shown openly; not secret or concealed. The antonym is 'hidden' (or covert)."
+  },
+  {
+    "year": 2024,
+    "id": 89,
+    "question": "In the following sentence, choose the option opposite in meaning to the capitalized word:\n'The traditional ruler made a PACIFYING speech to calm the aggrieved youths.'",
+    "options": {
+      "A": "provoking",
+      "B": "conciliatory",
+      "C": "soothing",
+      "D": "comforting"
+    },
+    "answer": "A",
+    "explanation": "'Pacifying' means calming, soothing, or peacemaking. The antonym is 'provoking' or inciting."
+  },
+  {
+    "year": 2024,
+    "id": 90,
+    "question": "Interpret the underlined idiom in the sentence:\n'During the unscripted interview, the spokesperson accidentally let the cat out of the bag.' This means the spokesperson:",
+    "options": {
+      "A": "revealed a secret inadvertently",
+      "B": "misplaced classified documents",
+      "C": "interrupted the broadcast abruptly",
+      "D": "rescued a pet from danger"
+    },
+    "answer": "A",
+    "explanation": "'Let the cat out of the bag' is an idiom meaning to disclose a secret unintentionally."
+  },
+  {
+    "year": 2024,
+    "id": 91,
+    "question": "Interpret the underlined idiom in the sentence:\n'With all credible defenses collapsed, the legal counsel was clutching at straws.' This implies that the counsel was:",
+    "options": {
+      "A": "resorting to desperate measures with little hope of success",
+      "B": "presenting incontrovertible legal authorities",
+      "C": "gathering forensic materials from the crime scene",
+      "D": "confident of securing an acquittal"
+    },
+    "answer": "A",
+    "explanation": "'Clutching at straws' means trying any desperate remedy or idea in a difficult situation, however unlikely to work."
+  },
+  {
+    "year": 2024,
+    "id": 92,
+    "question": "Identify the figure of speech used in the sentence:\n'The aging wooden footbridge groaned under the immense weight of the commuters.'",
+    "options": {
+      "A": "personification",
+      "B": "metaphor",
+      "C": "synecdoche",
+      "D": "oxymoron"
+    },
+    "answer": "A",
+    "explanation": "Giving human characteristics (groaning) to an inanimate object (footbridge) is personification."
+  },
+  {
+    "year": 2024,
+    "id": 93,
+    "question": "Choose the grammatically correct option to complete the sentence:\n'The disciplinary panel recommended that the erring official ______ suspended without pay.'",
+    "options": {
+      "A": "is",
+      "B": "be",
+      "C": "was",
+      "D": "were"
+    },
+    "answer": "B",
+    "explanation": "Verbs of recommendation, demand, or order use the mandative subjunctive form, requiring the base form of the verb ('be')."
+  },
+  {
+    "year": 2024,
+    "id": 94,
+    "question": "Choose the grammatically correct verb to complete the sentence:\n'Neither of the shortlisted candidates ______ eligible for the executive fellowship.'",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "have been"
+    },
+    "answer": "A",
+    "explanation": "'Neither' takes a singular verb ('is') when used as a pronoun referring to two entities."
+  },
+  {
+    "year": 2024,
+    "id": 95,
+    "question": "Complete the sentence with the appropriate conjunction:\n'The students had scarcely commenced writing the examination ______ the invigilator instructed them to stop.'",
+    "options": {
+      "A": "when",
+      "B": "than",
+      "C": "then",
+      "D": "that"
+    },
+    "answer": "A",
+    "explanation": "'Scarcely' is paired with 'when' in English correlative grammar."
+  },
+  {
+    "year": 2024,
+    "id": 96,
+    "question": "Choose the option that correctly completes the sentence:\n'You had better ______ the project proposal before the deadline passes.'",
+    "options": {
+      "A": "submit",
+      "B": "to submit",
+      "C": "submitting",
+      "D": "submitted"
+    },
+    "answer": "A",
+    "explanation": "'Had better' is an idiomatic modal auxiliary followed by the bare infinitive ('submit' without 'to')."
+  },
+  {
+    "year": 2024,
+    "id": 97,
+    "question": "Which of the following words contains the long central vowel sound /ɜː/ as heard in 'b<u>ir</u>d'?",
+    "options": {
+      "A": "heart",
+      "B": "hurt",
+      "C": "short",
+      "D": "port"
+    },
+    "answer": "B",
+    "explanation": "'Hurt' is transcribed as /hɜːt/ with the long vowel /ɜː/. 'Heart' is /hɑːt/, while 'short' and 'port' have /ɔː/."
+  },
+  {
+    "year": 2024,
+    "id": 98,
+    "question": "Which of the following words has the same consonant sound as the underlined letters in 'ca<u>sh</u>' (/ʃ/)?",
+    "options": {
+      "A": "nation",
+      "B": "decision",
+      "C": "leisure",
+      "D": "garage"
+    },
+    "answer": "A",
+    "explanation": "'Cash' ends in the voiceless postalveolar fricative /ʃ/. In 'nation' (/ˈneɪʃn/), '-ti-' produces the /ʃ/ sound. 'Decision' and 'leisure' have the voiced /ʒ/."
+  },
+  {
+    "year": 2024,
+    "id": 99,
+    "question": "Identify the word that rhymes with 'rough' (/rʌf/):",
+    "options": {
+      "A": "cough",
+      "B": "dough",
+      "C": "tough",
+      "D": "plough"
+    },
+    "answer": "C",
+    "explanation": "'Rough' is pronounced /rʌf/ and rhymes with 'tough' (/tʌf/). 'Cough' is /kɒf/, 'dough' is /dəʊ/, and 'plough' is /plaʊ/."
+  },
+  {
+    "year": 2024,
+    "id": 100,
+    "question": "In which of the following words is the primary stress on the FIRST syllable?",
+    "options": {
+      "A": "confess",
+      "B": "dispute",
+      "C": "intact",
+      "D": "comfort"
+    },
+    "answer": "D",
+    "explanation": "'COM-fort' has primary stress on its first syllable (/ˈkʌmfət/). 'con-FESS', 'dis-PUTE', and 'in-TACT' are stressed on the second syllable."
+  }
+]

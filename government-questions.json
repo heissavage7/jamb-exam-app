@@ -1,0 +1,1302 @@
+[
+  {
+    "year": 2020,
+    "id": 1,
+    "question": "In political science, legitimacy is best defined as the",
+    "options": {
+      "A": "popular recognition and acceptance of a government's right to exercise power",
+      "B": "legal authority to enforce military obedience",
+      "C": "constitutional capacity to collect direct taxation",
+      "D": "unconditional obedience of citizens to hereditary rulers"
+    },
+    "answer": "A",
+    "explanation": "Legitimacy is the moral and popular acceptance, consent, and recognition by the citizens of the rightful authority of a government to govern."
+  },
+  {
+    "year": 2020,
+    "id": 2,
+    "question": "The French political thinker who first systematically formulated the modern concept of state sovereignty was",
+    "options": {
+      "A": "Baron de Montesquieu",
+      "B": "Jean Bodin",
+      "C": "Jean-Jacques Rousseau",
+      "D": "Alexis de Tocqueville"
+    },
+    "answer": "B",
+    "explanation": "Jean Bodin first systematically conceptualized sovereignty in his 1576 work 'Six Books of the Commonwealth', defining it as the supreme and untrammeled power over citizens and subjects."
+  },
+  {
+    "year": 2020,
+    "id": 3,
+    "question": "Direct democracy was most successfully practiced in the city-state of",
+    "options": {
+      "A": "imperial Rome",
+      "B": "feudal Sparta",
+      "C": "ancient Athens",
+      "D": "colonial America"
+    },
+    "answer": "C",
+    "explanation": "Direct democracy flourished in ancient Athenian city-states where all eligible citizens gathered directly in the Ecclesia to deliberate and vote on state policies."
+  },
+  {
+    "year": 2020,
+    "id": 4,
+    "question": "In the pre-colonial Hausa-Fulani emirate administrative structure, the official responsible for the treasury and public revenue was the",
+    "options": {
+      "A": "Madawaki",
+      "B": "Galadima",
+      "C": "Sarkin Fada",
+      "D": "Ma'aji"
+    },
+    "answer": "D",
+    "explanation": "In the Hausa-Fulani emirate system, the Ma'aji served as the chief treasurer managing the public treasury and tax collections."
+  },
+  {
+    "year": 2020,
+    "id": 5,
+    "question": "The supreme council of kingmakers that served as the primary constitutional check on the Alaafin of Oyo was the",
+    "options": {
+      "A": "Are Ona Kakanfo",
+      "B": "Oyomesi",
+      "C": "Ogboni Society",
+      "D": "Baale Council"
+    },
+    "answer": "B",
+    "explanation": "The Oyomesi was the council of seven hereditary kingmakers, led by the Bashorun, who acted as a powerful constitutional check on the monarch and could reject an authoritarian Alaafin."
+  },
+  {
+    "year": 2020,
+    "id": 6,
+    "question": "The amalgamation of the Northern and Southern Protectorates of Nigeria in 1914 was executed under the governorship of",
+    "options": {
+      "A": "Lord Frederick Lugard",
+      "B": "Sir Donald Cameron",
+      "C": "Sir Arthur Richards",
+      "D": "Sir Hugh Clifford"
+    },
+    "answer": "A",
+    "explanation": "Lord Frederick Lugard united the Northern and Southern Protectorates and the Colony of Lagos on January 1, 1914, serving as Nigeria's first Governor-General."
+  },
+  {
+    "year": 2020,
+    "id": 7,
+    "question": "A major constitutional landmark of the 1922 Clifford Constitution in Nigeria was the",
+    "options": {
+      "A": "creation of the office of federal Prime Minister",
+      "B": "establishment of regional bicameral legislatures",
+      "C": "introduction of the elective principle into the Legislative Council",
+      "D": "granting of full regional self-government"
+    },
+    "answer": "C",
+    "explanation": "The Clifford Constitution of 1922 introduced the elective principle for the first time in Nigeria, enabling four elected Africans (three from Lagos and one from Calabar) to enter the Legislative Council."
+  },
+  {
+    "year": 2020,
+    "id": 8,
+    "question": "A primary objective of the Richards Constitution of 1946 was to",
+    "options": {
+      "A": "eliminate traditional rulers from legislative bodies",
+      "B": "transfer executive administrative powers to Nigerian ministers",
+      "C": "establish a unitary republic under military authority",
+      "D": "promote the unity of Nigeria and secure greater participation for Africans in their affairs"
+    },
+    "answer": "D",
+    "explanation": "Governor Arthur Richards outlined three objectives for his 1946 constitution: promoting Nigerian unity, recognizing its diversity, and securing greater African participation in governance."
+  },
+  {
+    "year": 2020,
+    "id": 9,
+    "question": "The 1954 Lyttelton Constitution is historically significant in Nigeria because it",
+    "options": {
+      "A": "formally established a federal system of government",
+      "B": "abolished regional houses of assembly",
+      "C": "proclaimed total independence from British colonial rule",
+      "D": "created a unitary civil service structure"
+    },
+    "answer": "A",
+    "explanation": "The 1954 Lyttelton Constitution established a genuine federal system in Nigeria with regional autonomy and clear legislative lists (Exclusive, Concurrent, and Residual)."
+  },
+  {
+    "year": 2020,
+    "id": 10,
+    "question": "The primary objective of the doctrine of separation of powers as formulated by Baron de Montesquieu is to",
+    "options": {
+      "A": "speed up legislative procedures in parliament",
+      "B": "ensure judicial subordination to the executive branch",
+      "C": "prevent arbitrary rule and safeguard individual liberty",
+      "D": "concentrate state power in a single strong leader"
+    },
+    "answer": "C",
+    "explanation": "Montesquieu formulated the separation of powers doctrine to avoid the concentration of power in one branch, thereby protecting political liberty and preventing tyranny."
+  },
+  {
+    "year": 2020,
+    "id": 11,
+    "question": "The constitutional authority of the courts to examine executive actions or legislative enactments and declare them invalid if inconsistent with the constitution is known as",
+    "options": {
+      "A": "judicial immunity",
+      "B": "judicial precedent",
+      "C": "prerogative of mercy",
+      "D": "judicial review"
+    },
+    "answer": "D",
+    "explanation": "Judicial review is the constitutional mechanism that empowers courts to declare laws or executive orders null and void if they violate the provisions of the supreme constitution."
+  },
+  {
+    "year": 2020,
+    "id": 12,
+    "question": "Under the 1999 Constitution of Nigeria, if the President withholds assent to a bill passed by the National Assembly, the veto can be overridden by a",
+    "options": {
+      "A": "simple majority vote of members present in both chambers",
+      "B": "two-thirds majority vote of each House of the National Assembly",
+      "C": "unanimous resolution of the Senate",
+      "D": "three-quarters majority vote in the House of Representatives"
+    },
+    "answer": "B",
+    "explanation": "Section 58(5) of the 1999 Constitution provides that if the President withholds assent, the bill can become law without presidential assent if repassed by a two-thirds majority in both legislative chambers."
+  },
+  {
+    "year": 2020,
+    "id": 13,
+    "question": "The electoral system where the candidate who scores the highest number of valid votes in a single-member constituency is declared elected is called the",
+    "options": {
+      "A": "proportional representation system",
+      "B": "preferential voting system",
+      "C": "simple plurality or first-past-the-post system",
+      "D": "second ballot system"
+    },
+    "answer": "C",
+    "explanation": "Under the simple plurality (first-past-the-post) system, the candidate who receives more votes than any other individual opponent wins the seat, even without securing an absolute majority."
+  },
+  {
+    "year": 2020,
+    "id": 14,
+    "question": "Which of the following bodies is constitutionally empowered to conduct elections into local government councils in Nigeria?",
+    "options": {
+      "A": "Independent National Electoral Commission (INEC)",
+      "B": "National Orientation Agency (NOA)",
+      "C": "Federal Character Commission (FCC)",
+      "D": "State Independent Electoral Commission (SIEC)"
+    },
+    "answer": "D",
+    "explanation": "Under Section 197 and the Third Schedule of the 1999 Constitution, the State Independent Electoral Commission (SIEC) is responsible for organizing and conducting local government council elections."
+  },
+  {
+    "year": 2020,
+    "id": 15,
+    "question": "A fundamental characteristic of a two-party system is that",
+    "options": {
+      "A": "two major political parties dominate the electoral contest and alternate power",
+      "B": "only two political parties are constitutionally allowed to exist",
+      "C": "third parties are legally banned from fielding candidates",
+      "D": "coalition governments are required after every general election"
+    },
+    "answer": "A",
+    "explanation": "In a two-party system, third parties may exist legally, but two dominant political parties routinely capture the vast majority of votes and alternate governance."
+  },
+  {
+    "year": 2020,
+    "id": 16,
+    "question": "The principle of political neutrality in the civil service requires that civil servants must",
+    "options": {
+      "A": "not belong to any professional trade unions",
+      "B": "serve any elected government impartially and avoid active partisan politics",
+      "C": "retire from service whenever a new president is inaugurated",
+      "D": "refuse to execute government decisions that violate party manifestos"
+    },
+    "answer": "B",
+    "explanation": "Civil service neutrality demands that permanent bureaucrats remain politically non-partisan and dedicated to executing lawful policies regardless of the ruling party's ideology."
+  },
+  {
+    "year": 2020,
+    "id": 17,
+    "question": "A landmark achievement of the 1976 nationwide Local Government Reform in Nigeria was the",
+    "options": {
+      "A": "subordination of local councils directly to military cantonments",
+      "B": "dissolution of all traditional rulers' advisory councils",
+      "C": "recognition of local government as an autonomous third tier of government with standardized functions",
+      "D": "transfer of all local government powers to the federal civil service"
+    },
+    "answer": "C",
+    "explanation": "The 1976 Reform established local government as a uniform, constitutionally recognized third tier of government across Nigeria with standardized functions and financial grants."
+  },
+  {
+    "year": 2020,
+    "id": 18,
+    "question": "The Economic Community of West African States (ECOWAS) was officially established on May 28, 1975, through the signing of the Treaty of",
+    "options": {
+      "A": "Abidjan",
+      "B": "Dakar",
+      "C": "Cotonou",
+      "D": "Lagos"
+    },
+    "answer": "D",
+    "explanation": "ECOWAS was established when fifteen West African heads of state signed the Treaty of Lagos on May 28, 1975, following initiatives spearheaded by Nigeria and Togo."
+  },
+  {
+    "year": 2020,
+    "id": 19,
+    "question": "The African Union (AU) was officially launched to succeed the Organization of African Unity (OAU) in 2002 at a summit held in",
+    "options": {
+      "A": "Durban, South Africa",
+      "B": "Addis Ababa, Ethiopia",
+      "C": "Tripoli, Libya",
+      "D": "Algiers, Algeria"
+    },
+    "answer": "A",
+    "explanation": "The African Union was officially launched at the Durban Summit in South Africa in July 2002, replacing the Organization of African Unity."
+  },
+  {
+    "year": 2020,
+    "id": 20,
+    "question": "Under the Charter of the United Nations, the primary responsibility for the maintenance of international peace and security is vested in the",
+    "options": {
+      "A": "General Assembly",
+      "B": "Security Council",
+      "C": "Economic and Social Council",
+      "D": "International Court of Justice"
+    },
+    "answer": "B",
+    "explanation": "The United Nations Security Council holds primary responsibility under the UN Charter for maintaining international peace, approving sanctions, and authorizing peacekeeping missions."
+  },
+  {
+    "year": 2021,
+    "id": 1,
+    "question": "According to A. V. Dicey's formulation of the Rule of Law, which of the following is NOT one of its core components?",
+    "options": {
+      "A": "Supremacy of ordinary law over arbitrary administrative prerogatives",
+      "B": "Equality before the law for all categories of citizens",
+      "C": "Special legal immunity shielding government officials from prosecution in regular courts",
+      "D": "Protection of fundamental human rights through judicial interpretations"
+    },
+    "answer": "C",
+    "explanation": "Dicey emphatically opposed special legal privileges or separate administrative courts for government officials, maintaining that everyone must be subject to the same ordinary laws in ordinary courts."
+  },
+  {
+    "year": 2021,
+    "id": 2,
+    "question": "In political sociology, a political culture where citizens are largely unaware of government institutions and express little interest or expectation from politics is called",
+    "options": {
+      "A": "parochial political culture",
+      "B": "subject political culture",
+      "C": "participant political culture",
+      "D": "civic political culture"
+    },
+    "answer": "A",
+    "explanation": "According to Almond and Verba, a parochial political culture features citizens who possess virtually no knowledge of or expectations from the central political system."
+  },
+  {
+    "year": 2021,
+    "id": 3,
+    "question": "A fundamental distinction between a confederation and a federation is that in a confederation,",
+    "options": {
+      "A": "the central authority exercises total sovereignty over component territories",
+      "B": "there is no joint central coordinating body for external affairs",
+      "C": "citizens share a single indivisible nationality and judicial code",
+      "D": "component units retain their independent sovereignty and retain the right to secede"
+    },
+    "answer": "D",
+    "explanation": "In a confederation, sovereign states associate voluntarily while retaining their independent statehood and the constitutional prerogative to secede, unlike in an indivisible federation."
+  },
+  {
+    "year": 2021,
+    "id": 4,
+    "question": "The pre-colonial Igbo political system is described as acephalous because it",
+    "options": {
+      "A": "was governed by an absolute hereditary monarch",
+      "B": "operated without a centralized monarchical executive or singular head of government",
+      "C": "relied entirely on military dictatorships for provincial administration",
+      "D": "was ruled by imperial British commercial cartels"
+    },
+    "answer": "B",
+    "explanation": "Acephalous societies lack centralized political heads. Traditional Igbo communities were organized democratically through village assemblies (Oha-na-eze), lineage heads, age grades, and titled men."
+  },
+  {
+    "year": 2021,
+    "id": 5,
+    "question": "The British system of Indirect Rule encountered severe popular resistance in Eastern Nigeria primarily because of the",
+    "options": {
+      "A": "imposition of artificial Warrant Chiefs on egalitarian acephalous societies",
+      "B": "refusal of Christian missions to establish schools in rural areas",
+      "C": "complete absence of agricultural commodities for export trade",
+      "D": "early implementation of French cultural assimilation policies"
+    },
+    "answer": "A",
+    "explanation": "Indirect Rule failed in Eastern Nigeria because British administrators created autocratic Warrant Chiefs whose unchecked powers were completely alien to the republican, consensus-based Igbo governance system."
+  },
+  {
+    "year": 2021,
+    "id": 6,
+    "question": "The historic motion calling for Nigeria's self-government in 1956, which ignited national political tension and the 1953 Kano Riots, was moved by",
+    "options": {
+      "A": "Chief Obafemi Awolowo",
+      "B": "Dr. Nnamdi Azikiwe",
+      "C": "Chief Anthony Enahoro",
+      "D": "Sir Ahmadu Bello"
+    },
+    "answer": "C",
+    "explanation": "Action Group parliamentarian Chief Anthony Enahoro moved the self-government motion in the Federal House of Representatives on March 31, 1953, setting off sharp inter-regional debate."
+  },
+  {
+    "year": 2021,
+    "id": 7,
+    "question": "A major institutional change introduced by the 1963 Republican Constitution of Nigeria was the",
+    "options": {
+      "A": "abolition of all regional legislatures",
+      "B": "adoption of an executive presidential system",
+      "C": "elimination of the office of the Prime Minister",
+      "D": "replacement of Queen Elizabeth II with an indigenous ceremonial President as Head of State"
+    },
+    "answer": "D",
+    "explanation": "The 1963 Constitution declared Nigeria a Federal Republic, severing constitutional ties with the British Monarchy and replacing the British Queen with a ceremonial Nigerian President as Head of State."
+  },
+  {
+    "year": 2021,
+    "id": 8,
+    "question": "The Constitution Drafting Committee that authored the 1979 Constitution adopted the Executive Presidential system primarily to",
+    "options": {
+      "A": "replicate the British parliamentary Westminster system",
+      "B": "create an effective national leader directly elected with a nationwide mandate to foster national integration",
+      "C": "subordinate state governors directly to federal military officers",
+      "D": "allow serving civil servants to participate in political campaigns"
+    },
+    "answer": "B",
+    "explanation": "The framers designed the 1979 executive presidency so that the Head of State and Government would be popularly elected nationwide, promoting national unity beyond regional factions."
+  },
+  {
+    "year": 2021,
+    "id": 9,
+    "question": "Under Chapter III of the 1999 Constitution of Nigeria, citizenship by registration may be granted to a",
+    "options": {
+      "A": "foreign woman married to a Nigerian male citizen",
+      "B": "foreign diplomat accredited to Nigeria",
+      "C": "foreign national who has lived in Nigeria for six months",
+      "D": "child born abroad to parents who are non-Nigerians"
+    },
+    "answer": "A",
+    "explanation": "Under Section 26 of the 1999 Constitution, a foreign woman who marries a Nigerian citizen is eligible to acquire Nigerian citizenship by registration upon meeting statutory residency and character criteria."
+  },
+  {
+    "year": 2021,
+    "id": 10,
+    "question": "A parliamentary tactic where a legislator delivers an excessively prolonged speech to delay or prevent the passage of a bill is called a",
+    "options": {
+      "A": "gerrymandering",
+      "B": "guillotine",
+      "C": "filibuster",
+      "D": "prorogation"
+    },
+    "answer": "C",
+    "explanation": "A filibuster is an obstructionist parliamentary maneuver in which a lawmaker speaks at length to stall proceedings and prevent a bill from being brought to a vote."
+  },
+  {
+    "year": 2021,
+    "id": 11,
+    "question": "In a cabinet or parliamentary system of government, the convention of collective responsibility implies that",
+    "options": {
+      "A": "cabinet ministers can publicly condemn cabinet decisions if their local constituencies disagree",
+      "B": "the cabinet reports only to the judicial branch of government",
+      "C": "ministers are appointed in equal numbers from all registered political parties",
+      "D": "all cabinet ministers must publicly support government decisions or resign their ministerial offices"
+    },
+    "answer": "D",
+    "explanation": "Collective responsibility dictates that all cabinet members share joint accountability for government decisions in public; a minister who disagrees fundamentally must resign."
+  },
+  {
+    "year": 2021,
+    "id": 12,
+    "question": "Under the 1999 Constitution, which body is charged with the constitutional responsibility of recommending persons for judicial appointments and disciplining errant judges in Nigeria?",
+    "options": {
+      "A": "Federal Judicial Service Commission",
+      "B": "National Judicial Council (NJC)",
+      "C": "Nigerian Bar Association",
+      "D": "Body of Benchers"
+    },
+    "answer": "B",
+    "explanation": "The National Judicial Council (NJC), created under Section 153 of the 1999 Constitution, oversees judicial discipline, integrity, and recommends candidates for appointment to the bench."
+  },
+  {
+    "year": 2021,
+    "id": 13,
+    "question": "Universal adult suffrage means that the right to vote in national elections is conferred upon",
+    "options": {
+      "A": "all adult citizens who have attained the constitutional age of maturity regardless of wealth, gender, or social status",
+      "B": "only male citizens who pay direct community taxes",
+      "C": "literate citizens holding recognized academic qualifications",
+      "D": "traditional rulers and certified community leaders only"
+    },
+    "answer": "A",
+    "explanation": "Universal adult suffrage guarantees that all adult citizens meeting the age requirement (18 years in Nigeria) possess the democratic right to vote without discrimination."
+  },
+  {
+    "year": 2021,
+    "id": 14,
+    "question": "An electoral system specifically designed to ensure that the proportion of legislative seats won by each political party corresponds directly to its share of popular votes is",
+    "options": {
+      "A": "First-Past-the-Post system",
+      "B": "Alternative Vote system",
+      "C": "Second Ballot system",
+      "D": "Proportional Representation"
+    },
+    "answer": "D",
+    "explanation": "Proportional representation allocates parliamentary seats in direct proportion to the percentage of total popular votes polled by each contesting political party."
+  },
+  {
+    "year": 2021,
+    "id": 15,
+    "question": "The operational leadership and day-to-day policy oversight of a public statutory corporation is entrusted to a",
+    "options": {
+      "A": "Standing Committee of the Senate",
+      "B": "Federal Civil Service Commission",
+      "C": "Board of Directors and General Manager",
+      "D": "Council of State"
+    },
+    "answer": "C",
+    "explanation": "Public corporations are managed by an appointed Board of Directors that sets operational policies, implemented on a daily basis by a Managing Director or General Manager."
+  },
+  {
+    "year": 2021,
+    "id": 16,
+    "question": "Under the 1988 Civil Service Reorganization Decree (Decree 43) in Nigeria, the official designated as both the Chief Executive and Accounting Officer of a ministry was the",
+    "options": {
+      "A": "Permanent Secretary",
+      "B": "Minister",
+      "C": "Director of Finance",
+      "D": "Auditor-General"
+    },
+    "answer": "B",
+    "explanation": "Decree 43 of 1988 made the Minister the Chief Executive and Accounting Officer, stripping Permanent Secretaries (renamed Directors-General) of accounting authority."
+  },
+  {
+    "year": 2021,
+    "id": 17,
+    "question": "The bloody military counter-coup that toppled the regime of Major General J.T.U. Aguiyi-Ironsi occurred on",
+    "options": {
+      "A": "January 15, 1966",
+      "B": "July 29, 1975",
+      "C": "December 31, 1983",
+      "D": "July 29, 1966"
+    },
+    "answer": "D",
+    "explanation": "On July 29, 1966, northern military officers staged a counter-coup that overthrew General Aguiyi-Ironsi and brought Lt. Col. Yakubu Gowon to power."
+  },
+  {
+    "year": 2021,
+    "id": 18,
+    "question": "The primary historical qualification for sovereign states seeking membership of the Commonwealth of Nations is that they are",
+    "options": {
+      "A": "former colonies or dependencies of the British Empire",
+      "B": "petroleum-exporting nations from the developing world",
+      "C": "geographically situated within the continent of Africa",
+      "D": "founding signatories of the League of Nations"
+    },
+    "answer": "A",
+    "explanation": "The Commonwealth of Nations is a voluntary association primarily composed of sovereign states that were previously colonies or territories of the British Empire."
+  },
+  {
+    "year": 2021,
+    "id": 19,
+    "question": "In recognition of her extensive financial and diplomatic contributions to the eradication of apartheid in Southern Africa, Nigeria was made an honorary member of the",
+    "options": {
+      "A": "Warsaw Treaty Organization",
+      "B": "Frontline States",
+      "C": "Southern African Customs Union",
+      "D": "Arab League"
+    },
+    "answer": "B",
+    "explanation": "Despite being located in West Africa, Nigeria was designated an honorary member of the Frontline States for its immense leadership and resources committed to ending apartheid in South Africa."
+  },
+  {
+    "year": 2021,
+    "id": 20,
+    "question": "Which of the following nations is one of the five permanent members of the United Nations Security Council with veto power?",
+    "options": {
+      "A": "Germany",
+      "B": "Japan",
+      "C": "China",
+      "D": "India"
+    },
+    "answer": "C",
+    "explanation": "The five permanent veto-wielding members of the UN Security Council (P5) are China, France, the Russian Federation, the United Kingdom, and the United States."
+  },
+  {
+    "year": 2022,
+    "id": 1,
+    "question": "Political authority is distinguished from raw power because authority is",
+    "options": {
+      "A": "legitimate power recognized as rightful and proper by those who obey it",
+      "B": "based exclusively on military might and violent intimidation",
+      "C": "exercised solely by monarchs who rule by divine right",
+      "D": "unrecognized by statutory judicial courts"
+    },
+    "answer": "A",
+    "explanation": "Authority is legitimate power that subordinates accept as rightful and lawful, unlike naked power which compels obedience through physical force or intimidation."
+  },
+  {
+    "year": 2022,
+    "id": 2,
+    "question": "The democratic principle asserting that supreme political power originates from and belongs to the citizens of a country is known as",
+    "options": {
+      "A": "parliamentary supremacy",
+      "B": "popular sovereignty",
+      "C": "the divine right of kings",
+      "D": "bureaucratic centralism"
+    },
+    "answer": "B",
+    "explanation": "Popular sovereignty is the foundational democratic premise that the authority of a state and its government is created and sustained by the consent of its citizens through their representatives."
+  },
+  {
+    "year": 2022,
+    "id": 3,
+    "question": "The political concept of constitutionalism demands that",
+    "options": {
+      "A": "constitutions must be completely redrafted every decade",
+      "B": "parliament can enact laws without judicial oversight",
+      "C": "government power must be strictly limited by and exercised according to constitutional rules",
+      "D": "military decrees take precedence over all fundamental human rights"
+    },
+    "answer": "C",
+    "explanation": "Constitutionalism implies limited government; it requires that all governmental powers be restricted by institutional checks and exercised in strict compliance with the constitution."
+  },
+  {
+    "year": 2022,
+    "id": 4,
+    "question": "In the pre-colonial Kingdom of Benin, the council of hereditary kingmakers responsible for installing the Oba was the",
+    "options": {
+      "A": "Oyomesi",
+      "B": "Ogboni",
+      "C": "Egharevba",
+      "D": "Uzama Nihiron"
+    },
+    "answer": "D",
+    "explanation": "The Uzama Nihiron (council of seven kingmakers led by the Oliha) held the constitutional prerogative of crowing the Oba of Benin and advising him on major state matters."
+  },
+  {
+    "year": 2022,
+    "id": 5,
+    "question": "The administrative doctrine of Indirect Rule was systematically pioneered in Northern Nigeria by",
+    "options": {
+      "A": "Lord Frederick Lugard",
+      "B": "Sir Arthur Richards",
+      "C": "Sir John Macpherson",
+      "D": "Sir Bernard Bourdillon"
+    },
+    "answer": "A",
+    "explanation": "Lord Frederick Lugard initiated Indirect Rule in Northern Nigeria, using existing traditional rulers (Emirs) and local institutions to administer the territory at low cost to the British Crown."
+  },
+  {
+    "year": 2022,
+    "id": 6,
+    "question": "The 1951 Macpherson Constitution was unique in Nigerian constitutional history because it was formulated after",
+    "options": {
+      "A": "an armed revolution against colonial authorities",
+      "B": "unprecedented nationwide grassroots consultations from village to regional levels",
+      "C": "the suspension of all regional political parties",
+      "D": "the total departure of British colonial civil servants"
+    },
+    "answer": "B",
+    "explanation": "Governor John Macpherson avoided his predecessor's errors by instituting an extensive consultative process from village and district meetings up to provincial and regional conferences before drafting the 1951 Constitution."
+  },
+  {
+    "year": 2022,
+    "id": 7,
+    "question": "In Nigerian public finance, the formula principle that allocates a percentage of national revenue back to states from which natural wealth was extracted is the",
+    "options": {
+      "A": "equality of states principle",
+      "B": "land mass and terrain principle",
+      "C": "derivation principle",
+      "D": "population density principle"
+    },
+    "answer": "C",
+    "explanation": "The derivation principle allocates a constitutionally stipulated share (presently at least 13%) of mineral revenue directly back to the oil-producing littoral states."
+  },
+  {
+    "year": 2022,
+    "id": 8,
+    "question": "The Federal Character Principle was entrenched in Nigeria's 1979 and 1999 Constitutions primarily to",
+    "options": {
+      "A": "perpetuate the dominance of one geopolitical zone in federal parastatals",
+      "B": "privatize all commercial corporations belonging to the state",
+      "C": "centralize judicial appeal processes under military command",
+      "D": "prevent the dominance of government institutions by persons from a few states or ethnic groups"
+    },
+    "answer": "D",
+    "explanation": "Section 14(3) of the 1999 Constitution mandates the Federal Character Principle to ensure equitable representation of all states and ethnic groups in public appointments, fostering national unity."
+  },
+  {
+    "year": 2022,
+    "id": 9,
+    "question": "Which of the following is an enforceable Fundamental Right guaranteed under Chapter IV of the 1999 Constitution of Nigeria?",
+    "options": {
+      "A": "Right to personal liberty",
+      "B": "Right to free university education",
+      "C": "Right to automatic public housing",
+      "D": "Right to state-provided unemployment allowances"
+    },
+    "answer": "A",
+    "explanation": "The Right to Personal Liberty is protected under Section 35 of the 1999 Constitution and is legally enforceable in court, unlike socio-economic goals in Chapter II which are non-justiciable."
+  },
+  {
+    "year": 2022,
+    "id": 10,
+    "question": "Which of the following actions constitutes an effective legislative check on the executive branch in Nigeria?",
+    "options": {
+      "A": "The President withholding assent to an electoral bill",
+      "B": "The Senate screening and confirming or rejecting presidential nominees for ministerial offices",
+      "C": "The Supreme Court invalidating an unconstitutional presidential executive order",
+      "D": "The Chief Justice swearing in an elected governor"
+    },
+    "answer": "B",
+    "explanation": "Under Section 147 of the 1999 Constitution, the Senate exercises constitutional checks on the President by screening and voting to confirm or reject ministerial nominees."
+  },
+  {
+    "year": 2022,
+    "id": 11,
+    "question": "To protect judicial officers from executive intimidation and safeguard judicial independence, their remunerations in Nigeria are charged directly to the",
+    "options": {
+      "A": "Petroleum Technology Development Fund",
+      "B": "National Ecological Disaster Relief Fund",
+      "C": "Consolidated Revenue Fund of the Federation",
+      "D": "Presidential Discretionary Security Fund"
+    },
+    "answer": "C",
+    "explanation": "Judicial salaries and pensions are charged upon the Consolidated Revenue Fund under Section 84 of the 1999 Constitution, ensuring financial autonomy from executive and legislative interference."
+  },
+  {
+    "year": 2022,
+    "id": 12,
+    "question": "A bicameral legislature is structurally defined as an assembly having",
+    "options": {
+      "A": "both military and civilian parliamentarians",
+      "B": "equal representation from every registered political party",
+      "C": "lawmakers elected for two-year terms",
+      "D": "two separate chambers or houses"
+    },
+    "answer": "D",
+    "explanation": "A bicameral legislature consists of two chambers, such as the Senate and the House of Representatives in the Nigerian National Assembly."
+  },
+  {
+    "year": 2022,
+    "id": 13,
+    "question": "The unlawful alteration and manipulation of electoral constituency boundaries to confer undue political advantage upon a specific party is called",
+    "options": {
+      "A": "gerrymandering",
+      "B": "cross-carpeting",
+      "C": "filibustering",
+      "D": "carpet-crossing"
+    },
+    "answer": "A",
+    "explanation": "Gerrymandering is the partisan redrawing of electoral district boundaries to unfairly maximize seats for one political party."
+  },
+  {
+    "year": 2022,
+    "id": 14,
+    "question": "Pressure groups differ fundamentally from political parties because pressure groups",
+    "options": {
+      "A": "aim to capture direct executive power and form the government",
+      "B": "seek to influence public policies without contesting elections to control political office",
+      "C": "are funded exclusively through statutory federal grants",
+      "D": "must nominate presidential candidates every four years"
+    },
+    "answer": "B",
+    "explanation": "While political parties compete in elections to win political power and govern, pressure groups merely lobby and influence government decisions on behalf of specific group interests."
+  },
+  {
+    "year": 2022,
+    "id": 15,
+    "question": "The administrative convention of 'anonymity' in the civil service implies that",
+    "options": {
+      "A": "civil servants are forbidden from revealing their names on official identity cards",
+      "B": "civil servants cannot be summoned to give evidence in regular courts",
+      "C": "civil servants perform their duties quietly while their political ministers take public praise or blame",
+      "D": "all official letters are drafted without departmental file references"
+    },
+    "answer": "C",
+    "explanation": "Anonymity shields civil servants from public political debates; the Minister is politically accountable and answers to parliament and the public for the department's actions."
+  },
+  {
+    "year": 2022,
+    "id": 16,
+    "question": "The specialized body established by the Federal Military Government of Nigeria in 1975 to investigate citizens' complaints against bureaucratic injustices is the",
+    "options": {
+      "A": "Federal Character Commission",
+      "B": "Code of Conduct Bureau",
+      "C": "Independent Corrupt Practices Commission",
+      "D": "Public Complaints Commission"
+    },
+    "answer": "D",
+    "explanation": "The Public Complaints Commission (PCC) was established in October 1975 under Decree 31 to serve as the Nigerian Ombudsman, investigating citizen grievances regarding administrative injustice and maladministration."
+  },
+  {
+    "year": 2022,
+    "id": 17,
+    "question": "The Head of State who successfully completed a transition to civil rule programme and handed over power to an elected President on October 1, 1979, was",
+    "options": {
+      "A": "General Olusegun Obasanjo",
+      "B": "General Yakubu Gowon",
+      "C": "General Ibrahim Babangida",
+      "D": "Major General Muhammadu Buhari"
+    },
+    "answer": "A",
+    "explanation": "General Olusegun Obasanjo concluded the military transition programme initiated by General Murtala Muhammed, handing over power to President Shehu Shagari on October 1, 1979."
+  },
+  {
+    "year": 2022,
+    "id": 18,
+    "question": "Nigeria was officially admitted as the eleventh member state of the Organization of the Petroleum Exporting Countries (OPEC) in",
+    "options": {
+      "A": "1960",
+      "B": "1971",
+      "C": "1983",
+      "D": "1999"
+    },
+    "answer": "B",
+    "explanation": "Nigeria joined OPEC in July 1971 during General Yakubu Gowon's regime, significantly boosting its international standing as a premier petroleum exporter."
+  },
+  {
+    "year": 2022,
+    "id": 19,
+    "question": "The multinational military monitoring force created by ECOWAS in 1990 to intervene and restore peace during the Liberian civil war was",
+    "options": {
+      "A": "AFISMA",
+      "B": "MONUSCO",
+      "C": "ECOMOG",
+      "D": "AMISOM"
+    },
+    "answer": "C",
+    "explanation": "The ECOWAS Ceasefire Monitoring Group (ECOMOG) was established in 1990 under Nigerian leadership as an armed expeditionary force to restore order during the Liberian civil war."
+  },
+  {
+    "year": 2022,
+    "id": 20,
+    "question": "Nigeria's controversial accession to full membership of the Organization of Islamic Cooperation (OIC) in January 1986 occurred under the regime of",
+    "options": {
+      "A": "Alhaji Shehu Shagari",
+      "B": "General Sani Abacha",
+      "C": "General Abdulsalami Abubakar",
+      "D": "General Ibrahim Babangida"
+    },
+    "answer": "D",
+    "explanation": "General Ibrahim Babangida's military administration upgraded Nigeria from observer status to full member of the OIC in January 1986, sparking intense national debate on state secularism."
+  },
+  {
+    "year": 2023,
+    "id": 1,
+    "question": "The supreme legal power within a state to enact, amend, and enforce statutory laws that are binding on all citizens and recognized by the courts is called",
+    "options": {
+      "A": "legal sovereignty",
+      "B": "political sovereignty",
+      "C": "de facto sovereignty",
+      "D": "customary sovereignty"
+    },
+    "answer": "A",
+    "explanation": "Legal sovereignty is the ultimate, legally competent authority to make and enforce laws within a state, such as parliament in Britain or the constitution in a constitutional republic."
+  },
+  {
+    "year": 2023,
+    "id": 2,
+    "question": "The lifelong process through which citizens acquire political orientations, values, and behavioral norms is termed",
+    "options": {
+      "A": "political recruitment",
+      "B": "political socialization",
+      "C": "political communication",
+      "D": "political aggregation"
+    },
+    "answer": "B",
+    "explanation": "Political socialization is the developmental process through which individuals absorb political culture, attitudes, and democratic habits from agents like the family, schools, peer groups, and the media."
+  },
+  {
+    "year": 2023,
+    "id": 3,
+    "question": "In a presidential system of government, executive power is characterized by",
+    "options": {
+      "A": "the selection of the executive head by a majority vote of parliament",
+      "B": "the subordination of the head of state to the judicial bench",
+      "C": "the fusion of the ceremonial Head of State and the executive Head of Government in one person",
+      "D": "the removal of the president whenever parliament passes a vote of no confidence"
+    },
+    "answer": "C",
+    "explanation": "In a presidential system, the offices of Head of State and Head of Government are combined in a single elected President who exercises executive power for a fixed term."
+  },
+  {
+    "year": 2023,
+    "id": 4,
+    "question": "The traditional pre-colonial political structure of the Tiv people in central Nigeria was notable for being",
+    "options": {
+      "A": "a centralized imperial monarchy with hereditary palace nobles",
+      "B": "a council of divine war generals who ruled through conquest",
+      "C": "an absolute theocratic caliphate headed by an Islamic jurist",
+      "D": "an egalitarian segmentary lineage system lacking a centralized monarch"
+    },
+    "answer": "D",
+    "explanation": "Pre-colonial Tiv society was acephalous and segmentary; governance was conducted through lineage groups, family heads, and councils of elders (Jir), without any king (Tor Tiv was created in colonial times)."
+  },
+  {
+    "year": 2023,
+    "id": 5,
+    "question": "The Aba Women's Riots of November and December 1929 were primarily triggered by",
+    "options": {
+      "A": "widespread fears that women were about to be directly taxed by the British colonial administration",
+      "B": "the introduction of compulsory Western Christian clothing for rural market women",
+      "C": "the expropriation of ancestral farmland for European rubber plantations",
+      "D": "the prohibition of traditional palm oil refining across the eastern provinces"
+    },
+    "answer": "A",
+    "explanation": "The Aba Women's War was ignited in 1929 when Warrant Chief Okugo reassessed households and property in Oloko, creating widespread fears that women were about to be directly taxed like men."
+  },
+  {
+    "year": 2023,
+    "id": 6,
+    "question": "The Unification Decree (Decree No. 34) of May 1966, which abolished the federal structure and regional autonomy in Nigeria, was promulgated by",
+    "options": {
+      "A": "Lt. Col. Yakubu Gowon",
+      "B": "Major General J.T.U. Aguiyi-Ironsi",
+      "C": "Major Chukwuma Nzeogwu",
+      "D": "General Murtala Muhammed"
+    },
+    "answer": "B",
+    "explanation": "Major General Aguiyi-Ironsi promulgated Decree 34 on May 24, 1966, abolishing Nigeria's federal system and replacing the four regions with groups of provinces under a unitary military command."
+  },
+  {
+    "year": 2023,
+    "id": 7,
+    "question": "Under the 1979 Constitution of Nigeria, a victorious presidential candidate had to secure the highest total votes and at least 25% of votes cast in",
+    "options": {
+      "A": "all states situated within the northern geopolitical territory",
+      "B": "at least one-half of the local government councils in the federation",
+      "C": "not less than two-thirds of all the states in the federation",
+      "D": "three-quarters of all senatorial districts in the country"
+    },
+    "answer": "C",
+    "explanation": "Section 126 of the 1979 Constitution required a presidential winner to obtain a popular plurality plus not less than 25% of votes cast in at least two-thirds of all states to guarantee national spread."
+  },
+  {
+    "year": 2023,
+    "id": 8,
+    "question": "In the 1999 Constitution of Nigeria, subjects upon which both the National Assembly and State Houses of Assembly have concurrent legislative powers are found in the",
+    "options": {
+      "A": "Exclusive Legislative List",
+      "B": "Residual Legislative List",
+      "C": "Judicial Precedent Schedule",
+      "D": "Concurrent Legislative List"
+    },
+    "answer": "D",
+    "explanation": "The Concurrent Legislative List in the Second Schedule of the 1999 Constitution contains matters on which both federal and state parliaments can make laws, with federal statutes taking precedence in cases of inconsistency."
+  },
+  {
+    "year": 2023,
+    "id": 9,
+    "question": "According to the First Schedule of the 1999 Constitution of the Federal Republic of Nigeria, the total number of recognized Local Government Areas is",
+    "options": {
+      "A": "774",
+      "B": "360",
+      "C": "650",
+      "D": "820"
+    },
+    "answer": "A",
+    "explanation": "The First Schedule, Part I of the 1999 Constitution enumerates exactly 774 Local Government Areas spread across Nigeria's thirty-six states and the Federal Capital Territory."
+  },
+  {
+    "year": 2023,
+    "id": 10,
+    "question": "The constitutional procedure through which a sitting President or State Governor can be tried and removed from office by the legislature for gross misconduct is called",
+    "options": {
+      "A": "recall",
+      "B": "impeachment",
+      "C": "vote of censure",
+      "D": "nullification"
+    },
+    "answer": "B",
+    "explanation": "Sections 143 and 188 of the 1999 Constitution establish the process of impeachment, enabling the legislature to investigate and remove a President or Governor guilty of gross misconduct."
+  },
+  {
+    "year": 2023,
+    "id": 11,
+    "question": "All remaining judicial appeals from the Nigerian Supreme Court to the Judicial Committee of the Privy Council in London were formally terminated by the",
+    "options": {
+      "A": "Clifford Constitution of 1922",
+      "B": "Second Republic Constitution of 1979",
+      "C": "Republican Constitution of 1963",
+      "D": "Independence Constitution of 1960"
+    },
+    "answer": "C",
+    "explanation": "The 1963 Republican Constitution abolished appeals to the British Privy Council, establishing the Supreme Court of Nigeria as the supreme and final court of appeal in the country."
+  },
+  {
+    "year": 2023,
+    "id": 12,
+    "question": "Which of the following constitutional advisory councils in Nigeria comprises the President, Vice-President, all former Heads of State and Presidents, and all thirty-six State Governors?",
+    "options": {
+      "A": "Federal Executive Council",
+      "B": "National Defence Council",
+      "C": "National Economic Council",
+      "D": "National Council of State"
+    },
+    "answer": "D",
+    "explanation": "The National Council of State is a prestigious constitutional advisory body established under Section 153 and the Third Schedule of the 1999 Constitution to advise the President on critical national affairs."
+  },
+  {
+    "year": 2023,
+    "id": 13,
+    "question": "The electoral method popularized during Nigeria's Third Republic transition where voters physically queued behind the picture or symbol of their chosen candidate was the",
+    "options": {
+      "A": "Open Ballot system",
+      "B": "Secret Ballot system",
+      "C": "Postal Voting system",
+      "D": "Proxy Voting system"
+    },
+    "answer": "A",
+    "explanation": "The Open Ballot system (Option A4), designed by Professor Humphrey Nwosu's NEC, required voters to line up in public view behind candidates' portraits or symbols to eliminate ballot stuffing."
+  },
+  {
+    "year": 2023,
+    "id": 14,
+    "question": "A frequent criticism and disadvantage of a multi-party electoral system is that it often results in",
+    "options": {
+      "A": "totalitarian one-party dictatorship",
+      "B": "governmental instability caused by fragile and fractious coalition cabinets",
+      "C": "the complete disenfranchisement of minority ethnic communities",
+      "D": "the total absence of opposition debate inside parliament"
+    },
+    "answer": "B",
+    "explanation": "In multi-party systems, parties rarely secure absolute majorities, requiring coalition governments that can be politically fragile and prone to frequent collapses."
+  },
+  {
+    "year": 2023,
+    "id": 15,
+    "question": "In the modern administrative structure of a Nigerian federal ministry, the career civil servant who acts as the administrative head and statutory accounting officer is the",
+    "options": {
+      "A": "Minister of State",
+      "B": "Director of Human Resources",
+      "C": "Permanent Secretary",
+      "D": "Auditor-General of the Federation"
+    },
+    "answer": "C",
+    "explanation": "Following the Ayida Review Committee recommendations in 1995, the Permanent Secretary was reinstated as the chief career administrator and accounting officer of the ministry."
+  },
+  {
+    "year": 2023,
+    "id": 16,
+    "question": "The economic and public administration policy of transferring government ownership and equity shares in public corporations to private commercial investors is called",
+    "options": {
+      "A": "nationalization",
+      "B": "indigenization",
+      "C": "centralization",
+      "D": "privatization"
+    },
+    "answer": "D",
+    "explanation": "Privatization is the divestiture of state-owned enterprises into private hands to enhance operational efficiency, reduce fiscal burdens on government, and foster competitive enterprise."
+  },
+  {
+    "year": 2023,
+    "id": 17,
+    "question": "Following the 1959 pre-independence general elections in Nigeria, the federal coalition government was formed by the",
+    "options": {
+      "A": "Northern People's Congress (NPC) and National Council of Nigerian Citizens (NCNC)",
+      "B": "Action Group (AG) and United Middle Belt Congress (UMBC)",
+      "C": "Action Group (AG) and Northern Elements Progressive Union (NEPU)",
+      "D": "National Council of Nigerian Citizens (NCNC) and Dynamic Party"
+    },
+    "answer": "A",
+    "explanation": "Sir Abubakar Tafawa Balewa's NPC partnered with Dr. Nnamdi Azikiwe's NCNC to form the governing federal coalition in 1959, while Chief Obafemi Awolowo's Action Group became the official opposition."
+  },
+  {
+    "year": 2023,
+    "id": 18,
+    "question": "The permanent administrative headquarters and secretariat of the African Union (AU) is situated in",
+    "options": {
+      "A": "Cairo, Egypt",
+      "B": "Addis Ababa, Ethiopia",
+      "C": "Abuja, Nigeria",
+      "D": "Nairobi, Kenya"
+    },
+    "answer": "B",
+    "explanation": "Addis Ababa, Ethiopia, serves as the permanent seat and headquarters of the African Union Commission, carrying on the tradition established by the OAU in 1963."
+  },
+  {
+    "year": 2023,
+    "id": 19,
+    "question": "The principal judicial organ of the United Nations, which settles legal disputes between sovereign states, is the",
+    "options": {
+      "A": "International Criminal Court",
+      "B": "Permanent Court of Arbitration",
+      "C": "International Court of Justice",
+      "D": "European Court of Human Rights"
+    },
+    "answer": "C",
+    "explanation": "The International Court of Justice (ICJ), seated in The Hague, Netherlands, is the principal judicial branch of the UN, adjudicating international legal disputes submitted by sovereign states."
+  },
+  {
+    "year": 2023,
+    "id": 20,
+    "question": "The Non-Aligned Movement (NAM) was established during the Cold War primarily to enable newly independent developing countries to",
+    "options": {
+      "A": "enforce economic boycotts against industrialized nations",
+      "B": "build a joint nuclear arsenal across Africa and Asia",
+      "C": "prohibit multi-party democratic governance among member countries",
+      "D": "preserve foreign policy independence without aligning with either the Western (US) or Eastern (Soviet) military power blocs"
+    },
+    "answer": "D",
+    "explanation": "The Non-Aligned Movement, formalized at the 1961 Belgrade Conference, provided a foreign policy doctrine of neutrality and independence for post-colonial nations during the Cold War rivalry."
+  },
+  {
+    "year": 2024,
+    "id": 1,
+    "question": "Which of the following constitutional provisions represents the most formidable institutional bulwark for guaranteeing the Rule of Law in a democratic state?",
+    "options": {
+      "A": "An independent judiciary vested with the power of judicial review",
+      "B": "The establishment of a statutory one-party legislative assembly",
+      "C": "The concentration of emergency decree powers in the presidency",
+      "D": "The suspension of habeas corpus during domestic social unrest"
+    },
+    "answer": "A",
+    "explanation": "Judicial independence combined with the power of judicial review ensures that laws and executive actions can be tested against the supreme constitution and nullified when unlawful, preserving the Rule of Law."
+  },
+  {
+    "year": 2024,
+    "id": 2,
+    "question": "In the classification of political culture developed by Almond and Verba, a participant political culture is characterized by",
+    "options": {
+      "A": "total citizen passivity and alienation from public political discourse",
+      "B": "active civic involvement in elections, political debates, and community decision-making",
+      "C": "complete obedience to military decrees without question",
+      "D": "the total absence of political parties, trade unions, and civil society groups"
+    },
+    "answer": "B",
+    "explanation": "A participant political culture features citizens who are politically educated, actively participate in elections and public policies, and regularly demand accountability from government officials."
+  },
+  {
+    "year": 2024,
+    "id": 3,
+    "question": "An economic and political ideology that champions private ownership of property, open market enterprise, profit motive, and minimal state regulation is",
+    "options": {
+      "A": "socialism",
+      "B": "communism",
+      "C": "capitalism",
+      "D": "feudalism"
+    },
+    "answer": "C",
+    "explanation": "Capitalism (free-market enterprise) is founded on private property ownership, competition, market-determined pricing, and limited state intervention in the economy."
+  },
+  {
+    "year": 2024,
+    "id": 4,
+    "question": "In the pre-colonial Kanem-Borno Empire, the supreme royal council of twelve noblemen that advised the Mai on state policy and military expeditions was the",
+    "options": {
+      "A": "Oyomesi",
+      "B": "Uzama",
+      "C": "Kyari",
+      "D": "Majlis"
+    },
+    "answer": "D",
+    "explanation": "The Mai of Kanem-Borno was assisted in governance by the Majlis, a council of twelve prominent noblemen, provincial governors, and military chiefs."
+  },
+  {
+    "year": 2024,
+    "id": 5,
+    "question": "The Sir Henry Willink Commission was appointed by the British colonial government in 1957 primarily to",
+    "options": {
+      "A": "inquire into the fears of minority ethnic groups and recommend constitutional safeguards",
+      "B": "demarcate the geographical boundary of the new Federal Capital Territory",
+      "C": "draft an economic recovery package for colonial export agriculture",
+      "D": "organize the 1959 federal pre-independence parliamentary elections"
+    },
+    "answer": "A",
+    "explanation": "The 1957 Willink Commission investigated minority fears of majority ethnic domination in the Northern, Eastern, and Western Regions, recommending the entrenchment of fundamental human rights rather than creating new states."
+  },
+  {
+    "year": 2024,
+    "id": 6,
+    "question": "At the conclusion of the Nigerian Civil War in January 1970, General Yakubu Gowon announced the policy of",
+    "options": {
+      "A": "Total Conquest and Military Tribunals",
+      "B": "'No Victor, No Vanquished' anchored on Reconciliation, Reconstruction, and Rehabilitation",
+      "C": "Immediate Partition of the Eastern Region into Sovereign Protectorates",
+      "D": "Permanent Demobilization of all Eastern Civil Servants"
+    },
+    "answer": "B",
+    "explanation": "General Gowon famously declared 'No Victor, No Vanquished' at the end of the Civil War in 1970, launching the 3Rs programme (Reconciliation, Reconstruction, and Rehabilitation) to reintegrate the former Eastern Region."
+  },
+  {
+    "year": 2024,
+    "id": 7,
+    "question": "Under Section 8 of the 1999 Constitution of Nigeria, the creation of a new state requires approval by a",
+    "options": {
+      "A": "presidential executive proclamation published in the federal gazette",
+      "B": "simple majority resolution of the Council of State",
+      "C": "two-thirds majority in the National Assembly followed by referendums and approval by State Houses of Assembly",
+      "D": "unanimous decision of the Conference of Nigerian Governors"
+    },
+    "answer": "C",
+    "explanation": "Section 8 of the 1999 Constitution outlines an extremely rigorous procedure for state creation, requiring two-thirds approval by federal lawmakers, local referendums, and approval by a majority of State Houses of Assembly."
+  },
+  {
+    "year": 2024,
+    "id": 8,
+    "question": "Under the federal division of powers in Nigeria, residual legislative matters (subjects not included in either the Exclusive or Concurrent Lists) are reserved exclusively for the",
+    "options": {
+      "A": "Federal Government (National Assembly)",
+      "B": "Local Government Caretaker Committees",
+      "C": "Federal Supreme Court",
+      "D": "State Governments (Houses of Assembly)"
+    },
+    "answer": "D",
+    "explanation": "Residual powers comprise all legislative subjects not listed in either the Exclusive or Concurrent Lists; in the Nigerian federation, residual competence belongs exclusively to the State Houses of Assembly."
+  },
+  {
+    "year": 2024,
+    "id": 9,
+    "question": "The common law legal doctrine of 'Stare Decisis' operating in the Nigerian judicial hierarchy mandates that",
+    "options": {
+      "A": "lower courts are legally bound to follow the judicial decisions and precedents of superior courts",
+      "B": "the executive branch can quash judicial verdicts during states of emergency",
+      "C": "all criminal trials must take place in customary arbitration courts",
+      "D": "judges must seek presidential confirmation for every constitutional judgment"
+    },
+    "answer": "A",
+    "explanation": "Stare decisis ('to stand by things decided') is the doctrine of binding judicial precedent, requiring subordinate courts to adhere to legal rulings established by superior courts in similar disputes."
+  },
+  {
+    "year": 2024,
+    "id": 10,
+    "question": "The constitutional mechanism that empowers registered electors in a constituency to unseat an elected legislator before their tenure expires is termed",
+    "options": {
+      "A": "impeachment",
+      "B": "recall",
+      "C": "filibuster",
+      "D": "dissolution"
+    },
+    "answer": "B",
+    "explanation": "Recall (provided under Sections 69 and 110 of the 1999 Constitution) empowers registered voters in a constituency to withdraw their elected senator or representative through a petition signed by over 50% of registered voters followed by a referendum."
+  },
+  {
+    "year": 2024,
+    "id": 11,
+    "question": "The constitutional prerogative of the Nigerian President or a State Governor to grant pardons, reprieves, or commutations of sentences to convicted persons is called the",
+    "options": {
+      "A": "writ of certiorari",
+      "B": "doctrine of executive privilege",
+      "C": "prerogative of mercy",
+      "D": "power of eminent domain"
+    },
+    "answer": "C",
+    "explanation": "The prerogative of mercy (Sections 175 and 212 of the 1999 Constitution) is an executive power allowing the President or Governor to pardon convicts or reduce criminal penalties."
+  },
+  {
+    "year": 2024,
+    "id": 12,
+    "question": "The Bimodal Voter Accreditation System (BVAS) was introduced into Nigerian elections by INEC primarily to",
+    "options": {
+      "A": "print paper ballot sheets inside polling units",
+      "B": "conduct automated internet electronic voting from home computers",
+      "C": "automatically declare election victors before polling unit collation",
+      "D": "verify voter cards and authenticate voters through facial recognition and fingerprint biometrics"
+    },
+    "answer": "D",
+    "explanation": "The BVAS device was deployed by INEC for the 2023 elections to curb electoral malpractice by electronically reading Permanent Voter Cards (PVCs) and matching voter biometrics via fingerprints and facial recognition."
+  },
+  {
+    "year": 2024,
+    "id": 13,
+    "question": "The statutory responsibility for delimiting federal constituencies and senatorial districts in Nigeria is vested in",
+    "options": {
+      "A": "The Independent National Electoral Commission (INEC)",
+      "B": "The National Boundary Commission (NBC)",
+      "C": "The National Population Commission (NPC)",
+      "D": "The Federal Character Commission (FCC)"
+    },
+    "answer": "A",
+    "explanation": "Sections 71, 72, and 73 of the 1999 Constitution confer on INEC the power to divide Nigeria into senatorial districts and federal constituencies and to review constituency boundaries periodically."
+  },
+  {
+    "year": 2024,
+    "id": 14,
+    "question": "A situation where eligible, registered citizens manifest political indifference, alienation, and deliberately refuse to exercise their franchise in elections is known as",
+    "options": {
+      "A": "political realignment",
+      "B": "voter apathy",
+      "C": "gerrymandering",
+      "D": "electoral bandwagon effect"
+    },
+    "answer": "B",
+    "explanation": "Voter apathy is the lack of interest, disaffection, or indifference among eligible voters, resulting in low turnout during elections."
+  },
+  {
+    "year": 2024,
+    "id": 15,
+    "question": "In the study of public administration, 'red tape' or 'red tapism' is characterized by",
+    "options": {
+      "A": "the physical fencing of government secretariat premises",
+      "B": "the involvement of civil servants in partisan campaign rallies",
+      "C": "rigid adherence to cumbersome formal procedures, rules, and paperwork that delay action",
+      "D": "the disciplinary deduction of civil servants' salaries"
+    },
+    "answer": "C",
+    "explanation": "Red tape refers to excessive adherence to bureaucratic routines, rigid protocols, and superfluous documentation that delay decision-making and impede efficiency in public services."
+  },
+  {
+    "year": 2024,
+    "id": 16,
+    "question": "Under Section 162(6) of the 1999 Constitution of Nigeria, the State Joint Local Government Account was created for the purpose of",
+    "options": {
+      "A": "collecting private donations for municipal water infrastructure",
+      "B": "paying the allowances of traditional palace attendants",
+      "C": "financing the political party secretariats in state capitals",
+      "D": "receiving statutory allocations from the Federation Account for the benefit of local government councils"
+    },
+    "answer": "D",
+    "explanation": "The State Joint Local Government Account is maintained by each state to receive statutory allocations from the Federation Account and state revenues for disbursement to local government councils."
+  },
+  {
+    "year": 2024,
+    "id": 17,
+    "question": "Which of the following bodies is NOT an organ or specialized institution of the Economic Community of West African States (ECOWAS)?",
+    "options": {
+      "A": "African Union Peace and Security Council",
+      "B": "Authority of Heads of State and Government",
+      "C": "ECOWAS Community Court of Justice",
+      "D": "ECOWAS Commission"
+    },
+    "answer": "A",
+    "explanation": "The Peace and Security Council (PSC) is a standing decision-making organ of the African Union (AU), not an institution of ECOWAS."
+  },
+  {
+    "year": 2024,
+    "id": 18,
+    "question": "The ceremonial and symbolic Head of the Commonwealth of Nations is the",
+    "options": {
+      "A": "Secretary-General of the United Nations",
+      "B": "British Monarch",
+      "C": "President of Nigeria",
+      "D": "Prime Minister of the United Kingdom"
+    },
+    "answer": "B",
+    "explanation": "The British Monarch (presently King Charles III) serves as the symbolic Head of the Commonwealth, embodying the voluntary association of its 56 independent member states."
+  },
+  {
+    "year": 2024,
+    "id": 19,
+    "question": "The Directorate of Technical Aid Corps (TAC) was established by the Nigerian Federal Government in 1987 as a foreign policy tool primarily to",
+    "options": {
+      "A": "procure military armaments for African peacekeeping troops",
+      "B": "negotiate bilateral debt relief concessions from the Paris Club",
+      "C": "deploy skilled Nigerian professionals to provide technical assistance to developing African, Caribbean, and Pacific nations",
+      "D": "impose trade sanctions on non-aligned countries"
+    },
+    "answer": "C",
+    "explanation": "Introduced in 1987 under Foreign Affairs Minister Bolaji Akinyemi, the TAC scheme deploys volunteer Nigerian professionals (doctors, engineers, educators) to ACP countries as a practical south-south cooperation mechanism."
+  },
+  {
+    "year": 2024,
+    "id": 20,
+    "question": "The organ of the United Nations established under Chapter XIII of the UN Charter to oversee the decolonization of trust territories and guide them to independence was the",
+    "options": {
+      "A": "Secretariat",
+      "B": "International Court of Justice",
+      "C": "Economic and Social Council",
+      "D": "Trusteeship Council"
+    },
+    "answer": "D",
+    "explanation": "The UN Trusteeship Council was created to supervise the administration of Trust Territories as they transitioned to self-governance or independence, suspending active operations in 1994 following Palau's independence."
+  }
+]

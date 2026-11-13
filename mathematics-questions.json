@@ -1,0 +1,1302 @@
+[
+  {
+    "year": 2020,
+    "id": 1,
+    "question": "Convert the binary number 11011 to base 10.",
+    "options": {
+      "A": "27",
+      "B": "25",
+      "C": "29",
+      "D": "31"
+    },
+    "answer": "A",
+    "explanation": "11011_2 = (1 * 2^4) + (1 * 2^3) + (0 * 2^2) + (1 * 2^1) + (1 * 2^0) = 16 + 8 + 0 + 2 + 1 = 27."
+  },
+  {
+    "year": 2020,
+    "id": 2,
+    "question": "Evaluate: (64)^(-2/3) * (1/4)^(-2).",
+    "options": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "1",
+      "D": "4"
+    },
+    "answer": "C",
+    "explanation": "(64)^(-2/3) = (4^3)^(-2/3) = 4^(-2) = 1/16. (1/4)^(-2) = 4^2 = 16. Therefore, (1/16) * 16 = 1."
+  },
+  {
+    "year": 2020,
+    "id": 3,
+    "question": "If log_10(2) = 0.3010 and log_10(3) = 0.4771, find the value of log_10(72).",
+    "options": {
+      "A": "1.5842",
+      "B": "1.8572",
+      "C": "2.1582",
+      "D": "1.7781"
+    },
+    "answer": "B",
+    "explanation": "72 = 2^3 * 3^2. So log_10(72) = 3*log_10(2) + 2*log_10(3) = 3(0.3010) + 2(0.4771) = 0.9030 + 0.9542 = 1.8572."
+  },
+  {
+    "year": 2020,
+    "id": 4,
+    "question": "Simplify: (sqrt(75) - sqrt(12)) / sqrt(27).",
+    "options": {
+      "A": "1/3",
+      "B": "1",
+      "C": "sqrt(3)",
+      "D": "3"
+    },
+    "answer": "B",
+    "explanation": "sqrt(75) = 5*sqrt(3), sqrt(12) = 2*sqrt(3), and sqrt(27) = 3*sqrt(3). (5*sqrt(3) - 2*sqrt(3)) / (3*sqrt(3)) = 3*sqrt(3) / 3*sqrt(3) = 1."
+  },
+  {
+    "year": 2020,
+    "id": 5,
+    "question": "In a class of 40 students, 25 offer Mathematics, 18 offer Physics, and 8 offer neither. How many students offer both subjects?",
+    "options": {
+      "A": "11",
+      "B": "13",
+      "C": "15",
+      "D": "17"
+    },
+    "answer": "A",
+    "explanation": "Total = n(M) + n(P) - n(M and P) + n(neither). 40 = 25 + 18 - x + 8 => 40 = 51 - x => x = 51 - 40 = 11."
+  },
+  {
+    "year": 2020,
+    "id": 6,
+    "question": "Find the remainder when the polynomial P(x) = 2x^3 - 3x^2 + 4x - 5 is divided by (x - 2).",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "11"
+    },
+    "answer": "B",
+    "explanation": "By the Remainder Theorem, the remainder is P(2) = 2(2)^3 - 3(2)^2 + 4(2) - 5 = 16 - 12 + 8 - 5 = 7."
+  },
+  {
+    "year": 2020,
+    "id": 7,
+    "question": "If the roots of the quadratic equation 2x^2 - 7x + 3 = 0 are alpha and beta, find the value of (alpha + beta) + alpha*beta.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "C",
+    "explanation": "Sum of roots alpha + beta = -(-7)/2 = 7/2. Product of roots alpha*beta = 3/2. Total = 7/2 + 3/2 = 10/2 = 5."
+  },
+  {
+    "year": 2020,
+    "id": 8,
+    "question": "Solve the inequality: 3x - 2 < 5x + 6 <= 3x + 16.",
+    "options": {
+      "A": "-4 < x <= 5",
+      "B": "-4 <= x < 5",
+      "C": "x > -4",
+      "D": "-3 < x <= 5"
+    },
+    "answer": "A",
+    "explanation": "3x - 2 < 5x + 6 gives -8 < 2x => x > -4. 5x + 6 <= 3x + 16 gives 2x <= 10 => x <= 5. Combining both gives -4 < x <= 5."
+  },
+  {
+    "year": 2020,
+    "id": 9,
+    "question": "The 4th term of an Arithmetic Progression (A.P.) is 15 and the 9th term is 35. Find the first term.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "C",
+    "explanation": "T4 = a + 3d = 15; T9 = a + 8d = 35. Subtracting equations gives 5d = 20 => d = 4. Then a = 15 - 3(4) = 3."
+  },
+  {
+    "year": 2020,
+    "id": 10,
+    "question": "A binary operation * on the set of real numbers is defined by a * b = a + b + 2ab. Find the identity element under this operation.",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "Let e be the identity element. a * e = a => a + e + 2ae = a => e(1 + 2a) = 0 => e = 0."
+  },
+  {
+    "year": 2020,
+    "id": 11,
+    "question": "Find the determinant of the matrix M = [[3, -2], [5, 4]].",
+    "options": {
+      "A": "2",
+      "B": "12",
+      "C": "22",
+      "D": "-22"
+    },
+    "answer": "C",
+    "explanation": "det(M) = (3 * 4) - (-2 * 5) = 12 - (-10) = 12 + 10 = 22."
+  },
+  {
+    "year": 2020,
+    "id": 12,
+    "question": "Find the gradient of the line perpendicular to the straight line 3x - 4y + 8 = 0.",
+    "options": {
+      "A": "3/4",
+      "B": "-3/4",
+      "C": "4/3",
+      "D": "-4/3"
+    },
+    "answer": "D",
+    "explanation": "Rewriting in slope-intercept form: 4y = 3x + 8 => y = (3/4)x + 2. Slope m1 = 3/4. The perpendicular slope m2 = -1 / (3/4) = -4/3."
+  },
+  {
+    "year": 2020,
+    "id": 13,
+    "question": "An arc of a circle of radius 14 cm subtends an angle of 60 degrees at the center. Find the length of the arc. (Take pi = 22/7)",
+    "options": {
+      "A": "22/3 cm",
+      "B": "44/3 cm",
+      "C": "22 cm",
+      "D": "88 cm"
+    },
+    "answer": "B",
+    "explanation": "Arc length = (theta / 360) * 2 * pi * r = (60 / 360) * 2 * (22/7) * 14 = (1/6) * 88 = 44/3 cm."
+  },
+  {
+    "year": 2020,
+    "id": 14,
+    "question": "A solid cylinder has a base radius of 7 cm and a height of 10 cm. Find its total surface area. (Take pi = 22/7)",
+    "options": {
+      "A": "440 cm^2",
+      "B": "748 cm^2",
+      "C": "814 cm^2",
+      "D": "1540 cm^2"
+    },
+    "answer": "B",
+    "explanation": "Total surface area = 2 * pi * r * (r + h) = 2 * (22/7) * 7 * (7 + 10) = 44 * 17 = 748 cm^2."
+  },
+  {
+    "year": 2020,
+    "id": 15,
+    "question": "If tan(theta) = 3/4 and theta is an acute angle, find the value of cos(theta) + sin(theta).",
+    "options": {
+      "A": "1/5",
+      "B": "7/5",
+      "C": "5/7",
+      "D": "12/25"
+    },
+    "answer": "B",
+    "explanation": "In a right triangle with opposite = 3 and adjacent = 4, hypotenuse = sqrt(3^2 + 4^2) = 5. So sin(theta) = 3/5, cos(theta) = 4/5. cos(theta) + sin(theta) = 4/5 + 3/5 = 7/5."
+  },
+  {
+    "year": 2020,
+    "id": 16,
+    "question": "In triangle ABC, angle B = 30 degrees, angle C = 45 degrees, and side b = 6 cm. Find the length of side c.",
+    "options": {
+      "A": "3*sqrt(2) cm",
+      "B": "6*sqrt(2) cm",
+      "C": "12*sqrt(2) cm",
+      "D": "6 cm"
+    },
+    "answer": "B",
+    "explanation": "By the Sine Rule: b / sin(B) = c / sin(C) => 6 / sin(30) = c / sin(45). 6 / (1/2) = c / (1/sqrt(2)) => 12 = c * sqrt(2) => c = 12 / sqrt(2) = 6*sqrt(2) cm."
+  },
+  {
+    "year": 2020,
+    "id": 17,
+    "question": "Find the arithmetic mean of the set of numbers: 12, 15, 18, 21, 24, 30.",
+    "options": {
+      "A": "18",
+      "B": "19.5",
+      "C": "20",
+      "D": "21"
+    },
+    "answer": "C",
+    "explanation": "Mean = Sum / Count = (12 + 15 + 18 + 21 + 24 + 30) / 6 = 120 / 6 = 20."
+  },
+  {
+    "year": 2020,
+    "id": 18,
+    "question": "In how many ways can a committee of 3 men and 2 women be chosen from a group of 5 men and 4 women?",
+    "options": {
+      "A": "30",
+      "B": "60",
+      "C": "120",
+      "D": "720"
+    },
+    "answer": "B",
+    "explanation": "Number of ways = 5C3 * 4C2 = (5! / (3! * 2!)) * (4! / (2! * 2!)) = 10 * 6 = 60."
+  },
+  {
+    "year": 2020,
+    "id": 19,
+    "question": "Find the derivative of y = (2x + 1)^4 with respect to x.",
+    "options": {
+      "A": "4(2x + 1)^3",
+      "B": "8(2x + 1)^3",
+      "C": "8(2x + 1)^4",
+      "D": "2(2x + 1)^3"
+    },
+    "answer": "B",
+    "explanation": "Using the chain rule: dy/dx = 4(2x + 1)^3 * d/dx(2x + 1) = 4(2x + 1)^3 * 2 = 8(2x + 1)^3."
+  },
+  {
+    "year": 2020,
+    "id": 20,
+    "question": "Evaluate the definite integral of (3x^2 - 2x + 1) with respect to x from x = 0 to x = 2.",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "answer": "B",
+    "explanation": "Integral = [x^3 - x^2 + x] from 0 to 2 = (2^3 - 2^2 + 2) - 0 = (8 - 4 + 2) = 6."
+  },
+  {
+    "year": 2021,
+    "id": 21,
+    "question": "Find the base x such that 23_x + 14_x = 41_x.",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "B",
+    "explanation": "Converting each to base 10: (2x + 3) + (x + 4) = 4x + 1 => 3x + 7 = 4x + 1 => 4x - 3x = 7 - 1 => x = 6."
+  },
+  {
+    "year": 2021,
+    "id": 22,
+    "question": "Solve for x in the equation: 3^(2x - 1) = 81.",
+    "options": {
+      "A": "2",
+      "B": "5/2",
+      "C": "3",
+      "D": "7/2"
+    },
+    "answer": "B",
+    "explanation": "3^(2x - 1) = 3^4 => 2x - 1 = 4 => 2x = 5 => x = 5/2."
+  },
+  {
+    "year": 2021,
+    "id": 23,
+    "question": "Solve for x: log_2(x) + log_2(x - 2) = 3.",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "-2",
+      "D": "6"
+    },
+    "answer": "B",
+    "explanation": "log_2(x(x - 2)) = 3 => x(x - 2) = 2^3 = 8 => x^2 - 2x - 8 = 0 => (x - 4)(x + 2) = 0. Since log is defined only for x > 2, x = 4."
+  },
+  {
+    "year": 2021,
+    "id": 24,
+    "question": "Rationalize the denominator of 5 / (2*sqrt(3) - 3).",
+    "options": {
+      "A": "(15 + 10*sqrt(3)) / 3",
+      "B": "(15 - 10*sqrt(3)) / 3",
+      "C": "10*sqrt(3) + 15",
+      "D": "(10*sqrt(3) + 3) / 3"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerator and denominator by (2*sqrt(3) + 3): Denominator = (2*sqrt(3))^2 - 3^2 = 12 - 9 = 3. Numerator = 5*(3 + 2*sqrt(3)) = 15 + 10*sqrt(3). Result = (15 + 10*sqrt(3)) / 3."
+  },
+  {
+    "year": 2021,
+    "id": 25,
+    "question": "If universal set U = {x: 1 <= x <= 10, x is an integer}, A = {2, 4, 6, 8, 10}, and B = {1, 2, 3, 4, 5}, find (A union B)'.",
+    "options": {
+      "A": "{7, 9}",
+      "B": "{6, 7, 8, 9}",
+      "C": "{7, 8, 9}",
+      "D": "{1, 3, 5, 7, 9}"
+    },
+    "answer": "A",
+    "explanation": "A union B = {1, 2, 3, 4, 5, 6, 8, 10}. Complement (A union B)' = U \\ (A union B) = {7, 9}."
+  },
+  {
+    "year": 2021,
+    "id": 26,
+    "question": "If y varies inversely as the square of x, and y = 4 when x = 3, find y when x = 2.",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "answer": "C",
+    "explanation": "y = k / x^2 => 4 = k / 3^2 => k = 4 * 9 = 36. When x = 2: y = 36 / 2^2 = 36 / 4 = 9."
+  },
+  {
+    "year": 2021,
+    "id": 27,
+    "question": "The 2nd and 5th terms of a Geometric Progression (G.P.) are 6 and 48 respectively. Find the first term.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "answer": "B",
+    "explanation": "T2 = ar = 6; T5 = ar^4 = 48. Dividing gives r^3 = 48/6 = 8 => r = 2. Then a = 6 / 2 = 3."
+  },
+  {
+    "year": 2021,
+    "id": 28,
+    "question": "Find the values of k for which the quadratic equation x^2 + (k + 2)x + 9 = 0 has equal roots.",
+    "options": {
+      "A": "4 or -8",
+      "B": "4 or 8",
+      "C": "-4 or 8",
+      "D": "-4 or -8"
+    },
+    "answer": "A",
+    "explanation": "For equal roots, discriminant = 0: (k + 2)^2 - 4(1)(9) = 0 => (k + 2)^2 = 36 => k + 2 = 6 or k + 2 = -6 => k = 4 or k = -8."
+  },
+  {
+    "year": 2021,
+    "id": 29,
+    "question": "A binary operation * is defined on real numbers by a * b = a^2 + b^2 - ab. Evaluate 2 * 3.",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "11"
+    },
+    "answer": "B",
+    "explanation": "2 * 3 = 2^2 + 3^2 - (2 * 3) = 4 + 9 - 6 = 7."
+  },
+  {
+    "year": 2021,
+    "id": 30,
+    "question": "If matrix A = [[2, 1], [0, 3]] and matrix B = [[1, -1], [2, 4]], find the product matrix AB.",
+    "options": {
+      "A": "[[4, 2], [6, 12]]",
+      "B": "[[2, -1], [0, 12]]",
+      "C": "[[4, 6], [2, 12]]",
+      "D": "[[3, 0], [2, 7]]"
+    },
+    "answer": "A",
+    "explanation": "Row 1: [2*1 + 1*2, 2*(-1) + 1*4] = [4, 2]. Row 2: [0*1 + 3*2, 0*(-1) + 3*4] = [6, 12]. Thus AB = [[4, 2], [6, 12]]."
+  },
+  {
+    "year": 2021,
+    "id": 31,
+    "question": "Find the distance between the two points P(-2, 3) and Q(4, -5).",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "answer": "B",
+    "explanation": "d = sqrt((4 - (-2))^2 + (-5 - 3)^2) = sqrt(6^2 + (-8)^2) = sqrt(36 + 64) = sqrt(100) = 10."
+  },
+  {
+    "year": 2021,
+    "id": 32,
+    "question": "The interior angles of a pentagon are (x + 20), (x + 40), (2x - 10), (2x + 10), and (x + 60) degrees. Find the value of x.",
+    "options": {
+      "A": "50",
+      "B": "55",
+      "C": "60",
+      "D": "65"
+    },
+    "answer": "C",
+    "explanation": "Sum of interior angles of a pentagon = (5 - 2) * 180 = 540 degrees. (x + 20) + (x + 40) + (2x - 10) + (2x + 10) + (x + 60) = 540 => 7x + 120 = 540 => 7x = 420 => x = 60."
+  },
+  {
+    "year": 2021,
+    "id": 33,
+    "question": "A right circular cone has a base radius of 6 cm and a vertical height of 8 cm. Find its slant height.",
+    "options": {
+      "A": "8 cm",
+      "B": "10 cm",
+      "C": "12 cm",
+      "D": "14 cm"
+    },
+    "answer": "B",
+    "explanation": "Slant height l = sqrt(r^2 + h^2) = sqrt(6^2 + 8^2) = sqrt(36 + 64) = sqrt(100) = 10 cm."
+  },
+  {
+    "year": 2021,
+    "id": 34,
+    "question": "In a circle, a chord of length 16 cm is at a distance of 6 cm from the center. Find the radius of the circle.",
+    "options": {
+      "A": "8 cm",
+      "B": "10 cm",
+      "C": "12 cm",
+      "D": "14 cm"
+    },
+    "answer": "B",
+    "explanation": "The perpendicular line from the center bisects the chord into two 8 cm halves. Radius r = sqrt(6^2 + 8^2) = sqrt(36 + 64) = sqrt(100) = 10 cm."
+  },
+  {
+    "year": 2021,
+    "id": 35,
+    "question": "From the top of a vertical tower 30 m high, the angle of depression of a car on the ground is 30 degrees. How far is the car from the foot of the tower?",
+    "options": {
+      "A": "15*sqrt(3) m",
+      "B": "30*sqrt(3) m",
+      "C": "30 / sqrt(3) m",
+      "D": "60 m"
+    },
+    "answer": "B",
+    "explanation": "Angle of depression = angle of elevation = 30 degrees. tan(30) = height / distance => 1 / sqrt(3) = 30 / d => d = 30*sqrt(3) m."
+  },
+  {
+    "year": 2021,
+    "id": 36,
+    "question": "Solve the trigonometric equation 2*cos(theta) - 1 = 0 for 0 <= theta <= 90 degrees.",
+    "options": {
+      "A": "30 degrees",
+      "B": "45 degrees",
+      "C": "60 degrees",
+      "D": "90 degrees"
+    },
+    "answer": "C",
+    "explanation": "2*cos(theta) = 1 => cos(theta) = 1/2. For acute angles, theta = 60 degrees."
+  },
+  {
+    "year": 2021,
+    "id": 37,
+    "question": "Find the variance of the numbers: 2, 4, 6, 8, 10.",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "answer": "C",
+    "explanation": "Mean = (2 + 4 + 6 + 8 + 10) / 5 = 30 / 5 = 6. Squared differences: (2-6)^2=16, (4-6)^2=4, (6-6)^2=0, (8-6)^2=4, (10-6)^2=16. Variance = (16 + 4 + 0 + 4 + 16) / 5 = 40 / 5 = 8."
+  },
+  {
+    "year": 2021,
+    "id": 38,
+    "question": "Two fair dice are thrown simultaneously. What is the probability of obtaining a total score of 8?",
+    "options": {
+      "A": "1/6",
+      "B": "5/36",
+      "C": "7/36",
+      "D": "1/9"
+    },
+    "answer": "B",
+    "explanation": "The favorable outcomes giving a sum of 8 are (2,6), (3,5), (4,4), (5,3), (6,2), which is 5 outcomes out of 36. Probability = 5/36."
+  },
+  {
+    "year": 2021,
+    "id": 39,
+    "question": "Find the slope of the tangent to the parabola y = 3x^2 - 5x + 2 at the point where x = 2.",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "12"
+    },
+    "answer": "B",
+    "explanation": "dy/dx = 6x - 5. When x = 2: slope = 6(2) - 5 = 12 - 5 = 7."
+  },
+  {
+    "year": 2021,
+    "id": 40,
+    "question": "Evaluate the limit: limit as x approaches 3 of (x^2 - 9) / (x - 3).",
+    "options": {
+      "A": "0",
+      "B": "3",
+      "C": "6",
+      "D": "Undefined"
+    },
+    "answer": "C",
+    "explanation": "(x^2 - 9) / (x - 3) = (x - 3)(x + 3) / (x - 3) = x + 3 for x != 3. As x -> 3, the limit is 3 + 3 = 6."
+  },
+  {
+    "year": 2022,
+    "id": 41,
+    "question": "Evaluate 1011_2 * 11_2 and leave your answer in base 2.",
+    "options": {
+      "A": "100011_2",
+      "B": "100001_2",
+      "C": "100101_2",
+      "D": "101001_2"
+    },
+    "answer": "B",
+    "explanation": "1011_2 = 11 in base 10. 11_2 = 3 in base 10. 11 * 3 = 33 in base 10. 33 = 32 + 1 = 100001_2."
+  },
+  {
+    "year": 2022,
+    "id": 42,
+    "question": "Simplify: (25^(1/2) * 8^(2/3)) / 16^(3/4).",
+    "options": {
+      "A": "5/4",
+      "B": "5/2",
+      "C": "5",
+      "D": "10"
+    },
+    "answer": "B",
+    "explanation": "25^(1/2) = 5. 8^(2/3) = (2^3)^(2/3) = 2^2 = 4. 16^(3/4) = (2^4)^(3/4) = 2^3 = 8. (5 * 4) / 8 = 20 / 8 = 5/2."
+  },
+  {
+    "year": 2022,
+    "id": 43,
+    "question": "If log_3(x) = 4, what is the value of log_x(81)?",
+    "options": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "1",
+      "D": "4"
+    },
+    "answer": "C",
+    "explanation": "x = 3^4 = 81. Hence log_x(81) = log_81(81) = 1."
+  },
+  {
+    "year": 2022,
+    "id": 44,
+    "question": "Simplify: sqrt(48) - sqrt(27) + sqrt(108).",
+    "options": {
+      "A": "5*sqrt(3)",
+      "B": "6*sqrt(3)",
+      "C": "7*sqrt(3)",
+      "D": "8*sqrt(3)"
+    },
+    "answer": "C",
+    "explanation": "sqrt(48) = 4*sqrt(3), sqrt(27) = 3*sqrt(3), and sqrt(108) = 6*sqrt(3). 4*sqrt(3) - 3*sqrt(3) + 6*sqrt(3) = 7*sqrt(3)."
+  },
+  {
+    "year": 2022,
+    "id": 45,
+    "question": "If n(P) = 15, n(Q) = 20, and n(P union Q) = 28, find n(P intersect Q).",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "12"
+    },
+    "answer": "B",
+    "explanation": "n(P intersect Q) = n(P) + n(Q) - n(P union Q) = 15 + 20 - 28 = 7."
+  },
+  {
+    "year": 2022,
+    "id": 46,
+    "question": "If (x - 1) is a factor of the polynomial 2x^3 - x^2 + px - 6, find the value of p.",
+    "options": {
+      "A": "-5",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "answer": "C",
+    "explanation": "By the Factor Theorem, P(1) = 0 => 2(1)^3 - (1)^2 + p(1) - 6 = 0 => 2 - 1 + p - 6 = 0 => p - 5 = 0 => p = 5."
+  },
+  {
+    "year": 2022,
+    "id": 47,
+    "question": "Solve the simultaneous equations: 2x + 3y = 12 and x - y = 1.",
+    "options": {
+      "A": "x = 2, y = 3",
+      "B": "x = 3, y = 2",
+      "C": "x = 4, y = 1",
+      "D": "x = 1, y = 4"
+    },
+    "answer": "B",
+    "explanation": "From the second equation, x = y + 1. Substitute into the first: 2(y + 1) + 3y = 12 => 5y + 2 = 12 => 5y = 10 => y = 2. Then x = 2 + 1 = 3."
+  },
+  {
+    "year": 2022,
+    "id": 48,
+    "question": "Find the range of values of x for which x^2 - 5x + 6 <= 0.",
+    "options": {
+      "A": "x <= 2 or x >= 3",
+      "B": "2 <= x <= 3",
+      "C": "-3 <= x <= -2",
+      "D": "2 < x < 3"
+    },
+    "answer": "B",
+    "explanation": "Factoring gives (x - 2)(x - 3) <= 0. The expression is non-positive between the roots, so 2 <= x <= 3."
+  },
+  {
+    "year": 2022,
+    "id": 49,
+    "question": "Find the sum to infinity of the geometric series: 8 + 4 + 2 + 1 + ...",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "18"
+    },
+    "answer": "C",
+    "explanation": "First term a = 8, common ratio r = 4/8 = 1/2. Sum to infinity S = a / (1 - r) = 8 / (1 - 1/2) = 8 / (1/2) = 16."
+  },
+  {
+    "year": 2022,
+    "id": 50,
+    "question": "Given that the matrix A = [[k, 3], [2, 6]] is singular, find the value of k.",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "B",
+    "explanation": "A singular matrix has determinant zero. det(A) = 6k - (2 * 3) = 6k - 6 = 0 => 6k = 6 => k = 1."
+  },
+  {
+    "year": 2022,
+    "id": 51,
+    "question": "Find the coordinates of the midpoint of the line segment joining (3, -4) and (-1, 8).",
+    "options": {
+      "A": "(1, 2)",
+      "B": "(2, 4)",
+      "C": "(-1, 2)",
+      "D": "(1, -2)"
+    },
+    "answer": "A",
+    "explanation": "Midpoint = ((3 + (-1)) / 2, (-4 + 8) / 2) = (2 / 2, 4 / 2) = (1, 2)."
+  },
+  {
+    "year": 2022,
+    "id": 52,
+    "question": "If the circumference of a circle is 44 cm, calculate its area. (Take pi = 22/7)",
+    "options": {
+      "A": "88 cm^2",
+      "B": "154 cm^2",
+      "C": "308 cm^2",
+      "D": "616 cm^2"
+    },
+    "answer": "B",
+    "explanation": "Circumference = 2 * pi * r = 44 => 2 * (22/7) * r = 44 => r = 7 cm. Area = pi * r^2 = (22/7) * 7^2 = 154 cm^2."
+  },
+  {
+    "year": 2022,
+    "id": 53,
+    "question": "Find the volume of a sphere of radius 3 cm in terms of pi.",
+    "options": {
+      "A": "12*pi cm^3",
+      "B": "27*pi cm^3",
+      "C": "36*pi cm^3",
+      "D": "108*pi cm^3"
+    },
+    "answer": "C",
+    "explanation": "Volume = (4/3) * pi * r^3 = (4/3) * pi * 3^3 = (4/3) * pi * 27 = 36*pi cm^3."
+  },
+  {
+    "year": 2022,
+    "id": 54,
+    "question": "Find the equation of the line passing through (2, 5) with a slope of -3.",
+    "options": {
+      "A": "3x + y - 11 = 0",
+      "B": "3x - y + 1 = 0",
+      "C": "3x + y + 11 = 0",
+      "D": "x - 3y + 13 = 0"
+    },
+    "answer": "A",
+    "explanation": "y - y1 = m(x - x1) => y - 5 = -3(x - 2) => y - 5 = -3x + 6 => 3x + y - 11 = 0."
+  },
+  {
+    "year": 2022,
+    "id": 55,
+    "question": "Simplify the expression: (1 - cos^2(theta)) / sin(theta).",
+    "options": {
+      "A": "cos(theta)",
+      "B": "sin(theta)",
+      "C": "tan(theta)",
+      "D": "1"
+    },
+    "answer": "B",
+    "explanation": "Since sin^2(theta) + cos^2(theta) = 1, 1 - cos^2(theta) = sin^2(theta). Then sin^2(theta) / sin(theta) = sin(theta)."
+  },
+  {
+    "year": 2022,
+    "id": 56,
+    "question": "In a triangle with sides a = 5 cm, b = 7 cm, and included angle C = 60 degrees, find the length of side c.",
+    "options": {
+      "A": "sqrt(35) cm",
+      "B": "sqrt(39) cm",
+      "C": "sqrt(44) cm",
+      "D": "7 cm"
+    },
+    "answer": "B",
+    "explanation": "By the Cosine Rule: c^2 = a^2 + b^2 - 2ab*cos(C) = 5^2 + 7^2 - 2(5)(7)*cos(60) = 25 + 49 - 70*(1/2) = 74 - 35 = 39. So c = sqrt(39) cm."
+  },
+  {
+    "year": 2022,
+    "id": 57,
+    "question": "Find the value of n if nC2 = 15.",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "B",
+    "explanation": "nC2 = n(n - 1) / 2 = 15 => n(n - 1) = 30 => n^2 - n - 30 = 0 => (n - 6)(n + 5) = 0. Since n must be positive, n = 6."
+  },
+  {
+    "year": 2022,
+    "id": 58,
+    "question": "A bag contains 5 red balls and 3 blue balls. If two balls are drawn one after another without replacement, find the probability that both balls are red.",
+    "options": {
+      "A": "5/14",
+      "B": "15/56",
+      "C": "25/64",
+      "D": "10/28"
+    },
+    "answer": "A",
+    "explanation": "P(1st red) = 5/8. P(2nd red | 1st red) = 4/7. P(both red) = (5/8) * (4/7) = 20/56 = 5/14."
+  },
+  {
+    "year": 2022,
+    "id": 59,
+    "question": "Find the maximum value of the function y = -x^2 + 4x + 5.",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "13"
+    },
+    "answer": "C",
+    "explanation": "dy/dx = -2x + 4 = 0 => x = 2. When x = 2, y = -(2)^2 + 4(2) + 5 = -4 + 8 + 5 = 9."
+  },
+  {
+    "year": 2022,
+    "id": 60,
+    "question": "Find the indefinite integral: integral of (6x^2 - 4x + 3) dx.",
+    "options": {
+      "A": "2x^3 - 2x^2 + 3x + c",
+      "B": "3x^3 - 2x^2 + 3x + c",
+      "C": "2x^3 - 4x^2 + 3x + c",
+      "D": "6x^3 - 2x^2 + 3x + c"
+    },
+    "answer": "A",
+    "explanation": "Integrating term-by-term: 6(x^3 / 3) - 4(x^2 / 2) + 3x + c = 2x^3 - 2x^2 + 3x + c."
+  },
+  {
+    "year": 2023,
+    "id": 61,
+    "question": "Convert the decimal number 39 to base 3.",
+    "options": {
+      "A": "1010_3",
+      "B": "1110_3",
+      "C": "1101_3",
+      "D": "1200_3"
+    },
+    "answer": "B",
+    "explanation": "39 / 3 = 13 R 0; 13 / 3 = 4 R 1; 4 / 3 = 1 R 1; 1 / 3 = 0 R 1. Reading remainders upwards gives 1110_3."
+  },
+  {
+    "year": 2023,
+    "id": 62,
+    "question": "Solve for x in the equation: 4^(x + 1) = 64^(x - 1).",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B",
+    "explanation": "Since 64 = 4^3, 4^(x + 1) = (4^3)^(x - 1) = 4^(3x - 3). Equating exponents: x + 1 = 3x - 3 => 2x = 4 => x = 2."
+  },
+  {
+    "year": 2023,
+    "id": 63,
+    "question": "Evaluate: log_2(32) - log_3(27) + log_5(125).",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "C",
+    "explanation": "log_2(32) = 5, log_3(27) = 3, log_5(125) = 3. 5 - 3 + 3 = 5."
+  },
+  {
+    "year": 2023,
+    "id": 64,
+    "question": "Expand and simplify: (3 + sqrt(2)) * (3 - sqrt(2)).",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "9 - 2*sqrt(2)",
+      "D": "11"
+    },
+    "answer": "B",
+    "explanation": "Using the difference of two squares: (a + b)(a - b) = a^2 - b^2. 3^2 - (sqrt(2))^2 = 9 - 2 = 7."
+  },
+  {
+    "year": 2023,
+    "id": 65,
+    "question": "If set A = {multiples of 3 less than 20} and set B = {multiples of 4 less than 20}, find the number of elements in A intersect B.",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "B",
+    "explanation": "A = {3, 6, 9, 12, 15, 18} and B = {4, 8, 12, 16}. A intersect B = {12}, which contains 1 element."
+  },
+  {
+    "year": 2023,
+    "id": 66,
+    "question": "Factorize completely: 2x^2 + 5x - 3.",
+    "options": {
+      "A": "(2x - 1)(x + 3)",
+      "B": "(2x + 1)(x - 3)",
+      "C": "(2x - 3)(x + 1)",
+      "D": "(x - 1)(2x + 3)"
+    },
+    "answer": "A",
+    "explanation": "2x^2 + 6x - x - 3 = 2x(x + 3) - 1(x + 3) = (2x - 1)(x + 3)."
+  },
+  {
+    "year": 2023,
+    "id": 67,
+    "question": "Find the sum of the first 20 terms of the arithmetic progression: 3, 7, 11, 15, ...",
+    "options": {
+      "A": "780",
+      "B": "800",
+      "C": "820",
+      "D": "840"
+    },
+    "answer": "C",
+    "explanation": "a = 3, d = 4, n = 20. S_n = (n/2) * [2a + (n - 1)d] = (20/2) * [2(3) + 19(4)] = 10 * [6 + 76] = 10 * 82 = 820."
+  },
+  {
+    "year": 2023,
+    "id": 68,
+    "question": "An operation * is defined on the set of integers by a * b = a + b - 3. Find the inverse of the element 5 under this operation.",
+    "options": {
+      "A": "1",
+      "B": "-1",
+      "C": "3",
+      "D": "-5"
+    },
+    "answer": "A",
+    "explanation": "Identity element e: a + e - 3 = a => e = 3. Let x be the inverse of 5: 5 * x = 3 => 5 + x - 3 = 3 => x + 2 = 3 => x = 1."
+  },
+  {
+    "year": 2023,
+    "id": 69,
+    "question": "Solve the inequality: (2x - 3) / 3 >= (x + 1) / 2.",
+    "options": {
+      "A": "x <= 9",
+      "B": "x >= 9",
+      "C": "x >= 3",
+      "D": "x <= -3"
+    },
+    "answer": "B",
+    "explanation": "Multiply both sides by 6: 2(2x - 3) >= 3(x + 1) => 4x - 6 >= 3x + 3 => 4x - 3x >= 3 + 6 => x >= 9."
+  },
+  {
+    "year": 2023,
+    "id": 70,
+    "question": "If matrix P = [[1, 2], [3, 4]], find the determinant of P^2.",
+    "options": {
+      "A": "-4",
+      "B": "-2",
+      "C": "2",
+      "D": "4"
+    },
+    "answer": "D",
+    "explanation": "det(P) = (1 * 4) - (2 * 3) = 4 - 6 = -2. Using the property det(P^2) = (det(P))^2 = (-2)^2 = 4."
+  },
+  {
+    "year": 2023,
+    "id": 71,
+    "question": "Find the value of k such that the line 2x - ky + 4 = 0 is parallel to the line 4x + 6y - 7 = 0.",
+    "options": {
+      "A": "-3",
+      "B": "3",
+      "C": "-4",
+      "D": "4"
+    },
+    "answer": "A",
+    "explanation": "Slope of line 1: ky = 2x + 4 => m1 = 2/k. Slope of line 2: 6y = -4x + 7 => m2 = -4/6 = -2/3. For parallel lines, m1 = m2 => 2/k = -2/3 => k = -3."
+  },
+  {
+    "year": 2023,
+    "id": 72,
+    "question": "A sector of a circle of radius 6 cm has an angle of 120 degrees at the center. Find the area of the sector in terms of pi.",
+    "options": {
+      "A": "6*pi cm^2",
+      "B": "12*pi cm^2",
+      "C": "18*pi cm^2",
+      "D": "24*pi cm^2"
+    },
+    "answer": "B",
+    "explanation": "Area of sector = (theta / 360) * pi * r^2 = (120 / 360) * pi * 6^2 = (1/3) * pi * 36 = 12*pi cm^2."
+  },
+  {
+    "year": 2023,
+    "id": 73,
+    "question": "The parallel sides of a trapezium are 12 cm and 8 cm. If the perpendicular distance between them is 5 cm, calculate its area.",
+    "options": {
+      "A": "40 cm^2",
+      "B": "50 cm^2",
+      "C": "60 cm^2",
+      "D": "100 cm^2"
+    },
+    "answer": "B",
+    "explanation": "Area = (1/2) * (a + b) * h = (1/2) * (12 + 8) * 5 = (1/2) * 20 * 5 = 50 cm^2."
+  },
+  {
+    "year": 2023,
+    "id": 74,
+    "question": "An angle subtended by a diameter at any point on the circumference of a circle is always equal to:",
+    "options": {
+      "A": "45 degrees",
+      "B": "60 degrees",
+      "C": "90 degrees",
+      "D": "180 degrees"
+    },
+    "answer": "C",
+    "explanation": "According to the circle theorem, the angle subtended by a diameter at the circumference (an angle in a semicircle) is a right angle (90 degrees)."
+  },
+  {
+    "year": 2023,
+    "id": 75,
+    "question": "Evaluate: sin(30)*cos(60) + cos(30)*sin(60).",
+    "options": {
+      "A": "0",
+      "B": "1/2",
+      "C": "sqrt(3)/2",
+      "D": "1"
+    },
+    "answer": "D",
+    "explanation": "Using sin(A + B) = sin(A)*cos(B) + cos(A)*sin(B), this equals sin(30 + 60) = sin(90) = 1. Alternatively, (1/2)*(1/2) + (sqrt(3)/2)*(sqrt(3)/2) = 1/4 + 3/4 = 1."
+  },
+  {
+    "year": 2023,
+    "id": 76,
+    "question": "A point P is on a bearing of 060 degrees from Q. What is the bearing of Q from P?",
+    "options": {
+      "A": "120 degrees",
+      "B": "150 degrees",
+      "C": "240 degrees",
+      "D": "300 degrees"
+    },
+    "answer": "C",
+    "explanation": "The back bearing is obtained by adding 180 degrees to bearings less than 180 degrees: 060 + 180 = 240 degrees."
+  },
+  {
+    "year": 2023,
+    "id": 77,
+    "question": "Find the median of the following frequency distribution: values (1, 2, 3, 4, 5) with frequencies (3, 5, 6, 4, 2) respectively.",
+    "options": {
+      "A": "2",
+      "B": "2.5",
+      "C": "3",
+      "D": "3.5"
+    },
+    "answer": "C",
+    "explanation": "Total frequency N = 3 + 5 + 6 + 4 + 2 = 20. Cumulative frequencies are 3, 8, 14, 18, 20. The 10th and 11th items fall in the value 3, so median = 3."
+  },
+  {
+    "year": 2023,
+    "id": 78,
+    "question": "In how many distinct ways can the letters of the word 'MEMBER' be arranged?",
+    "options": {
+      "A": "120",
+      "B": "180",
+      "C": "360",
+      "D": "720"
+    },
+    "answer": "B",
+    "explanation": "The word MEMBER has 6 letters with 2 M's and 2 E's. Permutations = 6! / (2! * 2!) = 720 / (2 * 2) = 720 / 4 = 180."
+  },
+  {
+    "year": 2023,
+    "id": 79,
+    "question": "Differentiate y = (x + 1) / (x - 1) with respect to x.",
+    "options": {
+      "A": "2 / (x - 1)^2",
+      "B": "-2 / (x - 1)^2",
+      "C": "2x / (x - 1)^2",
+      "D": "-2 / (x + 1)^2"
+    },
+    "answer": "B",
+    "explanation": "Using the quotient rule: dy/dx = [(x - 1)(1) - (x + 1)(1)] / (x - 1)^2 = (x - 1 - x - 1) / (x - 1)^2 = -2 / (x - 1)^2."
+  },
+  {
+    "year": 2023,
+    "id": 80,
+    "question": "Find the area bounded by the curve y = 2x, the x-axis, and the vertical lines x = 1 and x = 4.",
+    "options": {
+      "A": "12",
+      "B": "15",
+      "C": "16",
+      "D": "20"
+    },
+    "answer": "B",
+    "explanation": "Area = integral from 1 to 4 of 2x dx = [x^2] from 1 to 4 = 4^2 - 1^2 = 16 - 1 = 15 square units."
+  },
+  {
+    "year": 2024,
+    "id": 81,
+    "question": "Find the value of the base p if 110_p = 30_10.",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "B",
+    "explanation": "110_p = 1*p^2 + 1*p + 0 = 30 => p^2 + p - 30 = 0 => (p + 6)(p - 5) = 0. Since base must be a positive integer, p = 5."
+  },
+  {
+    "year": 2024,
+    "id": 82,
+    "question": "Solve for x: 2^(x - 1) + 2^(x + 1) = 40.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "B",
+    "explanation": "2^x * (1/2) + 2^x * 2 = 40 => 2^x * (5/2) = 40 => 2^x = 40 * (2/5) = 16. Since 16 = 2^4, x = 4."
+  },
+  {
+    "year": 2024,
+    "id": 83,
+    "question": "Solve for x in the equation: log_10(x^2 - 3x + 12) = 1.",
+    "options": {
+      "A": "1 or 2",
+      "B": "-1 or -2",
+      "C": "2 or 3",
+      "D": "-1 or 2"
+    },
+    "answer": "A",
+    "explanation": "x^2 - 3x + 12 = 10^1 = 10 => x^2 - 3x + 2 = 0 => (x - 1)(x - 2) = 0 => x = 1 or x = 2."
+  },
+  {
+    "year": 2024,
+    "id": 84,
+    "question": "Rationalize the denominator and simplify: (sqrt(5) + sqrt(3)) / (sqrt(5) - sqrt(3)).",
+    "options": {
+      "A": "4 + sqrt(15)",
+      "B": "4 - sqrt(15)",
+      "C": "8 + 2*sqrt(15)",
+      "D": "2 + sqrt(15)"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerator and denominator by (sqrt(5) + sqrt(3)): Numerator = (sqrt(5) + sqrt(3))^2 = 5 + 3 + 2*sqrt(15) = 8 + 2*sqrt(15). Denominator = (sqrt(5))^2 - (sqrt(3))^2 = 5 - 3 = 2. Dividing gives 4 + sqrt(15)."
+  },
+  {
+    "year": 2024,
+    "id": 85,
+    "question": "In a survey of 50 students, 30 study Biology, 28 study Chemistry, and 10 study neither. How many students study both subjects?",
+    "options": {
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "20"
+    },
+    "answer": "C",
+    "explanation": "Total = n(B) + n(C) - n(B and C) + n(neither) => 50 = 30 + 28 - x + 10 => 50 = 68 - x => x = 18."
+  },
+  {
+    "year": 2024,
+    "id": 86,
+    "question": "Form the quadratic equation whose roots are 2/3 and -1/2.",
+    "options": {
+      "A": "6x^2 + x - 2 = 0",
+      "B": "6x^2 - x - 2 = 0",
+      "C": "6x^2 - x + 2 = 0",
+      "D": "3x^2 - x - 2 = 0"
+    },
+    "answer": "B",
+    "explanation": "Sum of roots = 2/3 + (-1/2) = 1/6. Product of roots = (2/3) * (-1/2) = -1/3. Equation is x^2 - (1/6)x - 1/3 = 0. Multiplying through by 6 gives 6x^2 - x - 2 = 0."
+  },
+  {
+    "year": 2024,
+    "id": 87,
+    "question": "When the polynomial f(x) = x^3 + 2x^2 - ax + 4 is divided by (x + 2), the remainder is 6. Find the value of a.",
+    "options": {
+      "A": "-1",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "B",
+    "explanation": "f(-2) = 6 => (-2)^3 + 2(-2)^2 - a(-2) + 4 = 6 => -8 + 8 + 2a + 4 = 6 => 2a + 4 = 6 => 2a = 2 => a = 1."
+  },
+  {
+    "year": 2024,
+    "id": 88,
+    "question": "The sum to infinity of a geometric progression is 27 and its first term is 18. Find the common ratio.",
+    "options": {
+      "A": "1/3",
+      "B": "2/3",
+      "C": "1/2",
+      "D": "3/4"
+    },
+    "answer": "A",
+    "explanation": "S = a / (1 - r) => 27 = 18 / (1 - r) => 1 - r = 18 / 27 = 2/3 => r = 1 - 2/3 = 1/3."
+  },
+  {
+    "year": 2024,
+    "id": 89,
+    "question": "Find the inverse of the matrix M = [[4, 3], [1, 1]].",
+    "options": {
+      "A": "[[1, -3], [-1, 4]]",
+      "B": "[[1, 3], [1, 4]]",
+      "C": "[[-1, 3], [1, -4]]",
+      "D": "[[4, -3], [-1, 1]]"
+    },
+    "answer": "A",
+    "explanation": "det(M) = (4 * 1) - (3 * 1) = 4 - 3 = 1. The adjoint matrix is obtained by swapping diagonal elements and negating off-diagonal elements: [[1, -3], [-1, 4]]. Inverse = (1/1) * [[1, -3], [-1, 4]] = [[1, -3], [-1, 4]]."
+  },
+  {
+    "year": 2024,
+    "id": 90,
+    "question": "A binary operation * is defined on the set of real numbers by a * b = a*b + a + b. Solve for x in the equation 3 * x = 23.",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "B",
+    "explanation": "3 * x = 3*x + 3 + x = 4x + 3. 4x + 3 = 23 => 4x = 20 => x = 5."
+  },
+  {
+    "year": 2024,
+    "id": 91,
+    "question": "The point P(x, 4) is equidistant from the origin (0, 0) and the point Q(8, 0). Find the value of x.",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "B",
+    "explanation": "OP^2 = x^2 + 4^2 = x^2 + 16. PQ^2 = (x - 8)^2 + 4^2 = x^2 - 16x + 64 + 16 = x^2 - 16x + 80. Equating: x^2 + 16 = x^2 - 16x + 80 => 16x = 64 => x = 4."
+  },
+  {
+    "year": 2024,
+    "id": 92,
+    "question": "A tangent is drawn from an external point T to a circle of radius 5 cm. If the distance from T to the center of the circle is 13 cm, find the length of the tangent.",
+    "options": {
+      "A": "10 cm",
+      "B": "12 cm",
+      "C": "14 cm",
+      "D": "16 cm"
+    },
+    "answer": "B",
+    "explanation": "The radius to the point of contact is perpendicular to the tangent. By Pythagoras: length = sqrt(13^2 - 5^2) = sqrt(169 - 25) = sqrt(144) = 12 cm."
+  },
+  {
+    "year": 2024,
+    "id": 93,
+    "question": "The curved surface area of a cylinder of height 14 cm is 352 cm^2. Find its radius. (Take pi = 22/7)",
+    "options": {
+      "A": "3 cm",
+      "B": "4 cm",
+      "C": "7 cm",
+      "D": "8 cm"
+    },
+    "answer": "B",
+    "explanation": "Curved surface area = 2 * pi * r * h => 352 = 2 * (22/7) * r * 14 => 352 = 88 * r => r = 352 / 88 = 4 cm."
+  },
+  {
+    "year": 2024,
+    "id": 94,
+    "question": "The interior angles of a triangle are in the ratio 2 : 3 : 5. Find the measure of the largest angle.",
+    "options": {
+      "A": "36 degrees",
+      "B": "54 degrees",
+      "C": "72 degrees",
+      "D": "90 degrees"
+    },
+    "answer": "D",
+    "explanation": "Total ratio = 2 + 3 + 5 = 10. The sum of angles in a triangle is 180 degrees. The largest angle = (5 / 10) * 180 = 90 degrees."
+  },
+  {
+    "year": 2024,
+    "id": 95,
+    "question": "If sin(theta) = 5/13 and theta is acute, find the value of tan(theta).",
+    "options": {
+      "A": "5/12",
+      "B": "12/5",
+      "C": "12/13",
+      "D": "5/13"
+    },
+    "answer": "A",
+    "explanation": "Opposite = 5, Hypotenuse = 13 => Adjacent = sqrt(13^2 - 5^2) = sqrt(144) = 12. Hence tan(theta) = Opposite / Adjacent = 5/12."
+  },
+  {
+    "year": 2024,
+    "id": 96,
+    "question": "In triangle PQR, p = 8 cm, q = 10 cm, and sin(P) = 0.4. Find sin(Q).",
+    "options": {
+      "A": "0.25",
+      "B": "0.32",
+      "C": "0.5",
+      "D": "0.8"
+    },
+    "answer": "C",
+    "explanation": "By the Sine Rule: p / sin(P) = q / sin(Q) => 8 / 0.4 = 10 / sin(Q) => 20 = 10 / sin(Q) => sin(Q) = 10 / 20 = 0.5."
+  },
+  {
+    "year": 2024,
+    "id": 97,
+    "question": "If P(A) = 1/3 and P(B) = 1/4, and events A and B are independent, find P(A union B).",
+    "options": {
+      "A": "5/12",
+      "B": "1/2",
+      "C": "7/12",
+      "D": "2/3"
+    },
+    "answer": "B",
+    "explanation": "Since A and B are independent, P(A intersect B) = P(A) * P(B) = (1/3) * (1/4) = 1/12. P(A union B) = P(A) + P(B) - P(A intersect B) = 1/3 + 1/4 - 1/12 = 4/12 + 3/12 - 1/12 = 6/12 = 1/2."
+  },
+  {
+    "year": 2024,
+    "id": 98,
+    "question": "The mean of five numbers is 10. If four of the numbers are 6, 8, 12, and 14, find the fifth number.",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "answer": "B",
+    "explanation": "Total sum = 5 * 10 = 50. Sum of the known four numbers = 6 + 8 + 12 + 14 = 40. Fifth number = 50 - 40 = 10."
+  },
+  {
+    "year": 2024,
+    "id": 99,
+    "question": "Find the coordinates of the turning point of the curve y = 2x^2 - 8x + 3.",
+    "options": {
+      "A": "(2, -5)",
+      "B": "(-2, -5)",
+      "C": "(2, 5)",
+      "D": "(4, 3)"
+    },
+    "answer": "A",
+    "explanation": "dy/dx = 4x - 8 = 0 => 4x = 8 => x = 2. When x = 2, y = 2(2)^2 - 8(2) + 3 = 8 - 16 + 3 = -5. The turning point is (2, -5)."
+  },
+  {
+    "year": 2024,
+    "id": 100,
+    "question": "Evaluate the definite integral of 4x^3 with respect to x from x = 1 to x = 3.",
+    "options": {
+      "A": "26",
+      "B": "54",
+      "C": "80",
+      "D": "81"
+    },
+    "answer": "C",
+    "explanation": "Integral = [x^4] from 1 to 3 = 3^4 - 1^4 = 81 - 1 = 80."
+  }
+]
